@@ -1,0 +1,1426 @@
+{
+    "chunks": [
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 0.0,
+            "end": 5.88,
+            "text": "Hello, welcome to the video lecture series of optical communication."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 5.88,
+            "end": 13.120000000000001,
+            "text": "The subject code is REC 075 and here we are in lecture number 1."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 13.120000000000001,
+            "end": 18.16,
+            "text": "So what we have discussed in the previous lecture, in the previous lecture we talked"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 18.16,
+            "end": 23.68,
+            "text": "about what is the prescribed syllabus and the respective course outcome, what you will"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 23.68,
+            "end": 27.44,
+            "text": "learn after going through the complete subject."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 27.44,
+            "end": 34.0,
+            "text": "Now in this lecture we are going to start what is the basic optical communication system."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 34.0,
+            "end": 37.52,
+            "text": "What we will study in this is called general system."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 37.52,
+            "end": 44.8,
+            "text": "What is the general system that we use for optical fiber or optical communication."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 44.8,
+            "end": 47.64,
+            "text": "So let us talk about optical communication."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 47.64,
+            "end": 49.52,
+            "text": "Now what is optical communication?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 49.52,
+            "end": 50.52,
+            "text": "What is optical communication?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 50.52,
+            "end": 56.040000000000006,
+            "text": "Now if I remove the word optical from the red, then you have read about communication."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 56.04,
+            "end": 59.839999999999996,
+            "text": "You have read about analog communication, about digital communication."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 59.839999999999996,
+            "end": 60.839999999999996,
+            "text": "So we know that is communication."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 60.839999999999996,
+            "end": 65.84,
+            "text": "And if I forget about the simple, so if I talk about communication, then what is required"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 65.84,
+            "end": 66.84,
+            "text": "in communication?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 66.84,
+            "end": 70.96,
+            "text": "In communication, I require what is the input signal, then this input signal is transferred"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 70.96,
+            "end": 71.96,
+            "text": "over the channel."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 71.96,
+            "end": 76.68,
+            "text": "Then this input signal is transferred over the channel and this is the output."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 76.68,
+            "end": 82.32,
+            "text": "We sometimes call input as source, from where we are sending, this is the source and generator"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 82.32,
+            "end": 91.32,
+            "text": "is the channel and through this channel, the signal is generated via source and this"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 91.32,
+            "end": 93.39999999999999,
+            "text": "will be transferred to the receiver."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 93.39999999999999,
+            "end": 96.32,
+            "text": "The output end is called receiver."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 96.32,
+            "end": 98.52,
+            "text": "So this is the basic communication system."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 98.52,
+            "end": 103.6,
+            "text": "Now if I talk about the same communication system, then what is communication system"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 103.6,
+            "end": 104.6,
+            "text": "in general?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 104.6,
+            "end": 108.72,
+            "text": "That is similar to our basic concept to any type of communication system."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 108.72,
+            "end": 113.56,
+            "text": "If you talk about optical communication, then this is similar to basic concept to"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 113.56,
+            "end": 115.56,
+            "text": "any type of communication system."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 115.56,
+            "end": 118.2,
+            "text": "Now what is the definition of communication system?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 118.2,
+            "end": 124.28,
+            "text": "The main function is to convey the signal from the information source over the transmission"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 124.28,
+            "end": 126.92,
+            "text": "medium to the destination."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 126.92,
+            "end": 134.8,
+            "text": "From information source to destination, we have to convey our signal and over the transmission"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 134.8,
+            "end": 135.8,
+            "text": "medium."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 135.88000000000002,
+            "end": 146.88000000000002,
+            "text": "Like this time, I am the generator, I am the source and you are the receiver and we are"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 146.88000000000002,
+            "end": 153.88000000000002,
+            "text": "using a medium online through which I am talking to you and you are listening."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 153.88000000000002,
+            "end": 155.88000000000002,
+            "text": "So that is called basically communication."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 155.88000000000002,
+            "end": 162.88000000000002,
+            "text": "Now if I use the word optical, then if I represent a basic communication system, then how is"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 162.96,
+            "end": 163.96,
+            "text": "basic communication represented?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 163.96,
+            "end": 168.96,
+            "text": "One is called the information source from where the actual physical signal is generated."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 168.96,
+            "end": 174.96,
+            "text": "One is called the destination where the actual receiver receives the signal and this is the"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 174.96,
+            "end": 176.96,
+            "text": "transmission medium communication system."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 176.96,
+            "end": 180.96,
+            "text": "One is called the transmitter and this is also called the modulator."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 180.96,
+            "end": 182.96,
+            "text": "What is a modulator?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 182.96,
+            "end": 184.96,
+            "text": "Why is a modulator required?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 184.96,
+            "end": 186.96,
+            "text": "Can anyone tell me?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 186.96,
+            "end": 188.96,
+            "text": "Do you remember?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 189.04000000000002,
+            "end": 196.04000000000002,
+            "text": "Modulator is used when the information source is in a very low amplitude and there is a"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 196.04000000000002,
+            "end": 198.04000000000002,
+            "text": "very high light signal."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 198.04000000000002,
+            "end": 204.04000000000002,
+            "text": "So we modulate the frequency and amplitude of the information source so that our signal"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 204.04000000000002,
+            "end": 211.04000000000002,
+            "text": "is generated for this particular medium and it can be propagated over this medium."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 211.04000000000002,
+            "end": 217.04000000000002,
+            "text": "For example, if I speak very slowly, then my voice will not reach you."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 217.12,
+            "end": 222.12,
+            "text": "So that means if I put an amplifier or a modulator in front of my voice, then it will increase"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 222.12,
+            "end": 228.12,
+            "text": "my voice so that when the voice is transferred to the medium, then this medium itself has"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 228.12,
+            "end": 229.12,
+            "text": "losses."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 229.12,
+            "end": 232.12,
+            "text": "All you have to know is what happens in the medium, there are losses."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 232.12,
+            "end": 240.12,
+            "text": "So if we do not modulate, then our original signal will be lost very quickly without using"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 240.12,
+            "end": 242.12,
+            "text": "the modulator."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 242.12,
+            "end": 245.12,
+            "text": "So that's why we prefer modulation."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 245.20000000000002,
+            "end": 252.20000000000002,
+            "text": "Then we transfer it to the medium and when we reach the receiver end, then we put a"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 252.20000000000002,
+            "end": 254.20000000000002,
+            "text": "demodulator on the receiver."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 254.20000000000002,
+            "end": 260.2,
+            "text": "That means the modulated signal will be demodulated and after demodulation, we will get the original"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 260.2,
+            "end": 261.2,
+            "text": "signal back."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 261.2,
+            "end": 266.2,
+            "text": "That original signal is given to our receiver."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 266.2,
+            "end": 272.2,
+            "text": "So this is basically called a basic communication system where there is an information source,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 272.28,
+            "end": 276.28,
+            "text": "a transmitter, this is your modulator part, then your signal is transferred through the"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 276.28,
+            "end": 282.28,
+            "text": "medium, then at the time of receiver, this is receiver demodulator which will give the"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 282.28,
+            "end": 285.28,
+            "text": "original signal to your receiver."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 285.28,
+            "end": 288.28,
+            "text": "So this is a basic communication system."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 288.28,
+            "end": 292.28,
+            "text": "Now if I am talking about optical, then what changes will happen in optical?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 292.28,
+            "end": 296.28,
+            "text": "Now this modulator is changed."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 296.35999999999996,
+            "end": 302.35999999999996,
+            "text": "Now I have to bring something here which will convert my electrical signal into optical"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 302.35999999999996,
+            "end": 303.35999999999996,
+            "text": "signal."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 303.35999999999996,
+            "end": 309.35999999999996,
+            "text": "I have to bring electrical to optical conversion."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 309.35999999999996,
+            "end": 315.35999999999996,
+            "text": "Because this medium will convert into optical fiber."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 315.35999999999996,
+            "end": 320.35999999999996,
+            "text": "So optical fiber, because it passes on the optic rays, I have to put electrical to optical"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 320.35999999999996,
+            "end": 321.35999999999996,
+            "text": "conversion."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 321.44,
+            "end": 326.44,
+            "text": "Similarly, modulator will be left, along with electrical to optical conversion."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 326.44,
+            "end": 332.44,
+            "text": "Similarly, when we reach the receiver end, I need demodulator, but before that I have"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 332.44,
+            "end": 342.44,
+            "text": "to put a system which converts your optical signal into electrical signal."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 342.44,
+            "end": 344.44,
+            "text": "Optical to electrical conversion."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 344.44,
+            "end": 347.44,
+            "text": "So what will be our system?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 347.44,
+            "end": 350.44,
+            "text": "We will call it optical communication system."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 350.52,
+            "end": 353.52,
+            "text": "So let's see what changes will happen in the block diagram."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 353.52,
+            "end": 355.52,
+            "text": "So here, this is your basic block diagram."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 355.52,
+            "end": 359.52,
+            "text": "Information source, transmitter, transmission medium, receiver, and destination."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 359.52,
+            "end": 364.52,
+            "text": "Now if I want to convert this into optical, then there is no change in the information"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 364.52,
+            "end": 366.52,
+            "text": "source and destination."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 366.52,
+            "end": 370.52,
+            "text": "Now as I said, this transmitter modulator is converted into two stages."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 370.52,
+            "end": 372.52,
+            "text": "Basically what are the two stages?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 372.52,
+            "end": 376.52,
+            "text": "One is called electric transmit."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 376.59999999999997,
+            "end": 380.59999999999997,
+            "text": "And the other is called modulator."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 380.59999999999997,
+            "end": 383.59999999999997,
+            "text": "And this is the optical source."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 383.59999999999997,
+            "end": 386.59999999999997,
+            "text": "This is the optical source which you will read in detail."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 386.59999999999997,
+            "end": 392.59999999999997,
+            "text": "But here, just to remember as a function, this converts your electrical signal to optical"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 392.59999999999997,
+            "end": 393.59999999999997,
+            "text": "signal."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 393.59999999999997,
+            "end": 398.59999999999997,
+            "text": "Optical source converts electrical to optical signal."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 398.59999999999997,
+            "end": 401.59999999999997,
+            "text": "And what are the examples of optical source?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 401.68,
+            "end": 408.68,
+            "text": "We will study LED, laser, these types of optical sources we studied in unit number 3."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 408.68,
+            "end": 411.68,
+            "text": "As I told you in lecture 0, introduction."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 411.68,
+            "end": 415.68,
+            "text": "Similarly, if you look at receiver cut point,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 415.68,
+            "end": 417.68,
+            "text": "Now, what is the second one?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 417.68,
+            "end": 419.68,
+            "text": "Transmission medium."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 419.68,
+            "end": 421.68,
+            "text": "So what is the replacement of transmission medium?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 421.68,
+            "end": 425.68,
+            "text": "Transmission medium is replaced by optical fiber cable."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 425.68,
+            "end": 427.68,
+            "text": "Now this is optical fiber cable."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 427.76,
+            "end": 429.76,
+            "text": "You will read in detail in unit number 2,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 429.76,
+            "end": 432.76,
+            "text": "that what are the optical fibers and losses in optical fibers."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 432.76,
+            "end": 434.76,
+            "text": "So this is my transmission medium."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 434.76,
+            "end": 436.76,
+            "text": "That is optical fiber."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 436.76,
+            "end": 438.76,
+            "text": "That's why I required optical source."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 438.76,
+            "end": 441.76,
+            "text": "Because optical fiber can only transfer optic rays."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 441.76,
+            "end": 444.76,
+            "text": "That's why I had to convert electrical to optical."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 444.76,
+            "end": 447.76,
+            "text": "So from here, you will be transmitted through optical fiber."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 447.76,
+            "end": 450.76,
+            "text": "Then you will be an optical detector."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 450.76,
+            "end": 454.76,
+            "text": "Now optical detector just performs the opposite operation of optical source."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 454.84,
+            "end": 456.84,
+            "text": "What did optical source do?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 456.84,
+            "end": 458.84,
+            "text": "Electrical to optical."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 458.84,
+            "end": 460.84,
+            "text": "Optical to optical conversion."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 460.84,
+            "end": 462.84,
+            "text": "And what will it do?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 462.84,
+            "end": 464.84,
+            "text": "Optical to electrical conversion."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 464.84,
+            "end": 468.84,
+            "text": "It means it converts optical signal back to electrical signal."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 468.84,
+            "end": 470.84,
+            "text": "Optical detector."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 470.84,
+            "end": 472.84,
+            "text": "Here we will study PIN, photo detector,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 472.84,
+            "end": 476.84,
+            "text": "There are different types of optical detectors that you will study in unit number 4."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 478.84,
+            "end": 480.84,
+            "text": "After that, there is electrical receive."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 480.84,
+            "end": 483.84,
+            "text": "Now this will perform a function of demodulator."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 483.91999999999996,
+            "end": 486.91999999999996,
+            "text": "So this will perform the function of demodulation."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 486.91999999999996,
+            "end": 490.91999999999996,
+            "text": "This will demodulate the electrical signal that has been converted."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 490.91999999999996,
+            "end": 494.91999999999996,
+            "text": "And then it will give to the destination part that is our receiver."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 495.91999999999996,
+            "end": 499.91999999999996,
+            "text": "So if I talk about the working of all these,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 499.91999999999996,
+            "end": 501.91999999999996,
+            "text": "The working of a single line,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 501.91999999999996,
+            "end": 503.91999999999996,
+            "text": "Like if I talk about information source,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 503.91999999999996,
+            "end": 505.91999999999996,
+            "text": "So what is the functioning of information source?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 505.91999999999996,
+            "end": 510.91999999999996,
+            "text": "Information source provides an electrical signal to the transmitter for transmission."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 511.0,
+            "end": 512.0,
+            "text": "Right?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 512.0,
+            "end": 518.0,
+            "text": "Information source will give me an electrical signal or physical signal."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 518.0,
+            "end": 522.0,
+            "text": "That is given electrical signal to the transmitter for transmission."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 522.0,
+            "end": 524.0,
+            "text": "That what signal I have to transmit."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 524.0,
+            "end": 528.0,
+            "text": "Then if we talk about the transmission stage,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 528.0,
+            "end": 530.0,
+            "text": "Transmitter stage, and it will convert it into two parts."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 530.0,
+            "end": 532.0,
+            "text": "One is called electric transmit,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 532.0,
+            "end": 534.0,
+            "text": "One is called optical source."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 534.0,
+            "end": 536.0,
+            "text": "So what is the function of electric transmit?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 536.0,
+            "end": 539.0,
+            "text": "This is an electrical stage which drives an optical source"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 539.08,
+            "end": 541.08,
+            "text": "to give modulation of the light wave carrier."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 541.08,
+            "end": 544.08,
+            "text": "So this will simply perform the functioning of modulation."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 544.08,
+            "end": 547.08,
+            "text": "This works to do the modulation of electrical signal."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 547.08,
+            "end": 549.08,
+            "text": "And when the signal is modulated,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 549.08,
+            "end": 551.08,
+            "text": "Then it will apply to the optical source."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 551.08,
+            "end": 556.08,
+            "text": "The optical source which is used to convert the electrical signal to optical signal,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 556.08,
+            "end": 558.08,
+            "text": "This is the main function of your optical source,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 558.08,
+            "end": 561.08,
+            "text": "Electrical to optical signal conversion."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 561.08,
+            "end": 564.08,
+            "text": "This may be either a semiconductor laser or LED,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 564.08,
+            "end": 566.08,
+            "text": "Which we will study in detail."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 566.1600000000001,
+            "end": 569.1600000000001,
+            "text": "But here I just need one line definition"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 569.1600000000001,
+            "end": 574.1600000000001,
+            "text": "That all the representation we have done in this block,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 574.1600000000001,
+            "end": 577.1600000000001,
+            "text": "What is the basic working of each and every block?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 577.1600000000001,
+            "end": 578.1600000000001,
+            "text": "Okay?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 578.1600000000001,
+            "end": 581.1600000000001,
+            "text": "So next thing was transmission medium."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 581.1600000000001,
+            "end": 583.1600000000001,
+            "text": "What does the transmission medium do?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 583.1600000000001,
+            "end": 585.1600000000001,
+            "text": "The medium consists of an optical fiber cable,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 585.1600000000001,
+            "end": 588.1600000000001,
+            "text": "Which transmits the optical signal to the receiver."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 588.1600000000001,
+            "end": 590.1600000000001,
+            "text": "Then similarly the receiver stage,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 590.1600000000001,
+            "end": 592.1600000000001,
+            "text": "Receiver stage again based on two parts,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 592.1600000000001,
+            "end": 593.1600000000001,
+            "text": "One is called the optical detector,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 593.1600000000001,
+            "end": 595.1600000000001,
+            "text": "One is called the electrical receive."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 595.24,
+            "end": 597.24,
+            "text": "What does the optical detector do?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 597.24,
+            "end": 601.24,
+            "text": "Optical detector is used to convert the optical signal to electrical signal."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 601.24,
+            "end": 604.24,
+            "text": "Just opposite from your optical source."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 604.24,
+            "end": 607.24,
+            "text": "Like photodiodes, we have pin diode, PI diode,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 607.24,
+            "end": 608.24,
+            "text": "Or avalanche photodiodes,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 608.24,
+            "end": 609.24,
+            "text": "Photoconductors are there,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 609.24,
+            "end": 611.24,
+            "text": "Phototransistors are there,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 611.24,
+            "end": 613.24,
+            "text": "Are utilized for the detection of the optical signals,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 613.24,
+            "end": 616.24,
+            "text": "And the optical electrical conversion."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 616.24,
+            "end": 617.24,
+            "text": "Okay?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 617.24,
+            "end": 619.24,
+            "text": "Then there is the electrical receive."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 619.24,
+            "end": 622.24,
+            "text": "This is an electrical stage which drives by an optical detector"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 622.32,
+            "end": 626.32,
+            "text": "To give demodulation of the optical carrier signal."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 626.32,
+            "end": 627.32,
+            "text": "Okay?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 627.32,
+            "end": 628.32,
+            "text": "So, in a way,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 628.32,
+            "end": 631.32,
+            "text": "Demodulation will be done by electrical receive."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 631.32,
+            "end": 633.32,
+            "text": "That's why I told you,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 633.32,
+            "end": 636.32,
+            "text": "You have to remember the function of each line from the block diagram,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 636.32,
+            "end": 639.32,
+            "text": "Which stage has which function."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 639.32,
+            "end": 642.32,
+            "text": "So, after seeing this lecture,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 642.32,
+            "end": 644.32,
+            "text": "You will understand very well,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 644.32,
+            "end": 647.32,
+            "text": "What is the optical communication system?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 647.32,
+            "end": 649.32,
+            "text": "How are the blocks installed in it?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 649.4000000000001,
+            "end": 652.4000000000001,
+            "text": "And what is the working of each block and each component?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 652.4000000000001,
+            "end": 653.4000000000001,
+            "text": "Okay?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 653.4000000000001,
+            "end": 656.4000000000001,
+            "text": "Now, you can again see the video."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 656.4000000000001,
+            "end": 658.4000000000001,
+            "text": "You can watch the video again."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 658.4000000000001,
+            "end": 659.4000000000001,
+            "text": "And if you like it,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 659.4000000000001,
+            "end": 661.4000000000001,
+            "text": "Then, please subscribe to my channel."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 661.4000000000001,
+            "end": 665.4000000000001,
+            "text": "So that you will get the information about the upcoming videos."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 665.4000000000001,
+            "end": 666.4000000000001,
+            "text": "Okay?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 666.4000000000001,
+            "end": 667.4000000000001,
+            "text": "Thank you."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 667.4000000000001,
+            "end": 668.4000000000001,
+            "text": "So, let's meet in the next lecture,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 668.4000000000001,
+            "end": 671.4000000000001,
+            "text": "Where we will talk about the advantages of optical fiber communication."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 671.4000000000001,
+            "end": 672.4000000000001,
+            "text": "Okay."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 672.4000000000001,
+            "end": 673.4000000000001,
+            "text": "Thank you."
+        }
+    ],
+    "text": " Hello, welcome to the video lecture series of optical communication. The subject code is REC 075 and here we are in lecture number 1. So what we have discussed in the previous lecture, in the previous lecture we talked about what is the prescribed syllabus and the respective course outcome, what you will learn after going through the complete subject. Now in this lecture we are going to start what is the basic optical communication system. What we will study in this is called general system. What is the general system that we use for optical fiber or optical communication. So let us talk about optical communication. Now what is optical communication? What is optical communication? Now if I remove the word optical from the red, then you have read about communication. You have read about analog communication, about digital communication. So we know that is communication. And if I forget about the simple, so if I talk about communication, then what is required in communication? In communication, I require what is the input signal, then this input signal is transferred over the channel. Then this input signal is transferred over the channel and this is the output. We sometimes call input as source, from where we are sending, this is the source and generator is the channel and through this channel, the signal is generated via source and this will be transferred to the receiver. The output end is called receiver. So this is the basic communication system. Now if I talk about the same communication system, then what is communication system in general? That is similar to our basic concept to any type of communication system. If you talk about optical communication, then this is similar to basic concept to any type of communication system. Now what is the definition of communication system? The main function is to convey the signal from the information source over the transmission medium to the destination. From information source to destination, we have to convey our signal and over the transmission medium. Like this time, I am the generator, I am the source and you are the receiver and we are using a medium online through which I am talking to you and you are listening. So that is called basically communication. Now if I use the word optical, then if I represent a basic communication system, then how is basic communication represented? One is called the information source from where the actual physical signal is generated. One is called the destination where the actual receiver receives the signal and this is the transmission medium communication system. One is called the transmitter and this is also called the modulator. What is a modulator? Why is a modulator required? Can anyone tell me? Do you remember? Modulator is used when the information source is in a very low amplitude and there is a very high light signal. So we modulate the frequency and amplitude of the information source so that our signal is generated for this particular medium and it can be propagated over this medium. For example, if I speak very slowly, then my voice will not reach you. So that means if I put an amplifier or a modulator in front of my voice, then it will increase my voice so that when the voice is transferred to the medium, then this medium itself has losses. All you have to know is what happens in the medium, there are losses. So if we do not modulate, then our original signal will be lost very quickly without using the modulator. So that's why we prefer modulation. Then we transfer it to the medium and when we reach the receiver end, then we put a demodulator on the receiver. That means the modulated signal will be demodulated and after demodulation, we will get the original signal back. That original signal is given to our receiver. So this is basically called a basic communication system where there is an information source, a transmitter, this is your modulator part, then your signal is transferred through the medium, then at the time of receiver, this is receiver demodulator which will give the original signal to your receiver. So this is a basic communication system. Now if I am talking about optical, then what changes will happen in optical? Now this modulator is changed. Now I have to bring something here which will convert my electrical signal into optical signal. I have to bring electrical to optical conversion. Because this medium will convert into optical fiber. So optical fiber, because it passes on the optic rays, I have to put electrical to optical conversion. Similarly, modulator will be left, along with electrical to optical conversion. Similarly, when we reach the receiver end, I need demodulator, but before that I have to put a system which converts your optical signal into electrical signal. Optical to electrical conversion. So what will be our system? We will call it optical communication system. So let's see what changes will happen in the block diagram. So here, this is your basic block diagram. Information source, transmitter, transmission medium, receiver, and destination. Now if I want to convert this into optical, then there is no change in the information source and destination. Now as I said, this transmitter modulator is converted into two stages. Basically what are the two stages? One is called electric transmit. And the other is called modulator. And this is the optical source. This is the optical source which you will read in detail. But here, just to remember as a function, this converts your electrical signal to optical signal. Optical source converts electrical to optical signal. And what are the examples of optical source? We will study LED, laser, these types of optical sources we studied in unit number 3. As I told you in lecture 0, introduction. Similarly, if you look at receiver cut point, Now, what is the second one? Transmission medium. So what is the replacement of transmission medium? Transmission medium is replaced by optical fiber cable. Now this is optical fiber cable. You will read in detail in unit number 2, that what are the optical fibers and losses in optical fibers. So this is my transmission medium. That is optical fiber. That's why I required optical source. Because optical fiber can only transfer optic rays. That's why I had to convert electrical to optical. So from here, you will be transmitted through optical fiber. Then you will be an optical detector. Now optical detector just performs the opposite operation of optical source. What did optical source do? Electrical to optical. Optical to optical conversion. And what will it do? Optical to electrical conversion. It means it converts optical signal back to electrical signal. Optical detector. Here we will study PIN, photo detector, There are different types of optical detectors that you will study in unit number 4. After that, there is electrical receive. Now this will perform a function of demodulator. So this will perform the function of demodulation. This will demodulate the electrical signal that has been converted. And then it will give to the destination part that is our receiver. So if I talk about the working of all these, The working of a single line, Like if I talk about information source, So what is the functioning of information source? Information source provides an electrical signal to the transmitter for transmission. Right? Information source will give me an electrical signal or physical signal. That is given electrical signal to the transmitter for transmission. That what signal I have to transmit. Then if we talk about the transmission stage, Transmitter stage, and it will convert it into two parts. One is called electric transmit, One is called optical source. So what is the function of electric transmit? This is an electrical stage which drives an optical source to give modulation of the light wave carrier. So this will simply perform the functioning of modulation. This works to do the modulation of electrical signal. And when the signal is modulated, Then it will apply to the optical source. The optical source which is used to convert the electrical signal to optical signal, This is the main function of your optical source, Electrical to optical signal conversion. This may be either a semiconductor laser or LED, Which we will study in detail. But here I just need one line definition That all the representation we have done in this block, What is the basic working of each and every block? Okay? So next thing was transmission medium. What does the transmission medium do? The medium consists of an optical fiber cable, Which transmits the optical signal to the receiver. Then similarly the receiver stage, Receiver stage again based on two parts, One is called the optical detector, One is called the electrical receive. What does the optical detector do? Optical detector is used to convert the optical signal to electrical signal. Just opposite from your optical source. Like photodiodes, we have pin diode, PI diode, Or avalanche photodiodes, Photoconductors are there, Phototransistors are there, Are utilized for the detection of the optical signals, And the optical electrical conversion. Okay? Then there is the electrical receive. This is an electrical stage which drives by an optical detector To give demodulation of the optical carrier signal. Okay? So, in a way, Demodulation will be done by electrical receive. That's why I told you, You have to remember the function of each line from the block diagram, Which stage has which function. So, after seeing this lecture, You will understand very well, What is the optical communication system? How are the blocks installed in it? And what is the working of each block and each component? Okay? Now, you can again see the video. You can watch the video again. And if you like it, Then, please subscribe to my channel. So that you will get the information about the upcoming videos. Okay? Thank you. So, let's meet in the next lecture, Where we will talk about the advantages of optical fiber communication. Okay. Thank you."
+}

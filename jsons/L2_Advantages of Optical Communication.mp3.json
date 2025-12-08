@@ -1,0 +1,1041 @@
+{
+    "chunks": [
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 0.0,
+            "end": 5.0,
+            "text": "Hello all. Welcome to the video lecture series of optical communication."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 5.0,
+            "end": 11.0,
+            "text": "Subject code is RCO75, and here we are in lecture number 2."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 11.0,
+            "end": 15.0,
+            "text": "So, what did we discuss in the previous lecture?"
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 15.0,
+            "end": 19.0,
+            "text": "In the previous lecture we discussed regarding what is optical communication,"
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 19.0,
+            "end": 23.0,
+            "text": "and what are the basic components of optical fiber communication."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 23.0,
+            "end": 29.0,
+            "text": "Or if I talk, then simply we have studied a block diagram of which components are available to us in optical communication."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 29.0,
+            "end": 35.0,
+            "text": "Like there is a transmitter, then there is a medium and then there is a receiver as an optical detector."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 35.0,
+            "end": 41.0,
+            "text": "Ok? Now we will discuss here what are the advantages of our optical fiber communication."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 41.0,
+            "end": 45.0,
+            "text": "That what are the advantages of the optical fiber communication that we are using,"
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 45.0,
+            "end": 49.0,
+            "text": "what are the advantages of the optical communication that we are talking about."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 49.0,
+            "end": 53.0,
+            "text": "And the second thing that we are going to discuss in this lecture is this optical spectral band."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 53.0,
+            "end": 58.0,
+            "text": "Ok? Which band or which wavelength is used for optical fiber communication?"
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 58.0,
+            "end": 62.0,
+            "text": "What are the different types of spectral bands used in case of optical communication?"
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 62.0,
+            "end": 68.0,
+            "text": "Ok? So let's start with the advantages of optical fiber communication."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 68.0,
+            "end": 74.0,
+            "text": "So as we read, the first advantage is enormous potential bandwidth."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 74.0,
+            "end": 80.0,
+            "text": "Enormous potential bandwidth means, if you remember, we have a formula that is lambda equals c f."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 80.0,
+            "end": 84.0,
+            "text": "If I calculate from here, what will be the frequency?"
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 84.0,
+            "end": 88.0,
+            "text": "If I calculate from here, what will be the frequency? That is c, lambda."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 88.0,
+            "end": 92.0,
+            "text": "Ok? So now if I talk about light wave, what is the velocity of light?"
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 92.0,
+            "end": 95.0,
+            "text": "The velocity of light is 310 power 8. Ok?"
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 95.0,
+            "end": 101.0,
+            "text": "Now if we talk about wavelength here, then if we talk about optical fiber, it is very thin."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 101.0,
+            "end": 109.0,
+            "text": "So if we take its wavelength, this is in some terms of micrometer and nanometer means multiply by 10 to the power minus 9 something."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 109.0,
+            "end": 113.0,
+            "text": "So if this minus 9 of yours goes upwards, then ultimately what will happen?"
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 113.0,
+            "end": 116.0,
+            "text": "10 to the power 17. Right?"
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 116.0,
+            "end": 122.0,
+            "text": "So the wavelength of optical is very less and our light velocity is very high."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 122.0,
+            "end": 126.0,
+            "text": "That means we get one advantage. What is that advantage?"
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 126.0,
+            "end": 132.0,
+            "text": "The optical carrier frequency in the range of 10 to the power 13 to 10 to the power 16 hertz."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 132.0,
+            "end": 136.0,
+            "text": "Our optical fiber can produce such a higher frequency."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 136.0,
+            "end": 144.0,
+            "text": "So this much optical frequency reads a far greater potential transmission bandwidth as compared to the metallic cables."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 144.0,
+            "end": 149.0,
+            "text": "Our magwidth is provided much more as compared to our metallic cables."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 149.0,
+            "end": 153.0,
+            "text": "This is one of the advantages of your optical fiber."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 153.0,
+            "end": 157.0,
+            "text": "Then the next advantage is smaller size and weight."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 157.0,
+            "end": 161.0,
+            "text": "As we know the size of optical fiber is very small."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 161.0,
+            "end": 166.0,
+            "text": "It is very thin. And if you talk about its weight, then it is too lightweight."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 166.0,
+            "end": 176.0,
+            "text": "So if I talk about a heavy bulky wire cable, if we talk about Modedge cable, then this is also a heavy in weight and also like there are so much thick."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 176.0,
+            "end": 182.0,
+            "text": "So as compared to those wire cables, our optical fiber is very low weight and small size."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 182.0,
+            "end": 189.0,
+            "text": "Okay, so the first advantage is higher frequency or potential bandwidth and the second one is the smaller size and weight."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 189.0,
+            "end": 194.0,
+            "text": "Similarly, the third one is signal security. Now the number third is signal security."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 194.0,
+            "end": 200.0,
+            "text": "Now you will read further that basically communication in optical fiber is based on reflection of reflection."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 200.0,
+            "end": 204.0,
+            "text": "Total internal reflection condition which you are going to read further."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 204.0,
+            "end": 211.0,
+            "text": "So if I talk about optical fiber, what do we call it? Whether it is a cable, metallic or fiber."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 211.0,
+            "end": 217.0,
+            "text": "So when light propagates from here, then some of the source will be reflected out from this wire."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 217.0,
+            "end": 225.0,
+            "text": "Okay, but what happens in optical fiber? Optical fiber does not radiate significantly and they provide a high degree of signal security."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 225.0,
+            "end": 234.0,
+            "text": "Means inside optical fiber you will see when we further study ray theory light theory then in that you will see that the radiation that happens here is very negligible."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 234.0,
+            "end": 238.0,
+            "text": "So that is also the advantage of our optical fiber."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 238.0,
+            "end": 241.0,
+            "text": "Similarly next is low cost."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 241.0,
+            "end": 251.0,
+            "text": "If I am getting these advantages of high frequency and all these things, if I look at this advantage point in my metallic wire, then your cost will be very high there."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 251.0,
+            "end": 257.0,
+            "text": "But in comparison with the copper conductor optical fibers offer the low cost line communication."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 257.0,
+            "end": 265.0,
+            "text": "If I am communicating through a line, one means one point to another point, I want to communicate and I will provide a length of wire line wire."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 265.0,
+            "end": 271.0,
+            "text": "Okay, so their optical fiber gives me a very low cost as compared to the normal wire."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 271.0,
+            "end": 274.0,
+            "text": "Then another advantage is low transmission loss."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 274.0,
+            "end": 277.0,
+            "text": "Transmission loss. Now we will discuss the loss in detail."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 277.0,
+            "end": 286.0,
+            "text": "But if I talk about the loss here, as I just told in the reflection here that suppose here some source, some wave is being transmitted here and here it is being received."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 286.0,
+            "end": 288.0,
+            "text": "This is the receiver end."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 288.0,
+            "end": 294.0,
+            "text": "Okay, so if we are talking about what we are saying here, like we make a call on the telephone."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 294.0,
+            "end": 297.0,
+            "text": "One person is speaking and another person is listening."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 297.0,
+            "end": 300.0,
+            "text": "One person is speaking and another person is listening."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 300.0,
+            "end": 302.0,
+            "text": "Okay, so what will happen?"
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 302.0,
+            "end": 306.0,
+            "text": "If what I am saying here, you can hear it completely."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 306.0,
+            "end": 310.0,
+            "text": "No, there is some loss somewhere or the other in it."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 310.0,
+            "end": 314.0,
+            "text": "So if we are transmitting our signal using optical fiber."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 314.0,
+            "end": 319.0,
+            "text": "So this will provide a low transmission loss as compared to what?"
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 319.0,
+            "end": 321.0,
+            "text": "As compared to what?"
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 321.0,
+            "end": 324.0,
+            "text": "As compared to our automatic wires."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 324.0,
+            "end": 326.0,
+            "text": "With which we are comparing here."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 326.0,
+            "end": 333.0,
+            "text": "So what is written here is that optical fiber has been fabricated with losses as low as 2 decibels per kilometer."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 333.0,
+            "end": 339.0,
+            "text": "That means now you will understand this is dB decimal unit for the measurement of loss."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 339.0,
+            "end": 346.0,
+            "text": "And per kilometer means when our signal travels 1 kilometer, then there is a downfall of 2 decibels in its magnitude."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 346.0,
+            "end": 349.0,
+            "text": "So this is a major advantage."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 349.0,
+            "end": 353.0,
+            "text": "This is a major advantage in case of optical fiber communication."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 353.0,
+            "end": 356.0,
+            "text": "And the last one which I have discussed here."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 356.0,
+            "end": 358.0,
+            "text": "Apart from this there are many more."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 358.0,
+            "end": 362.0,
+            "text": "Apart from this you can see there are so many advantages of our optical fiber."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 362.0,
+            "end": 367.0,
+            "text": "But here I have discussed the advantages only as much as we could attempt in the question."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 367.0,
+            "end": 370.0,
+            "text": "So this is the last one electrical insulation."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 370.0,
+            "end": 374.0,
+            "text": "Like optical fibers are fabricated from glass and plastic polymer."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 374.0,
+            "end": 378.0,
+            "text": "Glass and plastic polymer which are electrical insulators."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 378.0,
+            "end": 382.0,
+            "text": "So generally our fibers are either made of glass or plastic."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 382.0,
+            "end": 388.0,
+            "text": "So that is why we do not get any electrical shock there which we face in our mechanical wires."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 388.0,
+            "end": 390.0,
+            "text": "Ok?"
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 390.0,
+            "end": 393.0,
+            "text": "So these are the advantages of our optical fibers."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 393.0,
+            "end": 395.0,
+            "text": "What are the advantages I discuss?"
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 395.0,
+            "end": 399.0,
+            "text": "I discuss the first thing is your higher potential bandwidth."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 399.0,
+            "end": 401.0,
+            "text": "Ok? Potential bandwidth."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 401.0,
+            "end": 403.0,
+            "text": "You can remember from high bandwidth."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 404.0,
+            "end": 407.0,
+            "text": "Then what we discuss then we will discuss small size and weight."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 407.0,
+            "end": 410.0,
+            "text": "So we have talked about small size and weight."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 410.0,
+            "end": 412.0,
+            "text": "Then we should have signal security."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 412.0,
+            "end": 414.0,
+            "text": "The signal remains secure."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 414.0,
+            "end": 419.0,
+            "text": "There is low cost, low transmission loss and electrical insulation."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 419.0,
+            "end": 422.0,
+            "text": "So these are the advantages of our optical fiber."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 422.0,
+            "end": 423.0,
+            "text": "Ok?"
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 423.0,
+            "end": 427.0,
+            "text": "Now the next topic is optical spectral band."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 427.0,
+            "end": 432.0,
+            "text": "So, means which spectral band do we use for our optical communication?"
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 432.0,
+            "end": 438.0,
+            "text": "So if I talk about ITU, that is International Telecommunication Union, that is ITU."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 438.0,
+            "end": 444.0,
+            "text": "So ITU has designated 6 spectral bands for use in optical fiber communication."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 444.0,
+            "end": 450.0,
+            "text": "From the range that is 126 nanometer to 1675 nanometer region."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 450.0,
+            "end": 452.0,
+            "text": "This is what? This is the wavelength."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 452.0,
+            "end": 459.0,
+            "text": "Within this wavelength, your optical fiber communication is designated by the International Telecommunication Union."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 459.0,
+            "end": 461.0,
+            "text": "That is called ITU."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 461.0,
+            "end": 462.0,
+            "text": "Ok."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 462.0,
+            "end": 470.0,
+            "text": "Now this complete spectral band of 1260 nanometer to 1675 nanometer is further divided into 6 spectral bands."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 470.0,
+            "end": 473.0,
+            "text": "As it is written here 6 spectral bands."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 473.0,
+            "end": 475.0,
+            "text": "So what are those spectral bands?"
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 475.0,
+            "end": 479.0,
+            "text": "These spectral bands are O, E, S, C, L, U."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 479.0,
+            "end": 482.0,
+            "text": "If you want to remember in short then OESCLU."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 482.0,
+            "end": 483.0,
+            "text": "Ok."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 483.0,
+            "end": 485.0,
+            "text": "These are the spectral bands OESCLU."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 485.0,
+            "end": 486.0,
+            "text": "Ok."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 487.0,
+            "end": 494.0,
+            "text": "Then here the range is specified that if I talk of O then O stands for original band and its ranges are 1260 to 1360."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 494.0,
+            "end": 499.0,
+            "text": "That means this band of yours works within 100 nanometer wavelength."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 499.0,
+            "end": 506.0,
+            "text": "So 1260 to 1360 then after that our E is called extended band which extends only a part of O."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 506.0,
+            "end": 509.0,
+            "text": "Your light wave can propagate in this also."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 509.0,
+            "end": 515.0,
+            "text": "That is again a 100 nanometer wavelength that is from starting from 1360 up to 1460."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 515.0,
+            "end": 517.0,
+            "text": "Then there is a short band."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 517.0,
+            "end": 519.0,
+            "text": "The next one is the short band."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 519.0,
+            "end": 520.0,
+            "text": "S means short."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 520.0,
+            "end": 524.0,
+            "text": "So short band is ranges from 1460 to 1530 nm range."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 524.0,
+            "end": 532.0,
+            "text": "After that is a conventional band mostly used for the optical fiber communication that is 1530 to 1565 that is called C band."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 533.0,
+            "end": 542.0,
+            "text": "Then a long band ranges from 1565 to 1625 and then there is ultra-long band known as starting from 1625 to 1675."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 542.0,
+            "end": 551.0,
+            "text": "So if you are getting a question that how to define the optical spectral band or what are the different bands used for optical communication."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 552.0,
+            "end": 562.0,
+            "text": "So we have write these 6 specified bands that is OSCLU-OSCLU starting from 1260 nm to 1675 nm range."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 565.0,
+            "end": 566.0,
+            "text": "Ok."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 566.0,
+            "end": 569.0,
+            "text": "So now now we can say that we are covering 2 questions here."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 569.0,
+            "end": 572.0,
+            "text": "One is the main question which we discussed in the last class."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 572.0,
+            "end": 575.0,
+            "text": "This is the optical communication basic block diagram."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 575.0,
+            "end": 578.0,
+            "text": "Many a times this question arises and you have to know the basic thing."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 578.0,
+            "end": 582.0,
+            "text": "That basic diagram is what you have to use for the entire optical communication."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 582.0,
+            "end": 585.0,
+            "text": "And similarly the next thing what are the advantages."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 585.0,
+            "end": 588.0,
+            "text": "What we discussed here is what is the advantage of optical fiber."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 588.0,
+            "end": 591.0,
+            "text": "And the next thing is what is the optical spectral band."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 591.0,
+            "end": 595.0,
+            "text": "So after this you can easily write this to the question."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 595.0,
+            "end": 603.0,
+            "text": "What are the advantages of optical fiber communication and what type of bandwidth or what different bands are used for our optical communication."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 603.0,
+            "end": 604.0,
+            "text": "Ok."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 604.0,
+            "end": 606.0,
+            "text": "So we will discuss in the next lecture."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 607.0,
+            "end": 608.0,
+            "text": "Here our topic ends."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 608.0,
+            "end": 610.0,
+            "text": "In the next lecture we will start."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 610.0,
+            "end": 612.0,
+            "text": "This is optical waveguide."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 612.0,
+            "end": 613.0,
+            "text": "Ok."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 613.0,
+            "end": 614.0,
+            "text": "Optical waveguide."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 614.0,
+            "end": 620.0,
+            "text": "Here you have read waveguide earlier also but we will talk about optical waveguide and then how communication happens in it."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 620.0,
+            "end": 623.0,
+            "text": "What is our total internal reflection theory."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 623.0,
+            "end": 624.0,
+            "text": "We will talk about it."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 624.0,
+            "end": 625.0,
+            "text": "Ok."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 625.0,
+            "end": 631.0,
+            "text": "So stay tuned till then watch this video again so that if you have any doubts you can clear them with me."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 632.0,
+            "end": 633.0,
+            "text": "See you in the next lecture."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 633.0,
+            "end": 634.0,
+            "text": "Ok."
+        },
+        {
+            "number": "L2",
+            "title": "Advantages of Optical Communication",
+            "start": 634.0,
+            "end": 635.0,
+            "text": "Thank you."
+        }
+    ],
+    "text": " Hello all. Welcome to the video lecture series of optical communication. Subject code is RCO75, and here we are in lecture number 2. So, what did we discuss in the previous lecture? In the previous lecture we discussed regarding what is optical communication, and what are the basic components of optical fiber communication. Or if I talk, then simply we have studied a block diagram of which components are available to us in optical communication. Like there is a transmitter, then there is a medium and then there is a receiver as an optical detector. Ok? Now we will discuss here what are the advantages of our optical fiber communication. That what are the advantages of the optical fiber communication that we are using, what are the advantages of the optical communication that we are talking about. And the second thing that we are going to discuss in this lecture is this optical spectral band. Ok? Which band or which wavelength is used for optical fiber communication? What are the different types of spectral bands used in case of optical communication? Ok? So let's start with the advantages of optical fiber communication. So as we read, the first advantage is enormous potential bandwidth. Enormous potential bandwidth means, if you remember, we have a formula that is lambda equals c f. If I calculate from here, what will be the frequency? If I calculate from here, what will be the frequency? That is c, lambda. Ok? So now if I talk about light wave, what is the velocity of light? The velocity of light is 310 power 8. Ok? Now if we talk about wavelength here, then if we talk about optical fiber, it is very thin. So if we take its wavelength, this is in some terms of micrometer and nanometer means multiply by 10 to the power minus 9 something. So if this minus 9 of yours goes upwards, then ultimately what will happen? 10 to the power 17. Right? So the wavelength of optical is very less and our light velocity is very high. That means we get one advantage. What is that advantage? The optical carrier frequency in the range of 10 to the power 13 to 10 to the power 16 hertz. Our optical fiber can produce such a higher frequency. So this much optical frequency reads a far greater potential transmission bandwidth as compared to the metallic cables. Our magwidth is provided much more as compared to our metallic cables. This is one of the advantages of your optical fiber. Then the next advantage is smaller size and weight. As we know the size of optical fiber is very small. It is very thin. And if you talk about its weight, then it is too lightweight. So if I talk about a heavy bulky wire cable, if we talk about Modedge cable, then this is also a heavy in weight and also like there are so much thick. So as compared to those wire cables, our optical fiber is very low weight and small size. Okay, so the first advantage is higher frequency or potential bandwidth and the second one is the smaller size and weight. Similarly, the third one is signal security. Now the number third is signal security. Now you will read further that basically communication in optical fiber is based on reflection of reflection. Total internal reflection condition which you are going to read further. So if I talk about optical fiber, what do we call it? Whether it is a cable, metallic or fiber. So when light propagates from here, then some of the source will be reflected out from this wire. Okay, but what happens in optical fiber? Optical fiber does not radiate significantly and they provide a high degree of signal security. Means inside optical fiber you will see when we further study ray theory light theory then in that you will see that the radiation that happens here is very negligible. So that is also the advantage of our optical fiber. Similarly next is low cost. If I am getting these advantages of high frequency and all these things, if I look at this advantage point in my metallic wire, then your cost will be very high there. But in comparison with the copper conductor optical fibers offer the low cost line communication. If I am communicating through a line, one means one point to another point, I want to communicate and I will provide a length of wire line wire. Okay, so their optical fiber gives me a very low cost as compared to the normal wire. Then another advantage is low transmission loss. Transmission loss. Now we will discuss the loss in detail. But if I talk about the loss here, as I just told in the reflection here that suppose here some source, some wave is being transmitted here and here it is being received. This is the receiver end. Okay, so if we are talking about what we are saying here, like we make a call on the telephone. One person is speaking and another person is listening. One person is speaking and another person is listening. Okay, so what will happen? If what I am saying here, you can hear it completely. No, there is some loss somewhere or the other in it. So if we are transmitting our signal using optical fiber. So this will provide a low transmission loss as compared to what? As compared to what? As compared to our automatic wires. With which we are comparing here. So what is written here is that optical fiber has been fabricated with losses as low as 2 decibels per kilometer. That means now you will understand this is dB decimal unit for the measurement of loss. And per kilometer means when our signal travels 1 kilometer, then there is a downfall of 2 decibels in its magnitude. So this is a major advantage. This is a major advantage in case of optical fiber communication. And the last one which I have discussed here. Apart from this there are many more. Apart from this you can see there are so many advantages of our optical fiber. But here I have discussed the advantages only as much as we could attempt in the question. So this is the last one electrical insulation. Like optical fibers are fabricated from glass and plastic polymer. Glass and plastic polymer which are electrical insulators. So generally our fibers are either made of glass or plastic. So that is why we do not get any electrical shock there which we face in our mechanical wires. Ok? So these are the advantages of our optical fibers. What are the advantages I discuss? I discuss the first thing is your higher potential bandwidth. Ok? Potential bandwidth. You can remember from high bandwidth. Then what we discuss then we will discuss small size and weight. So we have talked about small size and weight. Then we should have signal security. The signal remains secure. There is low cost, low transmission loss and electrical insulation. So these are the advantages of our optical fiber. Ok? Now the next topic is optical spectral band. So, means which spectral band do we use for our optical communication? So if I talk about ITU, that is International Telecommunication Union, that is ITU. So ITU has designated 6 spectral bands for use in optical fiber communication. From the range that is 126 nanometer to 1675 nanometer region. This is what? This is the wavelength. Within this wavelength, your optical fiber communication is designated by the International Telecommunication Union. That is called ITU. Ok. Now this complete spectral band of 1260 nanometer to 1675 nanometer is further divided into 6 spectral bands. As it is written here 6 spectral bands. So what are those spectral bands? These spectral bands are O, E, S, C, L, U. If you want to remember in short then OESCLU. Ok. These are the spectral bands OESCLU. Ok. Then here the range is specified that if I talk of O then O stands for original band and its ranges are 1260 to 1360. That means this band of yours works within 100 nanometer wavelength. So 1260 to 1360 then after that our E is called extended band which extends only a part of O. Your light wave can propagate in this also. That is again a 100 nanometer wavelength that is from starting from 1360 up to 1460. Then there is a short band. The next one is the short band. S means short. So short band is ranges from 1460 to 1530 nm range. After that is a conventional band mostly used for the optical fiber communication that is 1530 to 1565 that is called C band. Then a long band ranges from 1565 to 1625 and then there is ultra-long band known as starting from 1625 to 1675. So if you are getting a question that how to define the optical spectral band or what are the different bands used for optical communication. So we have write these 6 specified bands that is OSCLU-OSCLU starting from 1260 nm to 1675 nm range. Ok. So now now we can say that we are covering 2 questions here. One is the main question which we discussed in the last class. This is the optical communication basic block diagram. Many a times this question arises and you have to know the basic thing. That basic diagram is what you have to use for the entire optical communication. And similarly the next thing what are the advantages. What we discussed here is what is the advantage of optical fiber. And the next thing is what is the optical spectral band. So after this you can easily write this to the question. What are the advantages of optical fiber communication and what type of bandwidth or what different bands are used for our optical communication. Ok. So we will discuss in the next lecture. Here our topic ends. In the next lecture we will start. This is optical waveguide. Ok. Optical waveguide. Here you have read waveguide earlier also but we will talk about optical waveguide and then how communication happens in it. What is our total internal reflection theory. We will talk about it. Ok. So stay tuned till then watch this video again so that if you have any doubts you can clear them with me. See you in the next lecture. Ok. Thank you."
+}

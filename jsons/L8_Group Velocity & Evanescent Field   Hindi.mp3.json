@@ -1,0 +1,1559 @@
+{
+    "chunks": [
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 0.0,
+            "end": 9.68,
+            "text": "Hello all, welcome to the video lecture series of optical communication."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 9.68,
+            "end": 16.32,
+            "text": "Subject code is REC 075 and here we are in lecture number 8."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 16.32,
+            "end": 22.2,
+            "text": "So what we have covered in the previous lecture, so we are talking about basically electromagnetic"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 22.2,
+            "end": 26.0,
+            "text": "wave theory, EM theory inside your optical waveguide."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 26.0,
+            "end": 32.76,
+            "text": "In which we have discussed about EM wave, then we have discussed about the modes, modes"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 32.76,
+            "end": 36.92,
+            "text": "in a planar waveguide, which we have discussed in the last lecture like M is equal to 0,"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 36.92,
+            "end": 41.44,
+            "text": "that means what will happen at T0, what will happen at T1, what will happen at T2, what"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 41.44,
+            "end": 44.120000000000005,
+            "text": "will happen at T3, there are different types of modes."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 44.120000000000005,
+            "end": 50.400000000000006,
+            "text": "That depends upon the reflection between the phase change between the two points, between"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 50.400000000000006,
+            "end": 52.72,
+            "text": "the successive two reflections."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 52.72,
+            "end": 57.32,
+            "text": "And then we have discussed about the phase velocity, that is the velocity of your light"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 57.32,
+            "end": 61.44,
+            "text": "ray inside the optical fiber."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 61.44,
+            "end": 65.76,
+            "text": "Now in this lecture what we are going to discuss, the another main topic we have is your group"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 65.76,
+            "end": 71.56,
+            "text": "velocity and the next one is the evanescence field."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 71.56,
+            "end": 74.4,
+            "text": "So let's start, first of all group velocity."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 74.4,
+            "end": 79.28,
+            "text": "So as you must have read group velocity earlier, what was group velocity, phase velocity?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 79.28,
+            "end": 83.36,
+            "text": "The velocity of the wave inside your optical fiber."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 83.36,
+            "end": 84.36,
+            "text": "What is group velocity?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 84.36,
+            "end": 89.76,
+            "text": "The velocity when the wave travels, what will it get after that?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 89.76,
+            "end": 91.76,
+            "text": "Phase change of 2pi by lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 91.76,
+            "end": 96.44,
+            "text": "If we get a complete phase change of 2pi radian, where the phase change is obtained, that velocity"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 96.44,
+            "end": 99.96000000000001,
+            "text": "is called group velocity."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 99.96000000000001,
+            "end": 104.08,
+            "text": "So if I have to derive the formula of group velocity, if you remember, like we have seen"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 104.08,
+            "end": 109.75999999999999,
+            "text": "the vp, vp is omega by beta, so vg is d omega by d beta."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 109.75999999999999,
+            "end": 111.75999999999999,
+            "text": "So vg is equal to d omega by d beta."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 111.75999999999999,
+            "end": 116.96,
+            "text": "The same formula is here, group velocity vg is defined as d omega by d beta."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 116.96,
+            "end": 119.16,
+            "text": "Now what can I write d omega by d beta?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 119.16,
+            "end": 124.84,
+            "text": "I can divide and multiply both the sides by d lambda and d lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 124.84,
+            "end": 129.2,
+            "text": "So this will become d lambda by d beta and d omega by d lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 129.2,
+            "end": 131.04,
+            "text": "So we will solve both of them separately."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 131.04,
+            "end": 137.6,
+            "text": "Then we get the final value of the group velocity."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 137.6,
+            "end": 141.16,
+            "text": "So let us first see d lambda by d omega by d lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 141.16,
+            "end": 144.84,
+            "text": "So as we know that lambda is equal to what?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 144.84,
+            "end": 146.64,
+            "text": "Lambda is equal to c by f."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 146.64,
+            "end": 149.44,
+            "text": "What is the value of lambda?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 149.44,
+            "end": 150.44,
+            "text": "c by f."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 150.44,
+            "end": 153.44,
+            "text": "So if I solve f from here, what will be the value of f?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 153.44,
+            "end": 154.84,
+            "text": "c by lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 154.84,
+            "end": 160.56,
+            "text": "Now if you multiply both the sides by 2pi f, multiply 2pi here and multiply 2pi here"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 161.08,
+            "end": 162.08,
+            "text": "So what is this term?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 162.08,
+            "end": 163.08,
+            "text": "Omega."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 163.08,
+            "end": 169.36,
+            "text": "So this becomes omega is equal to 2pi c by lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 169.36,
+            "end": 170.36,
+            "text": "So what did I do?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 170.36,
+            "end": 174.16,
+            "text": "I started with lambda because we know that lambda is equal to c by f."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 174.16,
+            "end": 178.36,
+            "text": "So I took out the value of f from here and in that f, we have taken the value of omega"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 178.36,
+            "end": 179.8,
+            "text": "which is 2pi f."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 179.8,
+            "end": 187.96,
+            "text": "So you can directly say that omega is related to your lambda and given as 2pi c by lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 187.96,
+            "end": 189.72,
+            "text": "Now what did I have to calculate?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 189.72,
+            "end": 192.52,
+            "text": "I had to calculate d omega by d lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 192.52,
+            "end": 196.68,
+            "text": "So now I will differentiate this function omega in terms of lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 196.68,
+            "end": 198.4,
+            "text": "So what will be d omega by d lambda?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 198.4,
+            "end": 200.32,
+            "text": "This 2pi c is a constant term."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 200.32,
+            "end": 201.8,
+            "text": "And what will be 1 by lambda?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 201.8,
+            "end": 205.04,
+            "text": "1 by lambda will be lambda to the power minus 1."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 205.04,
+            "end": 208.84,
+            "text": "If you differentiate this, then minus 1 lambda to the power minus 2."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 208.84,
+            "end": 212.28,
+            "text": "That means minus 1 by lambda square."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 212.28,
+            "end": 215.4,
+            "text": "So we will get 2pi c by lambda square."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 215.4,
+            "end": 220.8,
+            "text": "Now if we write this c again from this formula that c is equal to lambda f."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 220.8,
+            "end": 224.24,
+            "text": "So if you convert lambda f here, then 1 lambda will be cut from 1 lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 224.24,
+            "end": 226.24,
+            "text": "And this will again become 2pi f."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 226.24,
+            "end": 228.32,
+            "text": "So 2pi f is again omega."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 228.32,
+            "end": 234.16,
+            "text": "So ultimately if I talk, then the value of d omega by d lambda will be equal to minus"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 234.16,
+            "end": 235.16,
+            "text": "omega by lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 235.16,
+            "end": 236.16,
+            "text": "Got it?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 236.16,
+            "end": 237.16,
+            "text": "Solve it?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 237.16,
+            "end": 242.24,
+            "text": "So the value of d omega by d lambda that we had to keep here, we will keep here minus"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 242.24,
+            "end": 244.48000000000002,
+            "text": "omega by lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 244.56,
+            "end": 247.56,
+            "text": "Now similarly, the second value that I have to calculate, I have to do it by differentiating"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 247.56,
+            "end": 250.56,
+            "text": "lambda in terms of beta."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 250.56,
+            "end": 254.56,
+            "text": "So we saw in the first lecture that what was the formula for beta?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 254.56,
+            "end": 257.56,
+            "text": "Beta is equal to n1 2pi by lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 257.56,
+            "end": 262.56,
+            "text": "Now if we solve d beta by d lambda from here, then what we will do later?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 262.56,
+            "end": 263.56,
+            "text": "d lambda by d beta."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 263.56,
+            "end": 264.56,
+            "text": "That means we will inverse it."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 264.56,
+            "end": 268.56,
+            "text": "So we differentiate d beta in terms of lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 268.56,
+            "end": 269.56,
+            "text": "So let's do it."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 269.56,
+            "end": 272.56,
+            "text": "Now this is, now see here n1 is there."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 272.64,
+            "end": 277.64,
+            "text": "2pi is a constant term, but there is a term n1 and there is a term lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 277.64,
+            "end": 279.64,
+            "text": "Now we are differentiating in terms of lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 279.64,
+            "end": 283.64,
+            "text": "If you remember, I had told you one thing in the last lecture, when the wave comes under"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 283.64,
+            "end": 289.64,
+            "text": "the waveguide, then its refractive index is decreased by a factor lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 289.64,
+            "end": 291.64,
+            "text": "That means whose function is refractive index?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 291.64,
+            "end": 292.64,
+            "text": "It depends on lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 292.64,
+            "end": 294.64,
+            "text": "That means it is decremented by lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 294.64,
+            "end": 299.64,
+            "text": "So here we consider n1 as dependent on wavelength."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 299.64,
+            "end": 300.64,
+            "text": "Okay?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 300.71999999999997,
+            "end": 303.71999999999997,
+            "text": "So that's why we say refractive index is a function of lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 303.71999999999997,
+            "end": 304.71999999999997,
+            "text": "Okay?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 305.71999999999997,
+            "end": 312.71999999999997,
+            "text": "Now the second thing, so when you differentiate here, then here n1, we have constant here."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 312.71999999999997,
+            "end": 316.71999999999997,
+            "text": "If we differentiate according to lambda, then it becomes minus 2pi by lambda square."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 316.71999999999997,
+            "end": 318.71999999999997,
+            "text": "Because 2pi is a constant."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 318.71999999999997,
+            "end": 321.71999999999997,
+            "text": "And we saw what is the differentiation of 1 by lambda?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 321.71999999999997,
+            "end": 323.71999999999997,
+            "text": "Minus 1 by lambda square."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 323.71999999999997,
+            "end": 328.71999999999997,
+            "text": "So this term remains constant n1 and the second term becomes minus 2pi by lambda square."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 328.8,
+            "end": 333.8,
+            "text": "Now plus, if you see in the first term, this is n1, so this becomes dn1 by d lambda and"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 333.8,
+            "end": 335.8,
+            "text": "2pi by lambda is constant."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 336.8,
+            "end": 342.8,
+            "text": "Now if from this complete term, 2pi by lambda square is made common with minus, then here"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 342.8,
+            "end": 345.8,
+            "text": "you will have n1 and because it was positive here, it will become negative."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 345.8,
+            "end": 349.8,
+            "text": "If you have taken lambda square as common, then here it is lambda, so above it is lambda"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 349.8,
+            "end": 351.8,
+            "text": "multiplied and dn1 by d lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 351.88,
+            "end": 360.88,
+            "text": "Now this term n1 minus lambda dn1 by d lambda is called, is represent ng."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 360.88,
+            "end": 361.88,
+            "text": "Ng is what?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 361.88,
+            "end": 363.88,
+            "text": "Ng is basically called group index."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 364.88,
+            "end": 369.88,
+            "text": "Where ng is called n1 minus lambda dn1 by d lambda is called group index."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 369.88,
+            "end": 370.88,
+            "text": "Okay?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 371.88,
+            "end": 375.88,
+            "text": "So now we have a value of d beta by d lambda that is equal to minus 2pi by lambda square"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 375.88,
+            "end": 376.88,
+            "text": "ng."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 376.96,
+            "end": 381.96,
+            "text": "Now if I was talking about this, I wanted group velocity, so group velocity is equal"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 381.96,
+            "end": 386.96,
+            "text": "to vg is equal to d omega by d beta that can be written as d lambda by d beta multiplied"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 386.96,
+            "end": 388.96,
+            "text": "d omega by d lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 388.96,
+            "end": 391.96,
+            "text": "So that d lambda by d lambda is crossing and what will be left?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 391.96,
+            "end": 393.96,
+            "text": "d omega by d beta."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 394.96,
+            "end": 400.96,
+            "text": "So vg becomes, now I have put the value here, d lambda by d beta, we also solved, we solved"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 401.03999999999996,
+            "end": 407.03999999999996,
+            "text": "d beta by d lambda, d beta by d lambda is equal to minus 2pi by lambda square ng."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 407.03999999999996,
+            "end": 413.03999999999996,
+            "text": "So you reverse it, so it becomes minus lambda square divided by 2pi by 2pi into ng."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 413.03999999999996,
+            "end": 417.03999999999996,
+            "text": "And d omega by d lambda we solved, minus omega by lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 417.03999999999996,
+            "end": 421.03999999999996,
+            "text": "So minus will become minus plus, one lambda will cancel one lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 421.03999999999996,
+            "end": 428.03999999999996,
+            "text": "And if you write omega here, omega is equal to 2pi f, so from here f, sorry, 2pi will"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 428.03999999999996,
+            "end": 429.03999999999996,
+            "text": "cancel out."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 429.12,
+            "end": 431.12,
+            "text": "So what will be left?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 431.12,
+            "end": 433.12,
+            "text": "f lambda divided by ng."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 433.12,
+            "end": 436.12,
+            "text": "And again f lambda is equal to c."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 436.12,
+            "end": 440.12,
+            "text": "So ultimately vg becomes c by ng."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 440.12,
+            "end": 445.12,
+            "text": "That means vg, the group velocity, in light velocity, what factor is it divided by?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 445.12,
+            "end": 446.12,
+            "text": "It is divided by ng."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 446.12,
+            "end": 449.12,
+            "text": "If you remember the phase velocity, what did we have?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 449.12,
+            "end": 451.12,
+            "text": "c by n1."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 451.12,
+            "end": 457.12,
+            "text": "That means our light velocity depends upon the factor, decrease, the velocity inside"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 457.2,
+            "end": 460.2,
+            "text": "the fiber, decrease by a factor n1."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 460.2,
+            "end": 466.2,
+            "text": "Okay, so these are the two important values, that is your phase velocity and group velocity"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 466.2,
+            "end": 469.2,
+            "text": "with respect to your optical waveguide."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 469.2,
+            "end": 471.2,
+            "text": "So group velocity is completed."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 471.2,
+            "end": 474.2,
+            "text": "After this, now the topic we have to discuss is, this is evidence field."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 474.2,
+            "end": 478.2,
+            "text": "But before that, I am again recalling the same diagram here."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 478.2,
+            "end": 481.2,
+            "text": "That first of all, this is our interface."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 481.2,
+            "end": 485.2,
+            "text": "This part is your core with a refractive index of m1."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 485.28,
+            "end": 488.28,
+            "text": "And this part is your cladding with a refractive index of n2."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 488.28,
+            "end": 492.28,
+            "text": "So there is a wave vector occurs, that is your incident wave,"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 492.28,
+            "end": 497.28,
+            "text": "represented by a, that is given by a0 exponential minus j beta x1x"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 497.28,
+            "end": 500.28,
+            "text": "exponential j omega t minus beta z."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 500.28,
+            "end": 502.28,
+            "text": "Now this is called propagation factor."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 502.28,
+            "end": 504.28,
+            "text": "We are assuming that where is the wave propagating?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 504.28,
+            "end": 506.28,
+            "text": "In z direction."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 506.28,
+            "end": 511.28,
+            "text": "And this is called the exponential minus j beta 1x, that is your attenuation factor."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 511.35999999999996,
+            "end": 514.36,
+            "text": "Okay, which I have shown there, e to the power minus alpha z."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 514.36,
+            "end": 517.36,
+            "text": "So the same x component is available here."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 517.36,
+            "end": 522.36,
+            "text": "Similarly, one is your transmitted wave."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 522.36,
+            "end": 524.36,
+            "text": "So this is represented by b0."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 524.36,
+            "end": 526.36,
+            "text": "This is your transmitted wave b0."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 526.36,
+            "end": 528.36,
+            "text": "So equation of b0 is also written in similar form."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 528.36,
+            "end": 530.36,
+            "text": "And similarly, there is a reflected ray."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 530.36,
+            "end": 532.36,
+            "text": "This is your c."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 532.36,
+            "end": 534.36,
+            "text": "Because as we have seen earlier,"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 534.36,
+            "end": 539.36,
+            "text": "when any incident ray comes on optical fiber,"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 539.44,
+            "end": 544.44,
+            "text": "then some part is reflected and some part is reflected back again into the same medium."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 544.44,
+            "end": 547.44,
+            "text": "So now from this theory,"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 547.44,
+            "end": 551.44,
+            "text": "if we say before the critical angle for total internal deflection is reached,"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 551.44,
+            "end": 555.44,
+            "text": "we have already studied the theory that what is the condition of total internal deflection?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 555.44,
+            "end": 559.44,
+            "text": "That the incidence angle becomes equal to the critical angle."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 559.44,
+            "end": 563.44,
+            "text": "That is incident angle is equal to phi c."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 563.44,
+            "end": 567.44,
+            "text": "So if our TIR condition is reached,"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 567.5200000000001,
+            "end": 569.5200000000001,
+            "text": "then at that point,"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 569.5200000000001,
+            "end": 571.5200000000001,
+            "text": "there is only partial reflection."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 571.5200000000001,
+            "end": 574.5200000000001,
+            "text": "The field in the cladding is of the form of"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 574.5200000000001,
+            "end": 582.5200000000001,
+            "text": "b0 exponential minus j beta x2x exponential j omega t minus beta z."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 584.5200000000001,
+            "end": 586.5200000000001,
+            "text": "But when the total internal deflection occurs,"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 586.5200000000001,
+            "end": 590.5200000000001,
+            "text": "if I talk about the earlier condition, then I get the reflection here."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 590.5200000000001,
+            "end": 593.5200000000001,
+            "text": "But as soon as your TIR occurs,"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 593.5200000000001,
+            "end": 596.5200000000001,
+            "text": "that is, this incident angle is equal to phi c,"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 596.6,
+            "end": 598.6,
+            "text": "we will say TIR occurs."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 598.6,
+            "end": 600.6,
+            "text": "And when TIR occurs,"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 600.6,
+            "end": 604.6,
+            "text": "then what will happen to the reflected ray?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 604.6,
+            "end": 606.6,
+            "text": "You will not get it."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 606.6,
+            "end": 608.6,
+            "text": "That is, complete ray is transmitted back."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 608.6,
+            "end": 612.6,
+            "text": "That is, totally we got the reflection."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 612.6,
+            "end": 614.6,
+            "text": "Which is our TIR condition."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 614.6,
+            "end": 616.6,
+            "text": "So when TIR condition occurs,"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 616.6,
+            "end": 621.6,
+            "text": "then we are saying that this beta x2 becomes imaginary"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 621.6,
+            "end": 624.6,
+            "text": "and may be written as j minus j epsilon 2."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 624.6800000000001,
+            "end": 626.6800000000001,
+            "text": "That is, if I put value instead of this,"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 626.6800000000001,
+            "end": 629.6800000000001,
+            "text": "then it will be minus j epsilon of 2 x."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 629.6800000000001,
+            "end": 632.6800000000001,
+            "text": "So minus minus will make you positive."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 632.6800000000001,
+            "end": 634.6800000000001,
+            "text": "But here is j and j, so this will again minus 1."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 634.6800000000001,
+            "end": 636.6800000000001,
+            "text": "So this will return as like this,"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 636.6800000000001,
+            "end": 641.6800000000001,
+            "text": "exponential minus epsilon 2 x exponential j omega t minus beta z."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 642.6800000000001,
+            "end": 646.6800000000001,
+            "text": "So it is clear from here that your amplitude is basically,"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 646.6800000000001,
+            "end": 649.6800000000001,
+            "text": "the amplitude of the field in the cladding is observed"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 649.6800000000001,
+            "end": 651.6800000000001,
+            "text": "to decay exponentially due to this term."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 651.76,
+            "end": 653.76,
+            "text": "Due to this term,"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 653.76,
+            "end": 657.76,
+            "text": "my field component decreases exponentially"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 657.76,
+            "end": 659.76,
+            "text": "in x direction."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 659.76,
+            "end": 661.76,
+            "text": "Because this is direction of x."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 661.76,
+            "end": 664.76,
+            "text": "Such a field exhibiting an exponential decaying amplitude"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 664.76,
+            "end": 667.76,
+            "text": "is often referred as evidence field."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 667.76,
+            "end": 669.76,
+            "text": "What is this thing?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 669.76,
+            "end": 671.76,
+            "text": "This is your evidence field."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 671.76,
+            "end": 676.76,
+            "text": "We said that how does our field propagate?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 676.76,
+            "end": 678.76,
+            "text": "Like this."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 678.84,
+            "end": 682.84,
+            "text": "We are talking about T1."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 682.84,
+            "end": 684.84,
+            "text": "This is basically T1 because there is a 1,"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 684.84,
+            "end": 686.84,
+            "text": "zero axis interference."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 686.84,
+            "end": 688.84,
+            "text": "We can also say zero axis crossing."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 688.84,
+            "end": 690.84,
+            "text": "But what is happening is,"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 690.84,
+            "end": 692.84,
+            "text": "as your field moves towards cladding,"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 692.84,
+            "end": 694.84,
+            "text": "that is the transmitted ray,"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 694.84,
+            "end": 696.84,
+            "text": "what is the transmitted ray doing to itself?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 696.84,
+            "end": 698.84,
+            "text": "This will be exponentially decaying."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 698.84,
+            "end": 701.84,
+            "text": "So this is basically called the evidence field."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 701.84,
+            "end": 704.84,
+            "text": "So this is all about the group velocity"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 704.84,
+            "end": 706.84,
+            "text": "and the evanescent field."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 706.9200000000001,
+            "end": 708.9200000000001,
+            "text": "What is group velocity?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 708.9200000000001,
+            "end": 710.9200000000001,
+            "text": "What is the expression we have derived?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 710.9200000000001,
+            "end": 712.9200000000001,
+            "text": "Derivation is mostly important."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 712.9200000000001,
+            "end": 714.9200000000001,
+            "text": "It is often asked that"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 714.9200000000001,
+            "end": 717.9200000000001,
+            "text": "what is the group velocity in the case of optical fiber?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 717.9200000000001,
+            "end": 719.9200000000001,
+            "text": "Drive the expression."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 719.9200000000001,
+            "end": 722.9200000000001,
+            "text": "So let's finish the lecture with this."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 722.9200000000001,
+            "end": 724.9200000000001,
+            "text": "We will meet in the next lecture"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 724.9200000000001,
+            "end": 726.9200000000001,
+            "text": "where we will summarize unit 1."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 726.9200000000001,
+            "end": 728.9200000000001,
+            "text": "Unit 1 will also end."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 728.9200000000001,
+            "end": 730.9200000000001,
+            "text": "So meet you in the next lecture."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 730.9200000000001,
+            "end": 732.9200000000001,
+            "text": "Thank you."
+        }
+    ],
+    "text": " Hello all, welcome to the video lecture series of optical communication. Subject code is REC 075 and here we are in lecture number 8. So what we have covered in the previous lecture, so we are talking about basically electromagnetic wave theory, EM theory inside your optical waveguide. In which we have discussed about EM wave, then we have discussed about the modes, modes in a planar waveguide, which we have discussed in the last lecture like M is equal to 0, that means what will happen at T0, what will happen at T1, what will happen at T2, what will happen at T3, there are different types of modes. That depends upon the reflection between the phase change between the two points, between the successive two reflections. And then we have discussed about the phase velocity, that is the velocity of your light ray inside the optical fiber. Now in this lecture what we are going to discuss, the another main topic we have is your group velocity and the next one is the evanescence field. So let's start, first of all group velocity. So as you must have read group velocity earlier, what was group velocity, phase velocity? The velocity of the wave inside your optical fiber. What is group velocity? The velocity when the wave travels, what will it get after that? Phase change of 2pi by lambda. If we get a complete phase change of 2pi radian, where the phase change is obtained, that velocity is called group velocity. So if I have to derive the formula of group velocity, if you remember, like we have seen the vp, vp is omega by beta, so vg is d omega by d beta. So vg is equal to d omega by d beta. The same formula is here, group velocity vg is defined as d omega by d beta. Now what can I write d omega by d beta? I can divide and multiply both the sides by d lambda and d lambda. So this will become d lambda by d beta and d omega by d lambda. So we will solve both of them separately. Then we get the final value of the group velocity. So let us first see d lambda by d omega by d lambda. So as we know that lambda is equal to what? Lambda is equal to c by f. What is the value of lambda? c by f. So if I solve f from here, what will be the value of f? c by lambda. Now if you multiply both the sides by 2pi f, multiply 2pi here and multiply 2pi here So what is this term? Omega. So this becomes omega is equal to 2pi c by lambda. So what did I do? I started with lambda because we know that lambda is equal to c by f. So I took out the value of f from here and in that f, we have taken the value of omega which is 2pi f. So you can directly say that omega is related to your lambda and given as 2pi c by lambda. Now what did I have to calculate? I had to calculate d omega by d lambda. So now I will differentiate this function omega in terms of lambda. So what will be d omega by d lambda? This 2pi c is a constant term. And what will be 1 by lambda? 1 by lambda will be lambda to the power minus 1. If you differentiate this, then minus 1 lambda to the power minus 2. That means minus 1 by lambda square. So we will get 2pi c by lambda square. Now if we write this c again from this formula that c is equal to lambda f. So if you convert lambda f here, then 1 lambda will be cut from 1 lambda. And this will again become 2pi f. So 2pi f is again omega. So ultimately if I talk, then the value of d omega by d lambda will be equal to minus omega by lambda. Got it? Solve it? So the value of d omega by d lambda that we had to keep here, we will keep here minus omega by lambda. Now similarly, the second value that I have to calculate, I have to do it by differentiating lambda in terms of beta. So we saw in the first lecture that what was the formula for beta? Beta is equal to n1 2pi by lambda. Now if we solve d beta by d lambda from here, then what we will do later? d lambda by d beta. That means we will inverse it. So we differentiate d beta in terms of lambda. So let's do it. Now this is, now see here n1 is there. 2pi is a constant term, but there is a term n1 and there is a term lambda. Now we are differentiating in terms of lambda. If you remember, I had told you one thing in the last lecture, when the wave comes under the waveguide, then its refractive index is decreased by a factor lambda. That means whose function is refractive index? It depends on lambda. That means it is decremented by lambda. So here we consider n1 as dependent on wavelength. Okay? So that's why we say refractive index is a function of lambda. Okay? Now the second thing, so when you differentiate here, then here n1, we have constant here. If we differentiate according to lambda, then it becomes minus 2pi by lambda square. Because 2pi is a constant. And we saw what is the differentiation of 1 by lambda? Minus 1 by lambda square. So this term remains constant n1 and the second term becomes minus 2pi by lambda square. Now plus, if you see in the first term, this is n1, so this becomes dn1 by d lambda and 2pi by lambda is constant. Now if from this complete term, 2pi by lambda square is made common with minus, then here you will have n1 and because it was positive here, it will become negative. If you have taken lambda square as common, then here it is lambda, so above it is lambda multiplied and dn1 by d lambda. Now this term n1 minus lambda dn1 by d lambda is called, is represent ng. Ng is what? Ng is basically called group index. Where ng is called n1 minus lambda dn1 by d lambda is called group index. Okay? So now we have a value of d beta by d lambda that is equal to minus 2pi by lambda square ng. Now if I was talking about this, I wanted group velocity, so group velocity is equal to vg is equal to d omega by d beta that can be written as d lambda by d beta multiplied d omega by d lambda. So that d lambda by d lambda is crossing and what will be left? d omega by d beta. So vg becomes, now I have put the value here, d lambda by d beta, we also solved, we solved d beta by d lambda, d beta by d lambda is equal to minus 2pi by lambda square ng. So you reverse it, so it becomes minus lambda square divided by 2pi by 2pi into ng. And d omega by d lambda we solved, minus omega by lambda. So minus will become minus plus, one lambda will cancel one lambda. And if you write omega here, omega is equal to 2pi f, so from here f, sorry, 2pi will cancel out. So what will be left? f lambda divided by ng. And again f lambda is equal to c. So ultimately vg becomes c by ng. That means vg, the group velocity, in light velocity, what factor is it divided by? It is divided by ng. If you remember the phase velocity, what did we have? c by n1. That means our light velocity depends upon the factor, decrease, the velocity inside the fiber, decrease by a factor n1. Okay, so these are the two important values, that is your phase velocity and group velocity with respect to your optical waveguide. So group velocity is completed. After this, now the topic we have to discuss is, this is evidence field. But before that, I am again recalling the same diagram here. That first of all, this is our interface. This part is your core with a refractive index of m1. And this part is your cladding with a refractive index of n2. So there is a wave vector occurs, that is your incident wave, represented by a, that is given by a0 exponential minus j beta x1x exponential j omega t minus beta z. Now this is called propagation factor. We are assuming that where is the wave propagating? In z direction. And this is called the exponential minus j beta 1x, that is your attenuation factor. Okay, which I have shown there, e to the power minus alpha z. So the same x component is available here. Similarly, one is your transmitted wave. So this is represented by b0. This is your transmitted wave b0. So equation of b0 is also written in similar form. And similarly, there is a reflected ray. This is your c. Because as we have seen earlier, when any incident ray comes on optical fiber, then some part is reflected and some part is reflected back again into the same medium. So now from this theory, if we say before the critical angle for total internal deflection is reached, we have already studied the theory that what is the condition of total internal deflection? That the incidence angle becomes equal to the critical angle. That is incident angle is equal to phi c. So if our TIR condition is reached, then at that point, there is only partial reflection. The field in the cladding is of the form of b0 exponential minus j beta x2x exponential j omega t minus beta z. But when the total internal deflection occurs, if I talk about the earlier condition, then I get the reflection here. But as soon as your TIR occurs, that is, this incident angle is equal to phi c, we will say TIR occurs. And when TIR occurs, then what will happen to the reflected ray? You will not get it. That is, complete ray is transmitted back. That is, totally we got the reflection. Which is our TIR condition. So when TIR condition occurs, then we are saying that this beta x2 becomes imaginary and may be written as j minus j epsilon 2. That is, if I put value instead of this, then it will be minus j epsilon of 2 x. So minus minus will make you positive. But here is j and j, so this will again minus 1. So this will return as like this, exponential minus epsilon 2 x exponential j omega t minus beta z. So it is clear from here that your amplitude is basically, the amplitude of the field in the cladding is observed to decay exponentially due to this term. Due to this term, my field component decreases exponentially in x direction. Because this is direction of x. Such a field exhibiting an exponential decaying amplitude is often referred as evidence field. What is this thing? This is your evidence field. We said that how does our field propagate? Like this. We are talking about T1. This is basically T1 because there is a 1, zero axis interference. We can also say zero axis crossing. But what is happening is, as your field moves towards cladding, that is the transmitted ray, what is the transmitted ray doing to itself? This will be exponentially decaying. So this is basically called the evidence field. So this is all about the group velocity and the evanescent field. What is group velocity? What is the expression we have derived? Derivation is mostly important. It is often asked that what is the group velocity in the case of optical fiber? Drive the expression. So let's finish the lecture with this. We will meet in the next lecture where we will summarize unit 1. Unit 1 will also end. So meet you in the next lecture. Thank you."
+}

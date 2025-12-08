@@ -1,0 +1,37 @@
+[
+    {
+        "start": 0.0,
+        "end": 4.8,
+        "text": "Hello all! Welcome to the video lecture series of optical communication."
+    },
+    {
+        "start": 6.32,
+        "end": 10.8,
+        "text": "Subject code is RCO75, and here we are in lecture number 2."
+    },
+    {
+        "start": 12.24,
+        "end": 17.36,
+        "text": "So, what did we discuss in the previous lecture? In the previous lecture we discussed regarding"
+    },
+    {
+        "start": 17.36,
+        "end": 22.88,
+        "text": "what is optical communication, and what are the basic components of optical fiber communication."
+    },
+    {
+        "start": 23.52,
+        "end": 28.96,
+        "text": "Or if I talk, then simply we have studied a block diagram of which components are available to us"
+    },
+    {
+        "start": 28.96,
+        "end": 34.72,
+        "text": "in optical communication. Like there is a transmitter, then there is a medium, and then"
+    },
+    {
+        "start": 34.72,
+        "end": 42.96,
+        "text": "there is a source. And we have studied how to use this medium to communicate with the"
+    }
+]

@@ -1,0 +1,313 @@
+{
+    "chunks": [
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 0.0,
+            "end": 34.48,
+            "text": "Hello all, welcome to the video lecture series of optical communication. Subject code is REC 075 and here we are in lecture number 4. So what we have covered in the previous lecture, we talked about optical waveguide, what is the structure of your optical fiber like core, cladding, what is core, what is cladding and what is the reflective index."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 34.48,
+            "end": 61.16,
+            "text": "The next one we talked about is very important, it is called ray transmission theory. How light propagates in optical fiber. There is incident ray, reflected ray, angle of incidence, angle of reflection, Snell's law, all the things. Then we talked about TIR, that is the condition for light propagation in fiber."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 61.16,
+            "end": 80.16,
+            "text": "That is called TIR, total internal reflection. From there we showed what is critical angle. As I said in the last class, these are the parameters related to your light theory. In this lecture, we are going to talk about other parameters which are related to optical fiber light theory."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 81.16,
+            "end": 97.16,
+            "text": "One is called NA, that is called Numerical Aperture and one is called the Acceptance Angle. Okay, so let's start. First, we will talk about Numerical Aperture. But before that, if I talk about this topic, this is called Meri-Daniel Rays."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 97.16,
+            "end": 119.16,
+            "text": "What is Meri-Daniel Rays? When we propagate our ray in optical fiber, means when the light ray is propagated inside optical fiber, then based on the propagation, your ray is classified into two types. One is called Meri-Daniel and one is called Skew Rays. What are Skew Rays?"
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 119.16,
+            "end": 132.16,
+            "text": "We will talk about Skew Rays in the next lecture. We are not talking about Skew Rays now. Now we will talk about Meri-Daniel Rays. What are Meri-Daniel Rays? The rays which passes through the axis of the fiber core are called Meri-Daniel Rays."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 132.16,
+            "end": 155.16,
+            "text": "The rays which pass through the optical fiber core are called Meri-Daniel Rays. Now, these rays are also divided into two categories. Some rays are like this. If I talk about this diagram, this is my optical fiber which we have shown here. And this is your fiber axis."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 155.16,
+            "end": 183.16,
+            "text": "So, once the ray is coming into this fiber, this ray will propagate up to this point and after this point and then goes back into the air. This is called Unbound Ray. Because the rays which are not bounded inside the optical fiber will go out. The rays which are not bounded inside the optical fiber will go out."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 183.16,
+            "end": 204.16,
+            "text": "But, the rays which are not propagated inside the optical fiber are called Unbound Ray. If you look at the other ray, suppose this ray comes here and this ray reaches here. This is inside of the core. Then, your reflection will go back to the core end."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 204.16,
+            "end": 227.16,
+            "text": "Then, it will reach here and reflect here and then it will propagate again. Then, it will move inside the fiber. So, this type of ray is called Bound Ray. Now, let's talk about Meri-Daniel Ray. The rays which pass through the fiber axis are called Meri-Daniel Ray."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 227.16,
+            "end": 242.16,
+            "text": "But, Meri-Daniel Ray is divided into two categories. One is called Bound Ray and the other is called Unbound Ray. What are the Bound Rays? These rays are trapped in the core and propagate along the fiber axis. Like this."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 242.16,
+            "end": 257.15999999999997,
+            "text": "And what are the Unbound Rays? These rays are reflected out of the fiber core. These rays are reflected out of the fiber core and back into the air or in the cladding itself. So, this is called Unbound Ray. So, this is called Meri-Daniel Ray."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 257.16,
+            "end": 273.16,
+            "text": "What do you mean by rays? If the rays in the fiber are like Hormones, then you can explain it. Next, come to the main topic that is called the Numerical Aperture. Numerical Aperture is a mathematical term related to this fiber theory. So, let's see what it is."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 273.16,
+            "end": 292.16,
+            "text": "It is a proof and it has numerical questions which we will see in the next lecture. So, let's see Numerical Aperture. To define Numerical Aperture, I have used the same diagram which we discussed in the previous lecture. That is my optical fiber part. This portion is our core represented by N1."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 292.16,
+            "end": 300.16,
+            "text": "And this portion is our cladding. This is the refractive index of N2. So, here it is N1 and N2. Okay. Then,"
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 300.16,
+            "end": 312.16,
+            "text": "Now, what will happen here? When the optical ray enters, So, here from here, the refractive index is N0. From here, the ray will enter."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 312.16,
+            "end": 321.16,
+            "text": "Okay. So, this is basically the medium interface. If you see, this is basically the medium interface. This is air and this is basically the core."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 321.16,
+            "end": 334.16,
+            "text": "Between the air and the core, the ray will enter. So, this is my interface. And this axis works as a normal to the interface. Okay. As we have studied earlier,"
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 334.16,
+            "end": 346.16,
+            "text": "when a ray is incident, this is the B-ray which is incident. When B-ray is incident, the angle formed with the normal is called the angle of incident. So, this is angle of incidence."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 346.16,
+            "end": 358.16,
+            "text": "Similarly, this ray is refracted in the medium. And this angle again made with the normal to the surface. This is called the angle of refraction. Angle of refraction. Okay."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 358.16,
+            "end": 373.16,
+            "text": "Here, we assume that no ray has returned. Because this is the air and cladding part. So, we assume that the incident ray will come with an incident angle theta A and refracted or we can say transmitted into our fiber core with an angle alpha M."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 373.16,
+            "end": 383.16,
+            "text": "Okay. So, as per this Nernst law, if the incident ray is this with an angle theta A and refractive index is N0, what we can write?"
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 383.16,
+            "end": 398.16,
+            "text": "N0 sin theta A is equal to this is N1 sin alpha M. So, N0 sin theta is equal to N1 sin alpha M. Now, if you see in this diagram, when the ray enters the core,"
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 398.16,
+            "end": 410.16,
+            "text": "this filter, at this point, the ray will hit the body of the core. So, as soon as there is an incident or strike, now this becomes the incident ray"
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 410.16,
+            "end": 419.16,
+            "text": "because this is medium 1, and this is medium 2 and 2, and this is normal to the surface. This is normal to both medium. And this is the surface."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 419.16,
+            "end": 428.16,
+            "text": "So, this is the angle of incidence, normal to the surface. Now, where do we have to follow this? TIR, Total Internal Reflection."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 428.16,
+            "end": 443.16,
+            "text": "So, here it is TIR condition. So, for TIR condition, basically, phi angle of incidence will be equal to phi c. If I say phi c in the diagram, it will be easier to see that this is a light ray"
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 443.16,
+            "end": 454.16,
+            "text": "which is following the total internal reflection and it will totally internal reflect. Now, from this diagram, if we see that this angle is alpha m, this angle is phi c,"
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 454.16,
+            "end": 464.16,
+            "text": "this angle is 90 degrees, this is normal to the surface. So, what can I write in the value of alpha m? I can write 90 degrees minus phi c. So, in this equation, here it is alpha m."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 464.16,
+            "end": 477.16,
+            "text": "So, alpha m is replaced by pi by 2 minus phi c. And as soon as you replace alpha m by pi by 2 minus phi c, then sin pi by 2 minus theta, that is, sin 90 minus theta, this is cos theta."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 477.16,
+            "end": 496.16,
+            "text": "So, this will be written as n1 cos of phi c. So, n0 sin theta A is equal to n1 cos of phi c. Now, if I talk about n0, first, calculate the value of sin theta A. So, sin theta A is equal to n1 by n0 under root of 1 minus sin square theta d."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 496.16,
+            "end": 514.1600000000001,
+            "text": "Because cos square theta plus sin square theta is equal to 1. So, what is the value of cos theta? Cos theta is equal to n dot of 1 minus sin square theta. So, using this value, we have converted it. Now, as we read in the last lecture, critical angle value."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 514.1600000000001,
+            "end": 532.1600000000001,
+            "text": "So, the value of critical angle is sin of phi c is equal to n2 by n1. So, according to this formula, you can replace the value of sin square phi c here. That will be replaced by n2 square by n1 square. Also, n0 is over here because n0 is basically air."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 532.16,
+            "end": 549.16,
+            "text": "Air is medium. So, n0 is equal to 1. So, n0 is equal to 1. So, we will get the formula of sin theta A. That is equal to n1 under root of 1 minus n2 whole square divided by n1 whole square. If we take the LCM,"
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 549.16,
+            "end": 570.16,
+            "text": "it will be n1 square minus n2 square divided by n1 square whole under root. This term will cancel out n1. So, the remaining term is n1 square minus n2 square. This particular term is called numerical aperture. So, this is how numerical aperture is derived."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 570.16,
+            "end": 594.16,
+            "text": "Now, you have a question based on this where you are given the value of n1 and n2. We can directly calculate the value of numerical aperture. Next, we can derive numerical aperture from another formula. That is also defined as in terms of relative refractive index difference, del. Where del is defined as n1 square minus n2 square divided by twice of n1 square."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 594.16,
+            "end": 613.16,
+            "text": "This can approximately be written as n1 minus n2 divided by n1. This is the refractive index formula for del is much less than 1. But, I mainly have a requirement for this formula. So, if we look at the back, we derived numerical aperture. This is n1 square minus n2 square whole under root."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 613.16,
+            "end": 631.16,
+            "text": "So, if I want to subtract this under root, what will happen here? na square is equal to n1 square minus n2 square. So, if we look at the value of n1 square minus n2 square from here, what will be the value from here? This value is written as twice n1 square into del."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 631.16,
+            "end": 655.16,
+            "text": "So, if I want the value of na, what will ultimately be the value of na? If we square this n1, n1 will come out and this will be the note of 2 del. So, this is the expression for numerical aperture in terms of relative refractive index del. When you are given del, you have to calculate numerical aperture with the help of this formula. Else, we can directly use this formula n1 square minus n2 square under root."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 655.16,
+            "end": 673.16,
+            "text": "Got it? So, what is numerical aperture? We understood it. We also saw the expression. Then, how we can calculate another formula for the numerical aperture? This is the formula related to relative refractive index difference. Then, the last one is called Perceptive Angle."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 673.16,
+            "end": 695.16,
+            "text": "Now, what is Perceptive Angle? Another numerical term. If I talk about this diagram, then this angle in this diagram, this value is theta A. So, minimum value of this angle, on which the ray can propagate inside the fiber core. Inside the fiber core, that particular angle is called angle of acceptance. Here, simply called acceptance angle."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 695.16,
+            "end": 720.16,
+            "text": "So, theta A is the maximum acceptance angle to the axis at which light may enter the fiber in order to be propagated. And this often referred as acceptance angle. Got it? So, after learning this, now we can easily say what is numerical aperture? We derived the formula for numerical aperture. If you are asked the question of numerical aperture, you can derive it."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 720.16,
+            "end": 740.16,
+            "text": "What do you mean by acceptance angle? We have done that also. So, now in the next lecture, we will solve numerical problems on these two topics. We will solve questions on numerical aperture, acceptance angle, and critical angle. Along with that, we will talk about skew rays. Till then, you can watch this proof again."
+        },
+        {
+            "number": "L4",
+            "title": "Numerical Aperture and Acceptance Angle",
+            "start": 740.16,
+            "end": 742.16,
+            "text": "So, keep practicing."
+        }
+    ],
+    "text": " Hello all, welcome to the video lecture series of optical communication. Subject code is REC 075 and here we are in lecture number 4. So what we have covered in the previous lecture, we talked about optical waveguide, what is the structure of your optical fiber like core, cladding, what is core, what is cladding and what is the reflective index. The next one we talked about is very important, it is called ray transmission theory. How light propagates in optical fiber. There is incident ray, reflected ray, angle of incidence, angle of reflection, Snell's law, all the things. Then we talked about TIR, that is the condition for light propagation in fiber. That is called TIR, total internal reflection. From there we showed what is critical angle. As I said in the last class, these are the parameters related to your light theory. In this lecture, we are going to talk about other parameters which are related to optical fiber light theory. One is called NA, that is called Numerical Aperture and one is called the Acceptance Angle. Okay, so let's start. First, we will talk about Numerical Aperture. But before that, if I talk about this topic, this is called Meri-Daniel Rays. What is Meri-Daniel Rays? When we propagate our ray in optical fiber, means when the light ray is propagated inside optical fiber, then based on the propagation, your ray is classified into two types. One is called Meri-Daniel and one is called Skew Rays. What are Skew Rays? We will talk about Skew Rays in the next lecture. We are not talking about Skew Rays now. Now we will talk about Meri-Daniel Rays. What are Meri-Daniel Rays? The rays which passes through the axis of the fiber core are called Meri-Daniel Rays. The rays which pass through the optical fiber core are called Meri-Daniel Rays. Now, these rays are also divided into two categories. Some rays are like this. If I talk about this diagram, this is my optical fiber which we have shown here. And this is your fiber axis. So, once the ray is coming into this fiber, this ray will propagate up to this point and after this point and then goes back into the air. This is called Unbound Ray. Because the rays which are not bounded inside the optical fiber will go out. The rays which are not bounded inside the optical fiber will go out. But, the rays which are not propagated inside the optical fiber are called Unbound Ray. If you look at the other ray, suppose this ray comes here and this ray reaches here. This is inside of the core. Then, your reflection will go back to the core end. Then, it will reach here and reflect here and then it will propagate again. Then, it will move inside the fiber. So, this type of ray is called Bound Ray. Now, let's talk about Meri-Daniel Ray. The rays which pass through the fiber axis are called Meri-Daniel Ray. But, Meri-Daniel Ray is divided into two categories. One is called Bound Ray and the other is called Unbound Ray. What are the Bound Rays? These rays are trapped in the core and propagate along the fiber axis. Like this. And what are the Unbound Rays? These rays are reflected out of the fiber core. These rays are reflected out of the fiber core and back into the air or in the cladding itself. So, this is called Unbound Ray. So, this is called Meri-Daniel Ray. What do you mean by rays? If the rays in the fiber are like Hormones, then you can explain it. Next, come to the main topic that is called the Numerical Aperture. Numerical Aperture is a mathematical term related to this fiber theory. So, let's see what it is. It is a proof and it has numerical questions which we will see in the next lecture. So, let's see Numerical Aperture. To define Numerical Aperture, I have used the same diagram which we discussed in the previous lecture. That is my optical fiber part. This portion is our core represented by N1. And this portion is our cladding. This is the refractive index of N2. So, here it is N1 and N2. Okay. Then, Now, what will happen here? When the optical ray enters, So, here from here, the refractive index is N0. From here, the ray will enter. Okay. So, this is basically the medium interface. If you see, this is basically the medium interface. This is air and this is basically the core. Between the air and the core, the ray will enter. So, this is my interface. And this axis works as a normal to the interface. Okay. As we have studied earlier, when a ray is incident, this is the B-ray which is incident. When B-ray is incident, the angle formed with the normal is called the angle of incident. So, this is angle of incidence. Similarly, this ray is refracted in the medium. And this angle again made with the normal to the surface. This is called the angle of refraction. Angle of refraction. Okay. Here, we assume that no ray has returned. Because this is the air and cladding part. So, we assume that the incident ray will come with an incident angle theta A and refracted or we can say transmitted into our fiber core with an angle alpha M. Okay. So, as per this Nernst law, if the incident ray is this with an angle theta A and refractive index is N0, what we can write? N0 sin theta A is equal to this is N1 sin alpha M. So, N0 sin theta is equal to N1 sin alpha M. Now, if you see in this diagram, when the ray enters the core, this filter, at this point, the ray will hit the body of the core. So, as soon as there is an incident or strike, now this becomes the incident ray because this is medium 1, and this is medium 2 and 2, and this is normal to the surface. This is normal to both medium. And this is the surface. So, this is the angle of incidence, normal to the surface. Now, where do we have to follow this? TIR, Total Internal Reflection. So, here it is TIR condition. So, for TIR condition, basically, phi angle of incidence will be equal to phi c. If I say phi c in the diagram, it will be easier to see that this is a light ray which is following the total internal reflection and it will totally internal reflect. Now, from this diagram, if we see that this angle is alpha m, this angle is phi c, this angle is 90 degrees, this is normal to the surface. So, what can I write in the value of alpha m? I can write 90 degrees minus phi c. So, in this equation, here it is alpha m. So, alpha m is replaced by pi by 2 minus phi c. And as soon as you replace alpha m by pi by 2 minus phi c, then sin pi by 2 minus theta, that is, sin 90 minus theta, this is cos theta. So, this will be written as n1 cos of phi c. So, n0 sin theta A is equal to n1 cos of phi c. Now, if I talk about n0, first, calculate the value of sin theta A. So, sin theta A is equal to n1 by n0 under root of 1 minus sin square theta d. Because cos square theta plus sin square theta is equal to 1. So, what is the value of cos theta? Cos theta is equal to n dot of 1 minus sin square theta. So, using this value, we have converted it. Now, as we read in the last lecture, critical angle value. So, the value of critical angle is sin of phi c is equal to n2 by n1. So, according to this formula, you can replace the value of sin square phi c here. That will be replaced by n2 square by n1 square. Also, n0 is over here because n0 is basically air. Air is medium. So, n0 is equal to 1. So, n0 is equal to 1. So, we will get the formula of sin theta A. That is equal to n1 under root of 1 minus n2 whole square divided by n1 whole square. If we take the LCM, it will be n1 square minus n2 square divided by n1 square whole under root. This term will cancel out n1. So, the remaining term is n1 square minus n2 square. This particular term is called numerical aperture. So, this is how numerical aperture is derived. Now, you have a question based on this where you are given the value of n1 and n2. We can directly calculate the value of numerical aperture. Next, we can derive numerical aperture from another formula. That is also defined as in terms of relative refractive index difference, del. Where del is defined as n1 square minus n2 square divided by twice of n1 square. This can approximately be written as n1 minus n2 divided by n1. This is the refractive index formula for del is much less than 1. But, I mainly have a requirement for this formula. So, if we look at the back, we derived numerical aperture. This is n1 square minus n2 square whole under root. So, if I want to subtract this under root, what will happen here? na square is equal to n1 square minus n2 square. So, if we look at the value of n1 square minus n2 square from here, what will be the value from here? This value is written as twice n1 square into del. So, if I want the value of na, what will ultimately be the value of na? If we square this n1, n1 will come out and this will be the note of 2 del. So, this is the expression for numerical aperture in terms of relative refractive index del. When you are given del, you have to calculate numerical aperture with the help of this formula. Else, we can directly use this formula n1 square minus n2 square under root. Got it? So, what is numerical aperture? We understood it. We also saw the expression. Then, how we can calculate another formula for the numerical aperture? This is the formula related to relative refractive index difference. Then, the last one is called Perceptive Angle. Now, what is Perceptive Angle? Another numerical term. If I talk about this diagram, then this angle in this diagram, this value is theta A. So, minimum value of this angle, on which the ray can propagate inside the fiber core. Inside the fiber core, that particular angle is called angle of acceptance. Here, simply called acceptance angle. So, theta A is the maximum acceptance angle to the axis at which light may enter the fiber in order to be propagated. And this often referred as acceptance angle. Got it? So, after learning this, now we can easily say what is numerical aperture? We derived the formula for numerical aperture. If you are asked the question of numerical aperture, you can derive it. What do you mean by acceptance angle? We have done that also. So, now in the next lecture, we will solve numerical problems on these two topics. We will solve questions on numerical aperture, acceptance angle, and critical angle. Along with that, we will talk about skew rays. Till then, you can watch this proof again. So, keep practicing."
+}

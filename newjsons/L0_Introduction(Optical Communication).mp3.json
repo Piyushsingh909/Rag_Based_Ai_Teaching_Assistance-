@@ -1,0 +1,180 @@
+{
+    "chunks": [
+        {
+            "number": "L0",
+            "title": "Introduction(Optical Communication)",
+            "start": 0.0,
+            "end": 30.08,
+            "text": "Hello all, welcome to the video lecture series of optical communication. The subject code is RCO75, and here we are in lecture number 0. So, what is lecture number 0? Basically lecture number 0a contain the introductory part that is about the syllabus prescribed by the university and the respectable outcomes. You will be able to do or I can say what outcomes are learned by you after learning this subject."
+        },
+        {
+            "number": "L0",
+            "title": "Introduction(Optical Communication)",
+            "start": 32.88,
+            "end": 60.16,
+            "text": "Ok? So first of all let us talk about the syllabus that this optical communication subject which we are going to study. What is its syllabus you guys have to see? Ok? So as this subject is a full unit subject. So divided into 5 units. So the syllabus is divided into 5 units. Unit number 1. So unit number 1 basically talks about what overview of optical fiber communication. Optical fiber communication. Now here you will study that"
+        },
+        {
+            "number": "L0",
+            "title": "Introduction(Optical Communication)",
+            "start": 60.16,
+            "end": 89.60000000000001,
+            "text": "basically what is the general system used for optical fiber communication. What are the advantages of this optical fiber communication and what is the optical spectral band? That when we do optical communication, in which band or optical rays that is optical light is propagated. Ok? Then after that we will study in this unit. Now the optical transmission medium. This is called the optical fiber. It works as a waveguide. It works just like a waveguide."
+        },
+        {
+            "number": "L0",
+            "title": "Introduction(Optical Communication)",
+            "start": 89.60000000000001,
+            "end": 117.11999999999999,
+            "text": "So what is optical fiber waveguide? What is the transmission theory? That is on what basis our transmission takes place. This is called the total internal reflection condition. Our transmission takes place on this basis. So we will talk about it. Then here some numerical terms will be available to you. You will see. Regarding the fiber waveguide. This is acceptance angle, numerical aperture and in what are the theories. Then we will talk a little bit about electromagnetics."
+        },
+        {
+            "number": "L0",
+            "title": "Introduction(Optical Communication)",
+            "start": 117.11999999999999,
+            "end": 145.84,
+            "text": "Electromagnetic mode theory related to this optical propagation. What is electromagnetic wave? A quick review will be for you. Then what types of modes in a planar guide? Which modes can our wave propagate in? Then what do you mean by phase and group velocity? And then what is the phase shift with total internal reflection? What is the ascendant field and crux residual shift? So these are the simple parameters and you can say a small topic related to this optical"
+        },
+        {
+            "number": "L0",
+            "title": "Introduction(Optical Communication)",
+            "start": 145.84,
+            "end": 175.04000000000002,
+            "text": "propagation. So, this complete unit gives you an idea what is the optical fiber communication. How optical communication basically happens. Then if I talk about the second unit. Then our entire discussion in the second unit will be on optical fiber. What is optical fiber? We are going to talk about silicidal fiber here. Which modes are there in it? Is the mode used for coupling? How many types of fibers are available? Like if I talk on the construction basis then one is called"
+        },
+        {
+            "number": "L0",
+            "title": "Introduction(Optical Communication)",
+            "start": 175.04000000000002,
+            "end": 200.39999999999998,
+            "text": "step index fiber. Another is called credit index fiber. If I talk on the basis of mode. Then one is called the single mode fiber and multi-mode fiber. So, we will talk about different types of fiber. Then what is the cutoff wavelength in these fibers? What is the cutoff wavelength of the fiber? Mode field diameter means what is the radius? What is the diameter? What is the spot size? These are the different parameters related to your silicacular fiber and we can say optical fiber. Like"
+        },
+        {
+            "number": "L0",
+            "title": "Introduction(Optical Communication)",
+            "start": 200.39999999999998,
+            "end": 228.56,
+            "text": "what is the refractive index? What is group delay? What is mode delay? Different different parameters. Then we will talk about losses single distortion in optical fiber. What are the losses available inside the optical fiber? So firstly what is this multilation? We will talk about it. Then what are the different types of losses in silica glass fiber that is intrinsic absorption and acoustic absorption? Then what are the linear scattering losses? In this we will study ray light scattering"
+        },
+        {
+            "number": "L0",
+            "title": "Introduction(Optical Communication)",
+            "start": 228.56,
+            "end": 251.51999999999998,
+            "text": "and my scattering. Then we will study non-linear scattering losses under which bending losses in our fiber will come. Then there is dispersion. You will study the category of dispersion that is wave dispersion, material dispersion. Then there is intermodal dispersion. Intramodal dispersion are different types of dispersion category. So we have to study the same thing in multimode as well. We have to study in grade index fiber as well. We will see how much the"
+        },
+        {
+            "number": "L0",
+            "title": "Introduction(Optical Communication)",
+            "start": 251.51999999999998,
+            "end": 282.55999999999995,
+            "text": "overall fiber dispersion will be. Then how can we simplify the dispersion inside multimode fiber and inside single mode fiber? We will study all these things here. After that a term will be formed here. What is polarization inside the fiber? What is fiber bifrequency polarization or dispersion? What is polarization maintaining fibers, non-linear effects like scattering effect and curve effects? So we will talk about these. So if I talk about this total unit, then after studying this total"
+        },
+        {
+            "number": "L0",
+            "title": "Introduction(Optical Communication)",
+            "start": 282.55999999999995,
+            "end": 309.36,
+            "text": "unit you will be able to know about the fiber. What are the characteristics of the fiber? In how many modes the fiber works? On the basis of how that fiber is classified and what are the losses basically in the fiber? Okay, then next will be the number 3 unit. Now we have talked about fiber here. If I talk about the second unit. So next is our optical source. Basically when we will study about optical communication system. So our transmitter is an optical which converts"
+        },
+        {
+            "number": "L0",
+            "title": "Introduction(Optical Communication)",
+            "start": 309.36,
+            "end": 335.28000000000003,
+            "text": "our light which is our incoming electrical signal into light signal. That is called optical source. So here we will study optical source in detail. We have two types of optical sources. That is one is called LEDs and one is called laser diode. So what are the LEDs? Different types of structure working, parameters related to your LED power modulation. Then similarly laser dot. What is the threshold condition? What is the laser dot? Read equation, quantum frequency efficiency,"
+        },
+        {
+            "number": "L0",
+            "title": "Introduction(Optical Communication)",
+            "start": 335.28000000000003,
+            "end": 363.2,
+            "text": "resonant frequency, laser dot structures, different types of instructions they are working. So here we will cover the entire optical source in unit number 3. Then in unit number 4, again now that we have seen the medium as well. Medium is what? Fiber. We have talked about the source. So now we will talk in unit number 4 that when we connect the medium and the source. Then what is the source to fiber power launching? That is, is the power transmitted from the source to the fiber? We are"
+        },
+        {
+            "number": "L0",
+            "title": "Introduction(Optical Communication)",
+            "start": 363.2,
+            "end": 389.28000000000003,
+            "text": "going to talk about it here. What is the source output pattern? How is the output power generated from the source? What is the coupling calculation? What is the power coupling calculation? Power launching versus wavelength equilibrium numerical aperture. So we will talk about these terms here. Then after that we come to the receiver part. If I talk, then your receiver portion starts from here. If we talk here, then this is the receiver. That is called photo detector. Here we use optical"
+        },
+        {
+            "number": "L0",
+            "title": "Introduction(Optical Communication)",
+            "start": 389.28000000000003,
+            "end": 416.48,
+            "text": "detector basically again to convert optical light into your electrical signal. So what type of photo detector is available here that is photodiodes? In photodiode, we will talk about pin photodetector and blank photodiode. Then what are the noise sources in photodetector noise? We will detect the signal to noise ratio. Then we will talk about the detector response time. Other applications that are photocurrent, response time structure, temperature effect on blank gain, comparison of"
+        },
+        {
+            "number": "L0",
+            "title": "Introduction(Optical Communication)",
+            "start": 416.48,
+            "end": 443.68,
+            "text": "photodetectors. Different types of detectors that we are going to study here. Okay? So this is totally based on your receiver part. This is based on your coupling part. And after that we call optical receiver operation. Optical receiver operation means unit number five. In which we talked about optical receiver detector. Related to this further we will see the parameters or I can say further details like what is the operation of fundamental receiver. How does digital signal transmission"
+        },
+        {
+            "number": "L0",
+            "title": "Introduction(Optical Communication)",
+            "start": 443.68,
+            "end": 470.15999999999997,
+            "text": "happen? What are the error sources front end amplifier? So we will talk about all these here in unit number five. Then to check the performance of the digital receiver, we will check the probability of error receiver sensitivity. We have a quantum unit. Then I diagram to again calculate the errors there with different types of measurement. Then we use current detection, fundamental concept homodyne detection, heterodyne detection, IBR comparison. So basically this is"
+        },
+        {
+            "number": "L0",
+            "title": "Introduction(Optical Communication)",
+            "start": 470.15999999999997,
+            "end": 498.96000000000004,
+            "text": "complete. I can say unit number five is your optical receiver operations. How does our optical receiver, the optical detector type receiver function? What are its functions? Okay. So this is your complete optical communication syllabus. In which I talked about basic fiber. Then basic communication in the first unit. In the second unit you will read about fiber. In the third unit you will read about sources. In the fourth unit we are going to start with optical detector and"
+        },
+        {
+            "number": "L0",
+            "title": "Introduction(Optical Communication)",
+            "start": 498.96000000000004,
+            "end": 525.84,
+            "text": "the last one is the optical receiver. Okay? So this is the complete syllabus prescribed by the university for you in the syllabus in the subject that is optical communication. The next part which we are going to discuss in this lecture. Now what is the textbook required for this subject? So the textbook which is given in the syllabus is also called senior John and senior JM senior. That is optical fiber communication by Pearson third edition 2010. This is your textbook in"
+        },
+        {
+            "number": "L0",
+            "title": "Introduction(Optical Communication)",
+            "start": 525.84,
+            "end": 553.2,
+            "text": "which you will get the complete syllabus of optical fiber communication. For a little bit of syllabus we will have to refer to GG sir. You can also refer to it for other topics because this is a reference book. Otherwise you have other books kept here like Raghu vanshi, Agarwal and places. This are also the optical fiber communication books prescribed in your syllabus as a reference. Then the next thing is what is the course outcome? So we have defined the course outcome here. For"
+        },
+        {
+            "number": "L0",
+            "title": "Introduction(Optical Communication)",
+            "start": 553.2,
+            "end": 579.92,
+            "text": "example if I talk about the first unit here after learning the entire first unit. I can easily say that you will become familiar with the basic concept and theory of optical communication. That is what is optical communication? What happens in it? You will become aware of its basic concept. Then in the end after learning the second unit we can say that we can know about the optical communication components. We can assemble them and solve problems on optical communication system."
+        },
+        {
+            "number": "L0",
+            "title": "Introduction(Optical Communication)",
+            "start": 579.92,
+            "end": 604.3199999999999,
+            "text": "Means how much loss is occurring inside the fiber? How much power is being transmitted? You will also be able to calculate all these things. Then after learning this subject the other course outcome is to gain knowledge of different sources of light as well as receivers and their comparative study. I told you here there is LED. There are different types of lasers. Okay? After that you have receiver, receiver portion. So you have different lasers. LEDs are a part of transmitter. Your receivers"
+        },
+        {
+            "number": "L0",
+            "title": "Introduction(Optical Communication)",
+            "start": 604.3199999999999,
+            "end": 631.1999999999999,
+            "text": "are different. So you will study them in detail. Means you will know their operation, working, their structure and what is their comparative study. You can easily do that. Then you can also do design, implement, analyze and maintain optical communication system. So when you learn this whole optical communication system, then you can analyze the whole optical communication system. You can maintain an optical communication system. You can also design and the last one is that you will get"
+        },
+        {
+            "number": "L0",
+            "title": "Introduction(Optical Communication)",
+            "start": 631.1999999999999,
+            "end": 661.2,
+            "text": "idea about power budget and ultimately become an engineer with adequate knowledge in optical domain. So after learning this subject these are the required outcomes which I assume that you will feel comfortable with all these outcomes after reading this subject. That you will be able to do all these five after learning the complete subject. Okay? So this is all about the optical communication syllabus and about the course outcome. Now we will start from the next lecture unit number one."
+        },
+        {
+            "number": "L0",
+            "title": "Introduction(Optical Communication)",
+            "start": 661.2,
+            "end": 677.04,
+            "text": "The basic lecture basics starting from the lecture number one. So see you in the next lecture. Till then watch this lecture again. What is the course outcome and what is optical communication? Then we will meet in the next lecture with the unit number one. Thank you."
+        }
+    ],
+    "text": " Hello all, welcome to the video lecture series of optical communication. The subject code is RCO75, and here we are in lecture number 0. So, what is lecture number 0? Basically lecture number 0a contain the introductory part that is about the syllabus prescribed by the university and the respectable outcomes. You will be able to do or I can say what outcomes are learned by you after learning this subject. Ok? So first of all let us talk about the syllabus that this optical communication subject which we are going to study. What is its syllabus you guys have to see? Ok? So as this subject is a full unit subject. So divided into 5 units. So the syllabus is divided into 5 units. Unit number 1. So unit number 1 basically talks about what overview of optical fiber communication. Optical fiber communication. Now here you will study that basically what is the general system used for optical fiber communication. What are the advantages of this optical fiber communication and what is the optical spectral band? That when we do optical communication, in which band or optical rays that is optical light is propagated. Ok? Then after that we will study in this unit. Now the optical transmission medium. This is called the optical fiber. It works as a waveguide. It works just like a waveguide. So what is optical fiber waveguide? What is the transmission theory? That is on what basis our transmission takes place. This is called the total internal reflection condition. Our transmission takes place on this basis. So we will talk about it. Then here some numerical terms will be available to you. You will see. Regarding the fiber waveguide. This is acceptance angle, numerical aperture and in what are the theories. Then we will talk a little bit about electromagnetics. Electromagnetic mode theory related to this optical propagation. What is electromagnetic wave? A quick review will be for you. Then what types of modes in a planar guide? Which modes can our wave propagate in? Then what do you mean by phase and group velocity? And then what is the phase shift with total internal reflection? What is the ascendant field and crux residual shift? So these are the simple parameters and you can say a small topic related to this optical propagation. So, this complete unit gives you an idea what is the optical fiber communication. How optical communication basically happens. Then if I talk about the second unit. Then our entire discussion in the second unit will be on optical fiber. What is optical fiber? We are going to talk about silicidal fiber here. Which modes are there in it? Is the mode used for coupling? How many types of fibers are available? Like if I talk on the construction basis then one is called step index fiber. Another is called credit index fiber. If I talk on the basis of mode. Then one is called the single mode fiber and multi-mode fiber. So, we will talk about different types of fiber. Then what is the cutoff wavelength in these fibers? What is the cutoff wavelength of the fiber? Mode field diameter means what is the radius? What is the diameter? What is the spot size? These are the different parameters related to your silicacular fiber and we can say optical fiber. Like what is the refractive index? What is group delay? What is mode delay? Different different parameters. Then we will talk about losses single distortion in optical fiber. What are the losses available inside the optical fiber? So firstly what is this multilation? We will talk about it. Then what are the different types of losses in silica glass fiber that is intrinsic absorption and acoustic absorption? Then what are the linear scattering losses? In this we will study ray light scattering and my scattering. Then we will study non-linear scattering losses under which bending losses in our fiber will come. Then there is dispersion. You will study the category of dispersion that is wave dispersion, material dispersion. Then there is intermodal dispersion. Intramodal dispersion are different types of dispersion category. So we have to study the same thing in multimode as well. We have to study in grade index fiber as well. We will see how much the overall fiber dispersion will be. Then how can we simplify the dispersion inside multimode fiber and inside single mode fiber? We will study all these things here. After that a term will be formed here. What is polarization inside the fiber? What is fiber bifrequency polarization or dispersion? What is polarization maintaining fibers, non-linear effects like scattering effect and curve effects? So we will talk about these. So if I talk about this total unit, then after studying this total unit you will be able to know about the fiber. What are the characteristics of the fiber? In how many modes the fiber works? On the basis of how that fiber is classified and what are the losses basically in the fiber? Okay, then next will be the number 3 unit. Now we have talked about fiber here. If I talk about the second unit. So next is our optical source. Basically when we will study about optical communication system. So our transmitter is an optical which converts our light which is our incoming electrical signal into light signal. That is called optical source. So here we will study optical source in detail. We have two types of optical sources. That is one is called LEDs and one is called laser diode. So what are the LEDs? Different types of structure working, parameters related to your LED power modulation. Then similarly laser dot. What is the threshold condition? What is the laser dot? Read equation, quantum frequency efficiency, resonant frequency, laser dot structures, different types of instructions they are working. So here we will cover the entire optical source in unit number 3. Then in unit number 4, again now that we have seen the medium as well. Medium is what? Fiber. We have talked about the source. So now we will talk in unit number 4 that when we connect the medium and the source. Then what is the source to fiber power launching? That is, is the power transmitted from the source to the fiber? We are going to talk about it here. What is the source output pattern? How is the output power generated from the source? What is the coupling calculation? What is the power coupling calculation? Power launching versus wavelength equilibrium numerical aperture. So we will talk about these terms here. Then after that we come to the receiver part. If I talk, then your receiver portion starts from here. If we talk here, then this is the receiver. That is called photo detector. Here we use optical detector basically again to convert optical light into your electrical signal. So what type of photo detector is available here that is photodiodes? In photodiode, we will talk about pin photodetector and blank photodiode. Then what are the noise sources in photodetector noise? We will detect the signal to noise ratio. Then we will talk about the detector response time. Other applications that are photocurrent, response time structure, temperature effect on blank gain, comparison of photodetectors. Different types of detectors that we are going to study here. Okay? So this is totally based on your receiver part. This is based on your coupling part. And after that we call optical receiver operation. Optical receiver operation means unit number five. In which we talked about optical receiver detector. Related to this further we will see the parameters or I can say further details like what is the operation of fundamental receiver. How does digital signal transmission happen? What are the error sources front end amplifier? So we will talk about all these here in unit number five. Then to check the performance of the digital receiver, we will check the probability of error receiver sensitivity. We have a quantum unit. Then I diagram to again calculate the errors there with different types of measurement. Then we use current detection, fundamental concept homodyne detection, heterodyne detection, IBR comparison. So basically this is complete. I can say unit number five is your optical receiver operations. How does our optical receiver, the optical detector type receiver function? What are its functions? Okay. So this is your complete optical communication syllabus. In which I talked about basic fiber. Then basic communication in the first unit. In the second unit you will read about fiber. In the third unit you will read about sources. In the fourth unit we are going to start with optical detector and the last one is the optical receiver. Okay? So this is the complete syllabus prescribed by the university for you in the syllabus in the subject that is optical communication. The next part which we are going to discuss in this lecture. Now what is the textbook required for this subject? So the textbook which is given in the syllabus is also called senior John and senior JM senior. That is optical fiber communication by Pearson third edition 2010. This is your textbook in which you will get the complete syllabus of optical fiber communication. For a little bit of syllabus we will have to refer to GG sir. You can also refer to it for other topics because this is a reference book. Otherwise you have other books kept here like Raghu vanshi, Agarwal and places. This are also the optical fiber communication books prescribed in your syllabus as a reference. Then the next thing is what is the course outcome? So we have defined the course outcome here. For example if I talk about the first unit here after learning the entire first unit. I can easily say that you will become familiar with the basic concept and theory of optical communication. That is what is optical communication? What happens in it? You will become aware of its basic concept. Then in the end after learning the second unit we can say that we can know about the optical communication components. We can assemble them and solve problems on optical communication system. Means how much loss is occurring inside the fiber? How much power is being transmitted? You will also be able to calculate all these things. Then after learning this subject the other course outcome is to gain knowledge of different sources of light as well as receivers and their comparative study. I told you here there is LED. There are different types of lasers. Okay? After that you have receiver, receiver portion. So you have different lasers. LEDs are a part of transmitter. Your receivers are different. So you will study them in detail. Means you will know their operation, working, their structure and what is their comparative study. You can easily do that. Then you can also do design, implement, analyze and maintain optical communication system. So when you learn this whole optical communication system, then you can analyze the whole optical communication system. You can maintain an optical communication system. You can also design and the last one is that you will get idea about power budget and ultimately become an engineer with adequate knowledge in optical domain. So after learning this subject these are the required outcomes which I assume that you will feel comfortable with all these outcomes after reading this subject. That you will be able to do all these five after learning the complete subject. Okay? So this is all about the optical communication syllabus and about the course outcome. Now we will start from the next lecture unit number one. The basic lecture basics starting from the lecture number one. So see you in the next lecture. Till then watch this lecture again. What is the course outcome and what is optical communication? Then we will meet in the next lecture with the unit number one. Thank you."
+}

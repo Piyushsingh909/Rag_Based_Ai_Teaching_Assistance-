@@ -1,0 +1,320 @@
+{
+    "chunks": [
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 0.0,
+            "end": 32.76,
+            "text": "Hello all, welcome to the video lecture series of optical communication. Subject code is REC 075 and here we are in lecture number 8. So what we have covered in the previous lecture, so we are talking about basically electromagnetic wave theory, EM theory inside your optical waveguide. In which we have discussed about EM wave, then we have discussed about the modes, modes"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 32.76,
+            "end": 52.72,
+            "text": "in a planar waveguide, which we have discussed in the last lecture like M is equal to 0, that means what will happen at T0, what will happen at T1, what will happen at T2, what will happen at T3, there are different types of modes. That depends upon the reflection between the phase change between the two points, between the successive two reflections."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 52.72,
+            "end": 74.4,
+            "text": "And then we have discussed about the phase velocity, that is the velocity of your light ray inside the optical fiber. Now in this lecture what we are going to discuss, the another main topic we have is your group velocity and the next one is the evanescence field. So let's start, first of all group velocity."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 74.4,
+            "end": 91.76,
+            "text": "So as you must have read group velocity earlier, what was group velocity, phase velocity? The velocity of the wave inside your optical fiber. What is group velocity? The velocity when the wave travels, what will it get after that? Phase change of 2pi by lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 91.76,
+            "end": 111.75999999999999,
+            "text": "If we get a complete phase change of 2pi radian, where the phase change is obtained, that velocity is called group velocity. So if I have to derive the formula of group velocity, if you remember, like we have seen the vp, vp is omega by beta, so vg is d omega by d beta. So vg is equal to d omega by d beta."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 111.75999999999999,
+            "end": 131.04,
+            "text": "The same formula is here, group velocity vg is defined as d omega by d beta. Now what can I write d omega by d beta? I can divide and multiply both the sides by d lambda and d lambda. So this will become d lambda by d beta and d omega by d lambda. So we will solve both of them separately."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 131.04,
+            "end": 149.44,
+            "text": "Then we get the final value of the group velocity. So let us first see d lambda by d omega by d lambda. So as we know that lambda is equal to what? Lambda is equal to c by f. What is the value of lambda?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 149.44,
+            "end": 162.08,
+            "text": "c by f. So if I solve f from here, what will be the value of f? c by lambda. Now if you multiply both the sides by 2pi f, multiply 2pi here and multiply 2pi here So what is this term?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 162.08,
+            "end": 178.36,
+            "text": "Omega. So this becomes omega is equal to 2pi c by lambda. So what did I do? I started with lambda because we know that lambda is equal to c by f. So I took out the value of f from here and in that f, we have taken the value of omega"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 178.36,
+            "end": 196.68,
+            "text": "which is 2pi f. So you can directly say that omega is related to your lambda and given as 2pi c by lambda. Now what did I have to calculate? I had to calculate d omega by d lambda. So now I will differentiate this function omega in terms of lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 196.68,
+            "end": 208.84,
+            "text": "So what will be d omega by d lambda? This 2pi c is a constant term. And what will be 1 by lambda? 1 by lambda will be lambda to the power minus 1. If you differentiate this, then minus 1 lambda to the power minus 2."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 208.84,
+            "end": 226.24,
+            "text": "That means minus 1 by lambda square. So we will get 2pi c by lambda square. Now if we write this c again from this formula that c is equal to lambda f. So if you convert lambda f here, then 1 lambda will be cut from 1 lambda. And this will again become 2pi f."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 226.24,
+            "end": 237.16,
+            "text": "So 2pi f is again omega. So ultimately if I talk, then the value of d omega by d lambda will be equal to minus omega by lambda. Got it? Solve it?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 237.16,
+            "end": 254.56,
+            "text": "So the value of d omega by d lambda that we had to keep here, we will keep here minus omega by lambda. Now similarly, the second value that I have to calculate, I have to do it by differentiating lambda in terms of beta. So we saw in the first lecture that what was the formula for beta?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 254.56,
+            "end": 268.56,
+            "text": "Beta is equal to n1 2pi by lambda. Now if we solve d beta by d lambda from here, then what we will do later? d lambda by d beta. That means we will inverse it. So we differentiate d beta in terms of lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 268.56,
+            "end": 283.64,
+            "text": "So let's do it. Now this is, now see here n1 is there. 2pi is a constant term, but there is a term n1 and there is a term lambda. Now we are differentiating in terms of lambda. If you remember, I had told you one thing in the last lecture, when the wave comes under"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 283.64,
+            "end": 299.64,
+            "text": "the waveguide, then its refractive index is decreased by a factor lambda. That means whose function is refractive index? It depends on lambda. That means it is decremented by lambda. So here we consider n1 as dependent on wavelength."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 299.64,
+            "end": 316.71999999999997,
+            "text": "Okay? So that's why we say refractive index is a function of lambda. Okay? Now the second thing, so when you differentiate here, then here n1, we have constant here. If we differentiate according to lambda, then it becomes minus 2pi by lambda square."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 316.71999999999997,
+            "end": 333.8,
+            "text": "Because 2pi is a constant. And we saw what is the differentiation of 1 by lambda? Minus 1 by lambda square. So this term remains constant n1 and the second term becomes minus 2pi by lambda square. Now plus, if you see in the first term, this is n1, so this becomes dn1 by d lambda and"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 333.8,
+            "end": 351.8,
+            "text": "2pi by lambda is constant. Now if from this complete term, 2pi by lambda square is made common with minus, then here you will have n1 and because it was positive here, it will become negative. If you have taken lambda square as common, then here it is lambda, so above it is lambda multiplied and dn1 by d lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 351.88,
+            "end": 370.88,
+            "text": "Now this term n1 minus lambda dn1 by d lambda is called, is represent ng. Ng is what? Ng is basically called group index. Where ng is called n1 minus lambda dn1 by d lambda is called group index. Okay?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 371.88,
+            "end": 388.96,
+            "text": "So now we have a value of d beta by d lambda that is equal to minus 2pi by lambda square ng. Now if I was talking about this, I wanted group velocity, so group velocity is equal to vg is equal to d omega by d beta that can be written as d lambda by d beta multiplied d omega by d lambda."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 388.96,
+            "end": 413.03999999999996,
+            "text": "So that d lambda by d lambda is crossing and what will be left? d omega by d beta. So vg becomes, now I have put the value here, d lambda by d beta, we also solved, we solved d beta by d lambda, d beta by d lambda is equal to minus 2pi by lambda square ng. So you reverse it, so it becomes minus lambda square divided by 2pi by 2pi into ng."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 413.03999999999996,
+            "end": 431.12,
+            "text": "And d omega by d lambda we solved, minus omega by lambda. So minus will become minus plus, one lambda will cancel one lambda. And if you write omega here, omega is equal to 2pi f, so from here f, sorry, 2pi will cancel out. So what will be left?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 431.12,
+            "end": 446.12,
+            "text": "f lambda divided by ng. And again f lambda is equal to c. So ultimately vg becomes c by ng. That means vg, the group velocity, in light velocity, what factor is it divided by? It is divided by ng."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 446.12,
+            "end": 466.2,
+            "text": "If you remember the phase velocity, what did we have? c by n1. That means our light velocity depends upon the factor, decrease, the velocity inside the fiber, decrease by a factor n1. Okay, so these are the two important values, that is your phase velocity and group velocity"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 466.2,
+            "end": 481.2,
+            "text": "with respect to your optical waveguide. So group velocity is completed. After this, now the topic we have to discuss is, this is evidence field. But before that, I am again recalling the same diagram here. That first of all, this is our interface."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 481.2,
+            "end": 500.28,
+            "text": "This part is your core with a refractive index of m1. And this part is your cladding with a refractive index of n2. So there is a wave vector occurs, that is your incident wave, represented by a, that is given by a0 exponential minus j beta x1x exponential j omega t minus beta z."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 500.28,
+            "end": 514.36,
+            "text": "Now this is called propagation factor. We are assuming that where is the wave propagating? In z direction. And this is called the exponential minus j beta 1x, that is your attenuation factor. Okay, which I have shown there, e to the power minus alpha z."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 514.36,
+            "end": 528.36,
+            "text": "So the same x component is available here. Similarly, one is your transmitted wave. So this is represented by b0. This is your transmitted wave b0. So equation of b0 is also written in similar form."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 528.36,
+            "end": 544.44,
+            "text": "And similarly, there is a reflected ray. This is your c. Because as we have seen earlier, when any incident ray comes on optical fiber, then some part is reflected and some part is reflected back again into the same medium."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 544.44,
+            "end": 563.44,
+            "text": "So now from this theory, if we say before the critical angle for total internal deflection is reached, we have already studied the theory that what is the condition of total internal deflection? That the incidence angle becomes equal to the critical angle. That is incident angle is equal to phi c."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 563.44,
+            "end": 582.5200000000001,
+            "text": "So if our TIR condition is reached, then at that point, there is only partial reflection. The field in the cladding is of the form of b0 exponential minus j beta x2x exponential j omega t minus beta z."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 584.5200000000001,
+            "end": 598.6,
+            "text": "But when the total internal deflection occurs, if I talk about the earlier condition, then I get the reflection here. But as soon as your TIR occurs, that is, this incident angle is equal to phi c, we will say TIR occurs."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 598.6,
+            "end": 612.6,
+            "text": "And when TIR occurs, then what will happen to the reflected ray? You will not get it. That is, complete ray is transmitted back. That is, totally we got the reflection."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 612.6,
+            "end": 626.6800000000001,
+            "text": "Which is our TIR condition. So when TIR condition occurs, then we are saying that this beta x2 becomes imaginary and may be written as j minus j epsilon 2. That is, if I put value instead of this,"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 626.6800000000001,
+            "end": 641.6800000000001,
+            "text": "then it will be minus j epsilon of 2 x. So minus minus will make you positive. But here is j and j, so this will again minus 1. So this will return as like this, exponential minus epsilon 2 x exponential j omega t minus beta z."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 642.6800000000001,
+            "end": 657.76,
+            "text": "So it is clear from here that your amplitude is basically, the amplitude of the field in the cladding is observed to decay exponentially due to this term. Due to this term, my field component decreases exponentially"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 657.76,
+            "end": 669.76,
+            "text": "in x direction. Because this is direction of x. Such a field exhibiting an exponential decaying amplitude is often referred as evidence field. What is this thing?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 669.76,
+            "end": 684.84,
+            "text": "This is your evidence field. We said that how does our field propagate? Like this. We are talking about T1. This is basically T1 because there is a 1,"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 684.84,
+            "end": 694.84,
+            "text": "zero axis interference. We can also say zero axis crossing. But what is happening is, as your field moves towards cladding, that is the transmitted ray,"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 694.84,
+            "end": 706.84,
+            "text": "what is the transmitted ray doing to itself? This will be exponentially decaying. So this is basically called the evidence field. So this is all about the group velocity and the evanescent field."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 706.9200000000001,
+            "end": 717.9200000000001,
+            "text": "What is group velocity? What is the expression we have derived? Derivation is mostly important. It is often asked that what is the group velocity in the case of optical fiber?"
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 717.9200000000001,
+            "end": 728.9200000000001,
+            "text": "Drive the expression. So let's finish the lecture with this. We will meet in the next lecture where we will summarize unit 1. Unit 1 will also end."
+        },
+        {
+            "number": "L8",
+            "title": "Group Velocity & Evanescent Field   Hindi",
+            "start": 728.9200000000001,
+            "end": 732.9200000000001,
+            "text": "So meet you in the next lecture. Thank you."
+        }
+    ],
+    "text": " Hello all, welcome to the video lecture series of optical communication. Subject code is REC 075 and here we are in lecture number 8. So what we have covered in the previous lecture, so we are talking about basically electromagnetic wave theory, EM theory inside your optical waveguide. In which we have discussed about EM wave, then we have discussed about the modes, modes in a planar waveguide, which we have discussed in the last lecture like M is equal to 0, that means what will happen at T0, what will happen at T1, what will happen at T2, what will happen at T3, there are different types of modes. That depends upon the reflection between the phase change between the two points, between the successive two reflections. And then we have discussed about the phase velocity, that is the velocity of your light ray inside the optical fiber. Now in this lecture what we are going to discuss, the another main topic we have is your group velocity and the next one is the evanescence field. So let's start, first of all group velocity. So as you must have read group velocity earlier, what was group velocity, phase velocity? The velocity of the wave inside your optical fiber. What is group velocity? The velocity when the wave travels, what will it get after that? Phase change of 2pi by lambda. If we get a complete phase change of 2pi radian, where the phase change is obtained, that velocity is called group velocity. So if I have to derive the formula of group velocity, if you remember, like we have seen the vp, vp is omega by beta, so vg is d omega by d beta. So vg is equal to d omega by d beta. The same formula is here, group velocity vg is defined as d omega by d beta. Now what can I write d omega by d beta? I can divide and multiply both the sides by d lambda and d lambda. So this will become d lambda by d beta and d omega by d lambda. So we will solve both of them separately. Then we get the final value of the group velocity. So let us first see d lambda by d omega by d lambda. So as we know that lambda is equal to what? Lambda is equal to c by f. What is the value of lambda? c by f. So if I solve f from here, what will be the value of f? c by lambda. Now if you multiply both the sides by 2pi f, multiply 2pi here and multiply 2pi here So what is this term? Omega. So this becomes omega is equal to 2pi c by lambda. So what did I do? I started with lambda because we know that lambda is equal to c by f. So I took out the value of f from here and in that f, we have taken the value of omega which is 2pi f. So you can directly say that omega is related to your lambda and given as 2pi c by lambda. Now what did I have to calculate? I had to calculate d omega by d lambda. So now I will differentiate this function omega in terms of lambda. So what will be d omega by d lambda? This 2pi c is a constant term. And what will be 1 by lambda? 1 by lambda will be lambda to the power minus 1. If you differentiate this, then minus 1 lambda to the power minus 2. That means minus 1 by lambda square. So we will get 2pi c by lambda square. Now if we write this c again from this formula that c is equal to lambda f. So if you convert lambda f here, then 1 lambda will be cut from 1 lambda. And this will again become 2pi f. So 2pi f is again omega. So ultimately if I talk, then the value of d omega by d lambda will be equal to minus omega by lambda. Got it? Solve it? So the value of d omega by d lambda that we had to keep here, we will keep here minus omega by lambda. Now similarly, the second value that I have to calculate, I have to do it by differentiating lambda in terms of beta. So we saw in the first lecture that what was the formula for beta? Beta is equal to n1 2pi by lambda. Now if we solve d beta by d lambda from here, then what we will do later? d lambda by d beta. That means we will inverse it. So we differentiate d beta in terms of lambda. So let's do it. Now this is, now see here n1 is there. 2pi is a constant term, but there is a term n1 and there is a term lambda. Now we are differentiating in terms of lambda. If you remember, I had told you one thing in the last lecture, when the wave comes under the waveguide, then its refractive index is decreased by a factor lambda. That means whose function is refractive index? It depends on lambda. That means it is decremented by lambda. So here we consider n1 as dependent on wavelength. Okay? So that's why we say refractive index is a function of lambda. Okay? Now the second thing, so when you differentiate here, then here n1, we have constant here. If we differentiate according to lambda, then it becomes minus 2pi by lambda square. Because 2pi is a constant. And we saw what is the differentiation of 1 by lambda? Minus 1 by lambda square. So this term remains constant n1 and the second term becomes minus 2pi by lambda square. Now plus, if you see in the first term, this is n1, so this becomes dn1 by d lambda and 2pi by lambda is constant. Now if from this complete term, 2pi by lambda square is made common with minus, then here you will have n1 and because it was positive here, it will become negative. If you have taken lambda square as common, then here it is lambda, so above it is lambda multiplied and dn1 by d lambda. Now this term n1 minus lambda dn1 by d lambda is called, is represent ng. Ng is what? Ng is basically called group index. Where ng is called n1 minus lambda dn1 by d lambda is called group index. Okay? So now we have a value of d beta by d lambda that is equal to minus 2pi by lambda square ng. Now if I was talking about this, I wanted group velocity, so group velocity is equal to vg is equal to d omega by d beta that can be written as d lambda by d beta multiplied d omega by d lambda. So that d lambda by d lambda is crossing and what will be left? d omega by d beta. So vg becomes, now I have put the value here, d lambda by d beta, we also solved, we solved d beta by d lambda, d beta by d lambda is equal to minus 2pi by lambda square ng. So you reverse it, so it becomes minus lambda square divided by 2pi by 2pi into ng. And d omega by d lambda we solved, minus omega by lambda. So minus will become minus plus, one lambda will cancel one lambda. And if you write omega here, omega is equal to 2pi f, so from here f, sorry, 2pi will cancel out. So what will be left? f lambda divided by ng. And again f lambda is equal to c. So ultimately vg becomes c by ng. That means vg, the group velocity, in light velocity, what factor is it divided by? It is divided by ng. If you remember the phase velocity, what did we have? c by n1. That means our light velocity depends upon the factor, decrease, the velocity inside the fiber, decrease by a factor n1. Okay, so these are the two important values, that is your phase velocity and group velocity with respect to your optical waveguide. So group velocity is completed. After this, now the topic we have to discuss is, this is evidence field. But before that, I am again recalling the same diagram here. That first of all, this is our interface. This part is your core with a refractive index of m1. And this part is your cladding with a refractive index of n2. So there is a wave vector occurs, that is your incident wave, represented by a, that is given by a0 exponential minus j beta x1x exponential j omega t minus beta z. Now this is called propagation factor. We are assuming that where is the wave propagating? In z direction. And this is called the exponential minus j beta 1x, that is your attenuation factor. Okay, which I have shown there, e to the power minus alpha z. So the same x component is available here. Similarly, one is your transmitted wave. So this is represented by b0. This is your transmitted wave b0. So equation of b0 is also written in similar form. And similarly, there is a reflected ray. This is your c. Because as we have seen earlier, when any incident ray comes on optical fiber, then some part is reflected and some part is reflected back again into the same medium. So now from this theory, if we say before the critical angle for total internal deflection is reached, we have already studied the theory that what is the condition of total internal deflection? That the incidence angle becomes equal to the critical angle. That is incident angle is equal to phi c. So if our TIR condition is reached, then at that point, there is only partial reflection. The field in the cladding is of the form of b0 exponential minus j beta x2x exponential j omega t minus beta z. But when the total internal deflection occurs, if I talk about the earlier condition, then I get the reflection here. But as soon as your TIR occurs, that is, this incident angle is equal to phi c, we will say TIR occurs. And when TIR occurs, then what will happen to the reflected ray? You will not get it. That is, complete ray is transmitted back. That is, totally we got the reflection. Which is our TIR condition. So when TIR condition occurs, then we are saying that this beta x2 becomes imaginary and may be written as j minus j epsilon 2. That is, if I put value instead of this, then it will be minus j epsilon of 2 x. So minus minus will make you positive. But here is j and j, so this will again minus 1. So this will return as like this, exponential minus epsilon 2 x exponential j omega t minus beta z. So it is clear from here that your amplitude is basically, the amplitude of the field in the cladding is observed to decay exponentially due to this term. Due to this term, my field component decreases exponentially in x direction. Because this is direction of x. Such a field exhibiting an exponential decaying amplitude is often referred as evidence field. What is this thing? This is your evidence field. We said that how does our field propagate? Like this. We are talking about T1. This is basically T1 because there is a 1, zero axis interference. We can also say zero axis crossing. But what is happening is, as your field moves towards cladding, that is the transmitted ray, what is the transmitted ray doing to itself? This will be exponentially decaying. So this is basically called the evidence field. So this is all about the group velocity and the evanescent field. What is group velocity? What is the expression we have derived? Derivation is mostly important. It is often asked that what is the group velocity in the case of optical fiber? Drive the expression. So let's finish the lecture with this. We will meet in the next lecture where we will summarize unit 1. Unit 1 will also end. So meet you in the next lecture. Thank you."
+}

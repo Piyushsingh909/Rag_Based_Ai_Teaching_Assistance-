@@ -1,0 +1,292 @@
+{
+    "chunks": [
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 0.0,
+            "end": 27.44,
+            "text": "Hello, welcome to the video lecture series of optical communication. The subject code is REC 075 and here we are in lecture number 1. So what we have discussed in the previous lecture, in the previous lecture we talked about what is the prescribed syllabus and the respective course outcome, what you will learn after going through the complete subject."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 27.44,
+            "end": 49.52,
+            "text": "Now in this lecture we are going to start what is the basic optical communication system. What we will study in this is called general system. What is the general system that we use for optical fiber or optical communication. So let us talk about optical communication. Now what is optical communication?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 49.52,
+            "end": 65.84,
+            "text": "What is optical communication? Now if I remove the word optical from the red, then you have read about communication. You have read about analog communication, about digital communication. So we know that is communication. And if I forget about the simple, so if I talk about communication, then what is required"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 65.84,
+            "end": 82.32,
+            "text": "in communication? In communication, I require what is the input signal, then this input signal is transferred over the channel. Then this input signal is transferred over the channel and this is the output. We sometimes call input as source, from where we are sending, this is the source and generator"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 82.32,
+            "end": 103.6,
+            "text": "is the channel and through this channel, the signal is generated via source and this will be transferred to the receiver. The output end is called receiver. So this is the basic communication system. Now if I talk about the same communication system, then what is communication system"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 103.6,
+            "end": 118.2,
+            "text": "in general? That is similar to our basic concept to any type of communication system. If you talk about optical communication, then this is similar to basic concept to any type of communication system. Now what is the definition of communication system?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 118.2,
+            "end": 146.88000000000002,
+            "text": "The main function is to convey the signal from the information source over the transmission medium to the destination. From information source to destination, we have to convey our signal and over the transmission medium. Like this time, I am the generator, I am the source and you are the receiver and we are"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 146.88000000000002,
+            "end": 168.96,
+            "text": "using a medium online through which I am talking to you and you are listening. So that is called basically communication. Now if I use the word optical, then if I represent a basic communication system, then how is basic communication represented? One is called the information source from where the actual physical signal is generated."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 168.96,
+            "end": 184.96,
+            "text": "One is called the destination where the actual receiver receives the signal and this is the transmission medium communication system. One is called the transmitter and this is also called the modulator. What is a modulator? Why is a modulator required?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 184.96,
+            "end": 204.04000000000002,
+            "text": "Can anyone tell me? Do you remember? Modulator is used when the information source is in a very low amplitude and there is a very high light signal. So we modulate the frequency and amplitude of the information source so that our signal"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 204.04000000000002,
+            "end": 229.12,
+            "text": "is generated for this particular medium and it can be propagated over this medium. For example, if I speak very slowly, then my voice will not reach you. So that means if I put an amplifier or a modulator in front of my voice, then it will increase my voice so that when the voice is transferred to the medium, then this medium itself has losses."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 229.12,
+            "end": 252.20000000000002,
+            "text": "All you have to know is what happens in the medium, there are losses. So if we do not modulate, then our original signal will be lost very quickly without using the modulator. So that's why we prefer modulation. Then we transfer it to the medium and when we reach the receiver end, then we put a"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 252.20000000000002,
+            "end": 272.2,
+            "text": "demodulator on the receiver. That means the modulated signal will be demodulated and after demodulation, we will get the original signal back. That original signal is given to our receiver. So this is basically called a basic communication system where there is an information source,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 272.28,
+            "end": 292.28,
+            "text": "a transmitter, this is your modulator part, then your signal is transferred through the medium, then at the time of receiver, this is receiver demodulator which will give the original signal to your receiver. So this is a basic communication system. Now if I am talking about optical, then what changes will happen in optical?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 292.28,
+            "end": 315.35999999999996,
+            "text": "Now this modulator is changed. Now I have to bring something here which will convert my electrical signal into optical signal. I have to bring electrical to optical conversion. Because this medium will convert into optical fiber."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 315.35999999999996,
+            "end": 342.44,
+            "text": "So optical fiber, because it passes on the optic rays, I have to put electrical to optical conversion. Similarly, modulator will be left, along with electrical to optical conversion. Similarly, when we reach the receiver end, I need demodulator, but before that I have to put a system which converts your optical signal into electrical signal."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 342.44,
+            "end": 355.52,
+            "text": "Optical to electrical conversion. So what will be our system? We will call it optical communication system. So let's see what changes will happen in the block diagram. So here, this is your basic block diagram."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 355.52,
+            "end": 372.52,
+            "text": "Information source, transmitter, transmission medium, receiver, and destination. Now if I want to convert this into optical, then there is no change in the information source and destination. Now as I said, this transmitter modulator is converted into two stages. Basically what are the two stages?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 372.52,
+            "end": 392.59999999999997,
+            "text": "One is called electric transmit. And the other is called modulator. And this is the optical source. This is the optical source which you will read in detail. But here, just to remember as a function, this converts your electrical signal to optical"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 392.59999999999997,
+            "end": 411.68,
+            "text": "signal. Optical source converts electrical to optical signal. And what are the examples of optical source? We will study LED, laser, these types of optical sources we studied in unit number 3. As I told you in lecture 0, introduction."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 411.68,
+            "end": 425.68,
+            "text": "Similarly, if you look at receiver cut point, Now, what is the second one? Transmission medium. So what is the replacement of transmission medium? Transmission medium is replaced by optical fiber cable."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 425.68,
+            "end": 436.76,
+            "text": "Now this is optical fiber cable. You will read in detail in unit number 2, that what are the optical fibers and losses in optical fibers. So this is my transmission medium. That is optical fiber."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 436.76,
+            "end": 450.76,
+            "text": "That's why I required optical source. Because optical fiber can only transfer optic rays. That's why I had to convert electrical to optical. So from here, you will be transmitted through optical fiber. Then you will be an optical detector."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 450.76,
+            "end": 462.84,
+            "text": "Now optical detector just performs the opposite operation of optical source. What did optical source do? Electrical to optical. Optical to optical conversion. And what will it do?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 462.84,
+            "end": 476.84,
+            "text": "Optical to electrical conversion. It means it converts optical signal back to electrical signal. Optical detector. Here we will study PIN, photo detector, There are different types of optical detectors that you will study in unit number 4."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 478.84,
+            "end": 494.91999999999996,
+            "text": "After that, there is electrical receive. Now this will perform a function of demodulator. So this will perform the function of demodulation. This will demodulate the electrical signal that has been converted. And then it will give to the destination part that is our receiver."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 495.91999999999996,
+            "end": 510.91999999999996,
+            "text": "So if I talk about the working of all these, The working of a single line, Like if I talk about information source, So what is the functioning of information source? Information source provides an electrical signal to the transmitter for transmission."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 511.0,
+            "end": 528.0,
+            "text": "Right? Information source will give me an electrical signal or physical signal. That is given electrical signal to the transmitter for transmission. That what signal I have to transmit. Then if we talk about the transmission stage,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 528.0,
+            "end": 539.0,
+            "text": "Transmitter stage, and it will convert it into two parts. One is called electric transmit, One is called optical source. So what is the function of electric transmit? This is an electrical stage which drives an optical source"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 539.08,
+            "end": 551.08,
+            "text": "to give modulation of the light wave carrier. So this will simply perform the functioning of modulation. This works to do the modulation of electrical signal. And when the signal is modulated, Then it will apply to the optical source."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 551.08,
+            "end": 566.08,
+            "text": "The optical source which is used to convert the electrical signal to optical signal, This is the main function of your optical source, Electrical to optical signal conversion. This may be either a semiconductor laser or LED, Which we will study in detail."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 566.1600000000001,
+            "end": 581.1600000000001,
+            "text": "But here I just need one line definition That all the representation we have done in this block, What is the basic working of each and every block? Okay? So next thing was transmission medium."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 581.1600000000001,
+            "end": 592.1600000000001,
+            "text": "What does the transmission medium do? The medium consists of an optical fiber cable, Which transmits the optical signal to the receiver. Then similarly the receiver stage, Receiver stage again based on two parts,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 592.1600000000001,
+            "end": 604.24,
+            "text": "One is called the optical detector, One is called the electrical receive. What does the optical detector do? Optical detector is used to convert the optical signal to electrical signal. Just opposite from your optical source."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 604.24,
+            "end": 613.24,
+            "text": "Like photodiodes, we have pin diode, PI diode, Or avalanche photodiodes, Photoconductors are there, Phototransistors are there, Are utilized for the detection of the optical signals,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 613.24,
+            "end": 626.32,
+            "text": "And the optical electrical conversion. Okay? Then there is the electrical receive. This is an electrical stage which drives by an optical detector To give demodulation of the optical carrier signal."
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 626.32,
+            "end": 636.32,
+            "text": "Okay? So, in a way, Demodulation will be done by electrical receive. That's why I told you, You have to remember the function of each line from the block diagram,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 636.32,
+            "end": 649.32,
+            "text": "Which stage has which function. So, after seeing this lecture, You will understand very well, What is the optical communication system? How are the blocks installed in it?"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 649.4000000000001,
+            "end": 659.4000000000001,
+            "text": "And what is the working of each block and each component? Okay? Now, you can again see the video. You can watch the video again. And if you like it,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 659.4000000000001,
+            "end": 668.4000000000001,
+            "text": "Then, please subscribe to my channel. So that you will get the information about the upcoming videos. Okay? Thank you. So, let's meet in the next lecture,"
+        },
+        {
+            "number": "L1",
+            "title": "Optical Communica",
+            "start": 668.4000000000001,
+            "end": 673.4000000000001,
+            "text": "Where we will talk about the advantages of optical fiber communication. Okay. Thank you."
+        }
+    ],
+    "text": " Hello, welcome to the video lecture series of optical communication. The subject code is REC 075 and here we are in lecture number 1. So what we have discussed in the previous lecture, in the previous lecture we talked about what is the prescribed syllabus and the respective course outcome, what you will learn after going through the complete subject. Now in this lecture we are going to start what is the basic optical communication system. What we will study in this is called general system. What is the general system that we use for optical fiber or optical communication. So let us talk about optical communication. Now what is optical communication? What is optical communication? Now if I remove the word optical from the red, then you have read about communication. You have read about analog communication, about digital communication. So we know that is communication. And if I forget about the simple, so if I talk about communication, then what is required in communication? In communication, I require what is the input signal, then this input signal is transferred over the channel. Then this input signal is transferred over the channel and this is the output. We sometimes call input as source, from where we are sending, this is the source and generator is the channel and through this channel, the signal is generated via source and this will be transferred to the receiver. The output end is called receiver. So this is the basic communication system. Now if I talk about the same communication system, then what is communication system in general? That is similar to our basic concept to any type of communication system. If you talk about optical communication, then this is similar to basic concept to any type of communication system. Now what is the definition of communication system? The main function is to convey the signal from the information source over the transmission medium to the destination. From information source to destination, we have to convey our signal and over the transmission medium. Like this time, I am the generator, I am the source and you are the receiver and we are using a medium online through which I am talking to you and you are listening. So that is called basically communication. Now if I use the word optical, then if I represent a basic communication system, then how is basic communication represented? One is called the information source from where the actual physical signal is generated. One is called the destination where the actual receiver receives the signal and this is the transmission medium communication system. One is called the transmitter and this is also called the modulator. What is a modulator? Why is a modulator required? Can anyone tell me? Do you remember? Modulator is used when the information source is in a very low amplitude and there is a very high light signal. So we modulate the frequency and amplitude of the information source so that our signal is generated for this particular medium and it can be propagated over this medium. For example, if I speak very slowly, then my voice will not reach you. So that means if I put an amplifier or a modulator in front of my voice, then it will increase my voice so that when the voice is transferred to the medium, then this medium itself has losses. All you have to know is what happens in the medium, there are losses. So if we do not modulate, then our original signal will be lost very quickly without using the modulator. So that's why we prefer modulation. Then we transfer it to the medium and when we reach the receiver end, then we put a demodulator on the receiver. That means the modulated signal will be demodulated and after demodulation, we will get the original signal back. That original signal is given to our receiver. So this is basically called a basic communication system where there is an information source, a transmitter, this is your modulator part, then your signal is transferred through the medium, then at the time of receiver, this is receiver demodulator which will give the original signal to your receiver. So this is a basic communication system. Now if I am talking about optical, then what changes will happen in optical? Now this modulator is changed. Now I have to bring something here which will convert my electrical signal into optical signal. I have to bring electrical to optical conversion. Because this medium will convert into optical fiber. So optical fiber, because it passes on the optic rays, I have to put electrical to optical conversion. Similarly, modulator will be left, along with electrical to optical conversion. Similarly, when we reach the receiver end, I need demodulator, but before that I have to put a system which converts your optical signal into electrical signal. Optical to electrical conversion. So what will be our system? We will call it optical communication system. So let's see what changes will happen in the block diagram. So here, this is your basic block diagram. Information source, transmitter, transmission medium, receiver, and destination. Now if I want to convert this into optical, then there is no change in the information source and destination. Now as I said, this transmitter modulator is converted into two stages. Basically what are the two stages? One is called electric transmit. And the other is called modulator. And this is the optical source. This is the optical source which you will read in detail. But here, just to remember as a function, this converts your electrical signal to optical signal. Optical source converts electrical to optical signal. And what are the examples of optical source? We will study LED, laser, these types of optical sources we studied in unit number 3. As I told you in lecture 0, introduction. Similarly, if you look at receiver cut point, Now, what is the second one? Transmission medium. So what is the replacement of transmission medium? Transmission medium is replaced by optical fiber cable. Now this is optical fiber cable. You will read in detail in unit number 2, that what are the optical fibers and losses in optical fibers. So this is my transmission medium. That is optical fiber. That's why I required optical source. Because optical fiber can only transfer optic rays. That's why I had to convert electrical to optical. So from here, you will be transmitted through optical fiber. Then you will be an optical detector. Now optical detector just performs the opposite operation of optical source. What did optical source do? Electrical to optical. Optical to optical conversion. And what will it do? Optical to electrical conversion. It means it converts optical signal back to electrical signal. Optical detector. Here we will study PIN, photo detector, There are different types of optical detectors that you will study in unit number 4. After that, there is electrical receive. Now this will perform a function of demodulator. So this will perform the function of demodulation. This will demodulate the electrical signal that has been converted. And then it will give to the destination part that is our receiver. So if I talk about the working of all these, The working of a single line, Like if I talk about information source, So what is the functioning of information source? Information source provides an electrical signal to the transmitter for transmission. Right? Information source will give me an electrical signal or physical signal. That is given electrical signal to the transmitter for transmission. That what signal I have to transmit. Then if we talk about the transmission stage, Transmitter stage, and it will convert it into two parts. One is called electric transmit, One is called optical source. So what is the function of electric transmit? This is an electrical stage which drives an optical source to give modulation of the light wave carrier. So this will simply perform the functioning of modulation. This works to do the modulation of electrical signal. And when the signal is modulated, Then it will apply to the optical source. The optical source which is used to convert the electrical signal to optical signal, This is the main function of your optical source, Electrical to optical signal conversion. This may be either a semiconductor laser or LED, Which we will study in detail. But here I just need one line definition That all the representation we have done in this block, What is the basic working of each and every block? Okay? So next thing was transmission medium. What does the transmission medium do? The medium consists of an optical fiber cable, Which transmits the optical signal to the receiver. Then similarly the receiver stage, Receiver stage again based on two parts, One is called the optical detector, One is called the electrical receive. What does the optical detector do? Optical detector is used to convert the optical signal to electrical signal. Just opposite from your optical source. Like photodiodes, we have pin diode, PI diode, Or avalanche photodiodes, Photoconductors are there, Phototransistors are there, Are utilized for the detection of the optical signals, And the optical electrical conversion. Okay? Then there is the electrical receive. This is an electrical stage which drives by an optical detector To give demodulation of the optical carrier signal. Okay? So, in a way, Demodulation will be done by electrical receive. That's why I told you, You have to remember the function of each line from the block diagram, Which stage has which function. So, after seeing this lecture, You will understand very well, What is the optical communication system? How are the blocks installed in it? And what is the working of each block and each component? Okay? Now, you can again see the video. You can watch the video again. And if you like it, Then, please subscribe to my channel. So that you will get the information about the upcoming videos. Okay? Thank you. So, let's meet in the next lecture, Where we will talk about the advantages of optical fiber communication. Okay. Thank you."
+}

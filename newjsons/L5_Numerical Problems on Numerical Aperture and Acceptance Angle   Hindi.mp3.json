@@ -1,0 +1,474 @@
+{
+    "chunks": [
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 0.0,
+            "end": 25.0,
+            "text": "Hello all welcome to the video lecture series of optical communication subject code is REC 075 and here we are in lecture number 5. So what did we talk about in the previous lecture? In the previous lecture we talked about how the light is basically propagated in the optical fiber. What is the condition of light propagation? That is called the total internal reflection."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 25.0,
+            "end": 48.0,
+            "text": "And due to this total internal reflection or I should say within the light propagation we talked about two numerical terms. We talked about parameters. These are called what is numerical aperture and what is acceptance angle. Okay? Acceptance angle was our angle at which our wave should be incident at the minimum angle so that it can propagate in the fiber."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 48.0,
+            "end": 67.0,
+            "text": "So last we drove some functions here like if I talk about numerical aperture. This is the function n1 to the power of 2n2 to the power of 2a. This is also called a that is equal to sin theta a if I talked about the acceptance angle. So from here you can calculate theta sin inverse of numerical aperture. Okay?"
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 67.0,
+            "end": 85.0,
+            "text": "So based on these functions what we are going to do in this lecture. This is simply numerical problems on numerical aperture, acceptance angle and last we talked about meridional rays. Here we will talk about the second type of ray that is called the skew rays. Okay? So let's get started."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 85.0,
+            "end": 114.0,
+            "text": "So first of all numerical problem problem number one. A silica optical fiber with a core diameter large enough to be considered by ray theory analysis has a core refractive index of 1.50. Now this is a core refractive index. So what is this? This 1.50 is nothing but n1 then a cladding refractive index of 1.47 means this 1.47 is nothing but n2."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 114.0,
+            "end": 130.0,
+            "text": "Okay? So we have core refractive index we have cladding refractive index. Now calculate the critical angle at core cladding interface. Numerical aperture for the fiber. So if I talk about critical angle then critical angle was also our sin theta formula."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 130.0,
+            "end": 146.0,
+            "text": "That is equal to numerical aperture. So firstly ah sorry that is acceptance angle. So what was the formula that we read for critical angle? I read the formula for critical angle sin theta c equals n2 n1. This is the formula for critical angle."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 146.0,
+            "end": 164.0,
+            "text": "So here I know n2 I know n1. I can simply put the value and calculate the value of this theta. Then we can calculate the value of numerical aperture. That is n1 to the power of 2 n2 to the power of 2 and once we get the numerical aperture we can simply calculate this acceptance angle. Okay?"
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 164.0,
+            "end": 176.0,
+            "text": "So these are very easy type of questions. Meaning this type of question is completely formula based which is put in the paper very often. So let us start the solution. So what are we given first for the solution? As I told you first of all we know n1."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 176.0,
+            "end": 194.0,
+            "text": "That is 1.5 and n2 is 1.7. So here it is n2 is 1.7. Next we have to calculate this critical angle. So what is the formula for critical angle? C becomes sin inverse n2 n1 then sin inverse we have the value of n2 that is 1.547 1.5."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 194.0,
+            "end": 218.0,
+            "text": "After solving this we get 78.5 degrees from the second part that we had to calculate. This is nothing but the numerical aperture. So what is the formula for numerical aperture? That is n1 to the power of 2 n2 to the power of 2 that is equal to n1 to the power of 2. The value of r's becomes 1.5 squared minus 1.47 squared that is equal to 0.30 after solving."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 218.0,
+            "end": 230.0,
+            "text": "So this is my numerical aperture. And the third thing is acceptance angle. So what is our acceptance angle? That is theta a simply sin inverse of numerical aperture. Sin inverse of numerical aperture."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 230.0,
+            "end": 253.0,
+            "text": "So sin inverse of 3 because here I have calculated it. I have got the value of 3 so we will put 3 here. So sin inverse of 3 will becomes me the value 7.4 degrees. Ok, so this is the simple question in which you have given all like n1 and n2 what is the core and cladding refractive index. And on the basis of n1 and n2 we can simply calculate what is the critical angle."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 253.0,
+            "end": 269.0,
+            "text": "What is the numerical aperture and what is the acceptance angle. Ok, so, done. So let's see the next problem. Now the second problem is a typical relative refractive index difference. Now see the term relative refractive index difference."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 269.0,
+            "end": 281.0,
+            "text": "What is that? This is nothing but del. We talked about it last time in the last lecture. This is called del. For an optical fiber used for long distance transmission is 1%."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 281.0,
+            "end": 295.0,
+            "text": "So that means delay. If your delay is 1% then how do we define 1%? 0.01. Ok. So let's calculate the numerical aperture and the solid acceptance angle in air for the fiber when the core index is 1.46."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 295.0,
+            "end": 307.0,
+            "text": "So this value is core index and what is the index of the core? n1. Ok, so estimate the NAW. Now I have to calculate NAW when the core index is n1. What was the formula for NAW?"
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 307.0,
+            "end": 319.0,
+            "text": "n1 to the power of 2 n2 to the power of 2. Is n2 given anywhere here? Let's read the question further. Also calculate the critical angle which your NAW leaves at the core gliding interface with the fiber. That means I am not given n2 here."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 319.0,
+            "end": 329.0,
+            "text": "But what am I given? I am given n1 and delay is given. Ok, so in the last lecture, we studied how to calculate numerical aperture. We can also do it on the basis of this formula. What was the formula?"
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 329.0,
+            "end": 339.0,
+            "text": "Yes, n1 twice the value of delta caret one half means 2D. So your numerical aperture can also be calculated with the help of this formula which we also saw last time that n1 asterisk twice the value of delta caret one half means 2D. So using this formula we can simply get to calculate the value of NAW. So let's start the solution. So firstly we have given what is the value of n1 that is 1.46."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 339.0,
+            "end": 349.0,
+            "text": "So n1 is 1.46 and the second value is n2. So n2 is 1.46. So n2 is 1.46. So n2 is 1.46. So n2 is 1.46."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 349.0,
+            "end": 359.0,
+            "text": "So n2 is 1.46. So n2 is 1.46. So n2 is 1.46. So n2 is 1.46. So n2 is 1.46."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 359.0,
+            "end": 369.0,
+            "text": "So n2 is 1.46. So n2 is 1.46. So n2 is 1.46. And the second value is delta that is 1. As I just told you 1% becomes 0.01."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 369.0,
+            "end": 379.0,
+            "text": "Now the first value we can calculate the numerical aperture. So the numerical aperture formula is n1 2D to the power one half. So putting the value n1 here what is it? 1.46. So this is 1.46."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 379.0,
+            "end": 389.0,
+            "text": "Then twice of delay this becomes 02 to the power one half. Simply apply the calculation solved by the calculator and get the answer 21 ok. Then the second which is being used here is 0.01. So this is 0.01. So this is 0.01."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 389.0,
+            "end": 399.0,
+            "text": "Then the second which is being used here in numerical only. A formula we had not seen anywhere in theory. That is what is solid acceptance angle. Solid acceptance angle is given by tau is equals pi numerical aperture whole square. We have not seen this there in theory."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 399.0,
+            "end": 409.0,
+            "text": "But this is a formula used in our optical theory. That is what is the solid acceptance angle. So what is that? Tau is equal to pi numerical aperture whole square. Then simply pi we know what is the value of pi."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 409.0,
+            "end": 419.0,
+            "text": "3.5. So what is the value of pi? 3.5. So what is the value of pi? 3.5."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 419.0,
+            "end": 429.0,
+            "text": "Then simply pi we know what is the value of pi. 3.14. Then multiply the numerical aperture we have just calculated above. This is 21 to the power of 2. So after putting the value calculate the value then we got the result 0.14."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 429.0,
+            "end": 439.0,
+            "text": "Got it? Then now this is acceptance angle. So this is calculation in radians. So the pi here is 3.14. This is in radians."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 439.0,
+            "end": 449.0,
+            "text": "So that's why this is in 14 radians. Now the third thing. What was the third thing we were told? So what do I need for the critical angle? For critical angle I need c."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 449.0,
+            "end": 459.0,
+            "text": "What is c? Sin inverse n2, n1. So for critical angle I definitely need n2. Means I need cladding refractive index. Only then I can make what is the value of critical angle."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 459.0,
+            "end": 469.0,
+            "text": "That means if I have to calculate the critical angle then I need n2. Now how will n2 come? So now we have the formula d equals n1 n2 n1. This is what? This is relative refractive index."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 469.0,
+            "end": 479.0,
+            "text": "So this is relative refractive index. So this is relative refractive index. This is what? This is relative refractive index. Relative refractive index."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 479.0,
+            "end": 489.0,
+            "text": "Ok? So the fullness is del equals n1 n2 n1. So the fullness is del equals n1 n2 n1. Now if we want to write this fullness. We can write it like this."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 489.0,
+            "end": 499.0,
+            "text": "You take n1 upon it. Like we can write n1 n1 n2 n1. So this will become 1 n2 n1. And what will be the value of n2 n1? The value of n2 n1 will become 1 del."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 499.0,
+            "end": 509.0,
+            "text": "So this will become 1 n2 n1. So this will become 1 n2 n1. If you want you can calculate n2 from here. But because I have to calculate a critical angle here. And for critical angle."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 509.0,
+            "end": 519.0,
+            "text": "I directly require n2 n1. So here n2 has not been calculated. Because n2 was not asked in the question. What has been asked directly from us? Critical angle."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 519.0,
+            "end": 529.0,
+            "text": "So here we calculated n2 n1. This is 1d and substitute this n2 n1 value over this formula. So I will get n1d now. You have the value of d is 0.01. So 1d is 0.01."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 529.0,
+            "end": 539.0,
+            "text": "So 1d is 0.01. So 101 you will get 999. And after solving this sin inverse of 999. We get 81.9 degrees as a critical angle. We get 81.9 degrees as a critical angle."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 539.0,
+            "end": 549.0,
+            "text": "Ok. So these are simple straightforward questions. Where you are given the value of the core cladding refractive index. And we have to calculate odd different things like numerical aperture, critical angle or here you could have been asked to calculate acceptance angle theta. So once you know the numerical aperture."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 549.0,
+            "end": 559.0,
+            "text": "Then we can simply calculate theta. And we can calculate theta. So here we have to calculate theta. And we have to calculate theta. So once we know the numerical aperture."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 559.0,
+            "end": 569.0,
+            "text": "Then we can simply calculate theta equals sin inverse of nought. Ok. So these are the simple problem based on our numerical aperture and solid angle critical angles. Now the next term which we have to study here. The next topic which we have to study here."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 569.0,
+            "end": 579.0,
+            "text": "This is what. This is skew rays. So we had read in the last lecture that basically two types of rays propagate inside the optical fiber. The first one is called the meridional rays. Meridional rays are the rays that are reflected from the optical fiber."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 579.0,
+            "end": 589.0,
+            "text": "And they are called the meridional rays. And they are called the meridional rays. And they are called the meridional rays. Meridional rays have the property that these are passes through the access of the fiber core. Like this."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 589.0,
+            "end": 599.0,
+            "text": "Now in this also we had read two categories that the ray which is our meridional ray which propagates inside our fiber. Is called the bounded ray. That is called the bound ray. And the one which does not propagate inside it. Goes outside."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 599.0,
+            "end": 611.0,
+            "text": "That is called the unbound ray. Ok. So this is all about the meridional ray which we have studied earlier. What was numerical aperture? What was numerical aperture?"
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 611.0,
+            "end": 627.44,
+            "text": "And what was skew ray? have studied earlier, what was numerical aperture or what is acceptance angle. All the calculations that we have done are based on what? They are based on meridional ray. But now here the second type that we have to study is called the skew ray."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 627.44,
+            "end": 635.48,
+            "text": "So what does skew ray mean? The path of skew ray. This is helical path. Basically we cannot visualize this path. It is not possible."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 635.48,
+            "end": 650.88,
+            "text": "It is not very easy. I will not say that it is possible. But this is not very easy to visualize the skew ray path. Because the skew ray moves in a helical path. Meaning it is not working on the basis of internal reflection from the fiber."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 650.88,
+            "end": 666.62,
+            "text": "This will be a helical path reflection but it will change a direction that is equal to a 2 gamma at each reflection. There is reflection in this as well. But see, it is not necessary that your reflection will happen only from the core A. Your reflection can happen anywhere in between as well."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 666.62,
+            "end": 681.64,
+            "text": "So that all the fiber gives a change in the direction of 2 gamma at each reflection. Whenever there is a reflection here, so you will get a change of 2 gamma like this. There is a 2 gamma angle which we have divided into half half to show it here. This is one half gamma. This is one half gamma."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 681.64,
+            "end": 699.62,
+            "text": "So between what all is this angle formed? This is the radius. Radius and this particular value between the projection of the ray in two dimensions and the radius of the fiber core at the point of reflection. So simply if you are being asked about skew rays that what do you mean by skew rays?"
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 699.62,
+            "end": 719.62,
+            "text": "So you can simply say that skew rays follow a helical path inside the fiber and change the angle by 2 gamma in each reflection. Ok, where what is gamma? Gamma is our angle that is between the projection of the ray and the radius of the fiber core. So in this skew rays we get full."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 719.62,
+            "end": 733.86,
+            "text": "If you want to calculate the numerical aperture, so there is no derivation here. You can simply remember this full. So numerical aperture is equal to sin theta s dot cos gamma. Now what is theta s? This is nothing but the acceptance angle."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 733.86,
+            "end": 746.28,
+            "text": "Ok, like we read in mednal ray also. This is acceptance angle. So if I want the value of acceptance angle only. So there we read sin inverse of NA only. But what will happen here?"
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 746.28,
+            "end": 767.3000000000001,
+            "text": "This cos gamma firstly convert all goes to this NA. So NA cos gamma and after this you will take the sin inverse. Ok, so here you have two formulas to calculate numerical aperture and acceptance angle. Now in the question, be very careful whether you are being asked about meridian rays or skew rays."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 767.3000000000001,
+            "end": 783.58,
+            "text": "Because according to that you have to apply the formula of numerical aperture and acceptance angle. If it is skew rays, then this was your formula. Numerical aperture equals cos gamma sin theta s asterisk cos gamma. And if it's not just about your meridional rays, skew rays, so ours is simply that's"
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 783.58,
+            "end": 800.1,
+            "text": "N1 to the power of 2 N2 to the power of 2 or your refractive index based on 2D of caret 1 half so this formula is 2D to the power 1 half asterisk N1. Ok, so let's see the next one. Ah problem based on our skew rays. It's a very simple problem."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 800.1,
+            "end": 817.9,
+            "text": "It says an optical fiber in air has a numerical aperture of 0.4. When the optical fiber is in air, it has a numerical aperture of 0.4 compared to the acceptance angle for meridional rays which is that for these skew rays which change direction by 100 degrees at each reflection. Ok, so what are we given?"
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 817.9,
+            "end": 829.5799999999999,
+            "text": "We've given a numerical aperture. So we have a numerical aperture. And if numerical aperture is, so I can simply calculate for marine sleigh what is the acceptance angle. So what is the acceptance angle?"
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 829.5799999999999,
+            "end": 846.0,
+            "text": "Theta equals sin inverse of NA ok? And there when we talk for skew rays then NA cos gamma where cos gamma is given. What is the value of gamma given? 100 so substitute the value. So this is the solution."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 846.0,
+            "end": 868.54,
+            "text": "So for marine sleigh theta equals sin inverse of NA now sin inverse value of NA is given 4 so theta will be calculated as 23.6 degrees now for skew rays given 100 which change direction by 100 degrees at each reflection and show the skew rays conditional on 100 degrees so total is 100 degrees. What is the total of 100 degrees?"
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 868.54,
+            "end": 883.36,
+            "text": "2 gamma. So basically what will be the value of gamma? The value of gamma will be half of this. That is why gamma equals 50 degrees. Ok so now theta s equals sin inverse 4 cos gamma which is the formula we had sin inverse"
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 883.36,
+            "end": 902.18,
+            "text": "of NA cos of gamma. So from here you have solved it. We will get the value of 38.5 degrees. Ok so this is the simple problem based on your numerical aperture how to calculate the acceptance angle for the meridional ray ok?"
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 902.18,
+            "end": 916.4599999999999,
+            "text": "And as well as for the squares. So you practice these questions once. These questions directly come in your paper as it is. We will meet in the next lecture. In the next lecture we will start the electromagnetic theory used in our optical fiber."
+        },
+        {
+            "number": "L5",
+            "title": "Numerical Problems on Numerical Aperture and Acceptance Angle   Hindi",
+            "start": 916.46,
+            "end": 917.0,
+            "text": "Thank you."
+        }
+    ],
+    "text": " Hello all welcome to the video lecture series of optical communication subject code is REC 075 and here we are in lecture number 5. So what did we talk about in the previous lecture? In the previous lecture we talked about how the light is basically propagated in the optical fiber. What is the condition of light propagation? That is called the total internal reflection. And due to this total internal reflection or I should say within the light propagation we talked about two numerical terms. We talked about parameters. These are called what is numerical aperture and what is acceptance angle. Okay? Acceptance angle was our angle at which our wave should be incident at the minimum angle so that it can propagate in the fiber. So last we drove some functions here like if I talk about numerical aperture. This is the function n1 to the power of 2n2 to the power of 2a. This is also called a that is equal to sin theta a if I talked about the acceptance angle. So from here you can calculate theta sin inverse of numerical aperture. Okay? So based on these functions what we are going to do in this lecture. This is simply numerical problems on numerical aperture, acceptance angle and last we talked about meridional rays. Here we will talk about the second type of ray that is called the skew rays. Okay? So let's get started. So first of all numerical problem problem number one. A silica optical fiber with a core diameter large enough to be considered by ray theory analysis has a core refractive index of 1.50. Now this is a core refractive index. So what is this? This 1.50 is nothing but n1 then a cladding refractive index of 1.47 means this 1.47 is nothing but n2. Okay? So we have core refractive index we have cladding refractive index. Now calculate the critical angle at core cladding interface. Numerical aperture for the fiber. So if I talk about critical angle then critical angle was also our sin theta formula. That is equal to numerical aperture. So firstly ah sorry that is acceptance angle. So what was the formula that we read for critical angle? I read the formula for critical angle sin theta c equals n2 n1. This is the formula for critical angle. So here I know n2 I know n1. I can simply put the value and calculate the value of this theta. Then we can calculate the value of numerical aperture. That is n1 to the power of 2 n2 to the power of 2 and once we get the numerical aperture we can simply calculate this acceptance angle. Okay? So these are very easy type of questions. Meaning this type of question is completely formula based which is put in the paper very often. So let us start the solution. So what are we given first for the solution? As I told you first of all we know n1. That is 1.5 and n2 is 1.7. So here it is n2 is 1.7. Next we have to calculate this critical angle. So what is the formula for critical angle? C becomes sin inverse n2 n1 then sin inverse we have the value of n2 that is 1.547 1.5. After solving this we get 78.5 degrees from the second part that we had to calculate. This is nothing but the numerical aperture. So what is the formula for numerical aperture? That is n1 to the power of 2 n2 to the power of 2 that is equal to n1 to the power of 2. The value of r's becomes 1.5 squared minus 1.47 squared that is equal to 0.30 after solving. So this is my numerical aperture. And the third thing is acceptance angle. So what is our acceptance angle? That is theta a simply sin inverse of numerical aperture. Sin inverse of numerical aperture. So sin inverse of 3 because here I have calculated it. I have got the value of 3 so we will put 3 here. So sin inverse of 3 will becomes me the value 7.4 degrees. Ok, so this is the simple question in which you have given all like n1 and n2 what is the core and cladding refractive index. And on the basis of n1 and n2 we can simply calculate what is the critical angle. What is the numerical aperture and what is the acceptance angle. Ok, so, done. So let's see the next problem. Now the second problem is a typical relative refractive index difference. Now see the term relative refractive index difference. What is that? This is nothing but del. We talked about it last time in the last lecture. This is called del. For an optical fiber used for long distance transmission is 1%. So that means delay. If your delay is 1% then how do we define 1%? 0.01. Ok. So let's calculate the numerical aperture and the solid acceptance angle in air for the fiber when the core index is 1.46. So this value is core index and what is the index of the core? n1. Ok, so estimate the NAW. Now I have to calculate NAW when the core index is n1. What was the formula for NAW? n1 to the power of 2 n2 to the power of 2. Is n2 given anywhere here? Let's read the question further. Also calculate the critical angle which your NAW leaves at the core gliding interface with the fiber. That means I am not given n2 here. But what am I given? I am given n1 and delay is given. Ok, so in the last lecture, we studied how to calculate numerical aperture. We can also do it on the basis of this formula. What was the formula? Yes, n1 twice the value of delta caret one half means 2D. So your numerical aperture can also be calculated with the help of this formula which we also saw last time that n1 asterisk twice the value of delta caret one half means 2D. So using this formula we can simply get to calculate the value of NAW. So let's start the solution. So firstly we have given what is the value of n1 that is 1.46. So n1 is 1.46 and the second value is n2. So n2 is 1.46. So n2 is 1.46. So n2 is 1.46. So n2 is 1.46. So n2 is 1.46. So n2 is 1.46. So n2 is 1.46. So n2 is 1.46. So n2 is 1.46. So n2 is 1.46. So n2 is 1.46. So n2 is 1.46. And the second value is delta that is 1. As I just told you 1% becomes 0.01. Now the first value we can calculate the numerical aperture. So the numerical aperture formula is n1 2D to the power one half. So putting the value n1 here what is it? 1.46. So this is 1.46. Then twice of delay this becomes 02 to the power one half. Simply apply the calculation solved by the calculator and get the answer 21 ok. Then the second which is being used here is 0.01. So this is 0.01. So this is 0.01. Then the second which is being used here in numerical only. A formula we had not seen anywhere in theory. That is what is solid acceptance angle. Solid acceptance angle is given by tau is equals pi numerical aperture whole square. We have not seen this there in theory. But this is a formula used in our optical theory. That is what is the solid acceptance angle. So what is that? Tau is equal to pi numerical aperture whole square. Then simply pi we know what is the value of pi. 3.5. So what is the value of pi? 3.5. So what is the value of pi? 3.5. Then simply pi we know what is the value of pi. 3.14. Then multiply the numerical aperture we have just calculated above. This is 21 to the power of 2. So after putting the value calculate the value then we got the result 0.14. Got it? Then now this is acceptance angle. So this is calculation in radians. So the pi here is 3.14. This is in radians. So that's why this is in 14 radians. Now the third thing. What was the third thing we were told? So what do I need for the critical angle? For critical angle I need c. What is c? Sin inverse n2, n1. So for critical angle I definitely need n2. Means I need cladding refractive index. Only then I can make what is the value of critical angle. That means if I have to calculate the critical angle then I need n2. Now how will n2 come? So now we have the formula d equals n1 n2 n1. This is what? This is relative refractive index. So this is relative refractive index. So this is relative refractive index. This is what? This is relative refractive index. Relative refractive index. Ok? So the fullness is del equals n1 n2 n1. So the fullness is del equals n1 n2 n1. Now if we want to write this fullness. We can write it like this. You take n1 upon it. Like we can write n1 n1 n2 n1. So this will become 1 n2 n1. And what will be the value of n2 n1? The value of n2 n1 will become 1 del. So this will become 1 n2 n1. So this will become 1 n2 n1. If you want you can calculate n2 from here. But because I have to calculate a critical angle here. And for critical angle. I directly require n2 n1. So here n2 has not been calculated. Because n2 was not asked in the question. What has been asked directly from us? Critical angle. So here we calculated n2 n1. This is 1d and substitute this n2 n1 value over this formula. So I will get n1d now. You have the value of d is 0.01. So 1d is 0.01. So 1d is 0.01. So 101 you will get 999. And after solving this sin inverse of 999. We get 81.9 degrees as a critical angle. We get 81.9 degrees as a critical angle. Ok. So these are simple straightforward questions. Where you are given the value of the core cladding refractive index. And we have to calculate odd different things like numerical aperture, critical angle or here you could have been asked to calculate acceptance angle theta. So once you know the numerical aperture. Then we can simply calculate theta. And we can calculate theta. So here we have to calculate theta. And we have to calculate theta. So once we know the numerical aperture. Then we can simply calculate theta equals sin inverse of nought. Ok. So these are the simple problem based on our numerical aperture and solid angle critical angles. Now the next term which we have to study here. The next topic which we have to study here. This is what. This is skew rays. So we had read in the last lecture that basically two types of rays propagate inside the optical fiber. The first one is called the meridional rays. Meridional rays are the rays that are reflected from the optical fiber. And they are called the meridional rays. And they are called the meridional rays. And they are called the meridional rays. Meridional rays have the property that these are passes through the access of the fiber core. Like this. Now in this also we had read two categories that the ray which is our meridional ray which propagates inside our fiber. Is called the bounded ray. That is called the bound ray. And the one which does not propagate inside it. Goes outside. That is called the unbound ray. Ok. So this is all about the meridional ray which we have studied earlier. What was numerical aperture? What was numerical aperture? And what was skew ray? have studied earlier, what was numerical aperture or what is acceptance angle. All the calculations that we have done are based on what? They are based on meridional ray. But now here the second type that we have to study is called the skew ray. So what does skew ray mean? The path of skew ray. This is helical path. Basically we cannot visualize this path. It is not possible. It is not very easy. I will not say that it is possible. But this is not very easy to visualize the skew ray path. Because the skew ray moves in a helical path. Meaning it is not working on the basis of internal reflection from the fiber. This will be a helical path reflection but it will change a direction that is equal to a 2 gamma at each reflection. There is reflection in this as well. But see, it is not necessary that your reflection will happen only from the core A. Your reflection can happen anywhere in between as well. So that all the fiber gives a change in the direction of 2 gamma at each reflection. Whenever there is a reflection here, so you will get a change of 2 gamma like this. There is a 2 gamma angle which we have divided into half half to show it here. This is one half gamma. This is one half gamma. So between what all is this angle formed? This is the radius. Radius and this particular value between the projection of the ray in two dimensions and the radius of the fiber core at the point of reflection. So simply if you are being asked about skew rays that what do you mean by skew rays? So you can simply say that skew rays follow a helical path inside the fiber and change the angle by 2 gamma in each reflection. Ok, where what is gamma? Gamma is our angle that is between the projection of the ray and the radius of the fiber core. So in this skew rays we get full. If you want to calculate the numerical aperture, so there is no derivation here. You can simply remember this full. So numerical aperture is equal to sin theta s dot cos gamma. Now what is theta s? This is nothing but the acceptance angle. Ok, like we read in mednal ray also. This is acceptance angle. So if I want the value of acceptance angle only. So there we read sin inverse of NA only. But what will happen here? This cos gamma firstly convert all goes to this NA. So NA cos gamma and after this you will take the sin inverse. Ok, so here you have two formulas to calculate numerical aperture and acceptance angle. Now in the question, be very careful whether you are being asked about meridian rays or skew rays. Because according to that you have to apply the formula of numerical aperture and acceptance angle. If it is skew rays, then this was your formula. Numerical aperture equals cos gamma sin theta s asterisk cos gamma. And if it's not just about your meridional rays, skew rays, so ours is simply that's N1 to the power of 2 N2 to the power of 2 or your refractive index based on 2D of caret 1 half so this formula is 2D to the power 1 half asterisk N1. Ok, so let's see the next one. Ah problem based on our skew rays. It's a very simple problem. It says an optical fiber in air has a numerical aperture of 0.4. When the optical fiber is in air, it has a numerical aperture of 0.4 compared to the acceptance angle for meridional rays which is that for these skew rays which change direction by 100 degrees at each reflection. Ok, so what are we given? We've given a numerical aperture. So we have a numerical aperture. And if numerical aperture is, so I can simply calculate for marine sleigh what is the acceptance angle. So what is the acceptance angle? Theta equals sin inverse of NA ok? And there when we talk for skew rays then NA cos gamma where cos gamma is given. What is the value of gamma given? 100 so substitute the value. So this is the solution. So for marine sleigh theta equals sin inverse of NA now sin inverse value of NA is given 4 so theta will be calculated as 23.6 degrees now for skew rays given 100 which change direction by 100 degrees at each reflection and show the skew rays conditional on 100 degrees so total is 100 degrees. What is the total of 100 degrees? 2 gamma. So basically what will be the value of gamma? The value of gamma will be half of this. That is why gamma equals 50 degrees. Ok so now theta s equals sin inverse 4 cos gamma which is the formula we had sin inverse of NA cos of gamma. So from here you have solved it. We will get the value of 38.5 degrees. Ok so this is the simple problem based on your numerical aperture how to calculate the acceptance angle for the meridional ray ok? And as well as for the squares. So you practice these questions once. These questions directly come in your paper as it is. We will meet in the next lecture. In the next lecture we will start the electromagnetic theory used in our optical fiber. Thank you."
+}

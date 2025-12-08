@@ -1,0 +1,362 @@
+{
+    "chunks": [
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 0.0,
+            "end": 41.0,
+            "text": "Hello all, welcome to the video lecture series of optical communication subject code is RCO75 and here we are in lecture number 3. So what have we covered? If I talk, then we first talked about optical communication that what is optical communication. Is there a basic block diagram of it, and how does optical communication happen basically? And then what are the advantages of optical fiber communication and the different six bands used for optical communication? Okay, the six bands that we were given through Ito. We discussed those six bands here in which we do optical communication."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 41.0,
+            "end": 70.0,
+            "text": "Now in this lecture it is very important which we are going to discuss. What are those? We will talk about optical waveguide. This is nothing but the optical fiber. What is the construction of the fiber? What is its structure? Then what is the light propagation theory? How do we propagate the light inside the fiber? Are there any expected parameters? There are related parameters, we will talk about them. Then what is the condition for the propagation? That is called TIR total internal reflection."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 70.0,
+            "end": 102.0,
+            "text": "And here we will mention a small term. This is called critical angle. Okay, so let's start. What do you mean by optical waveguide? Structure of an optical waveguide. So if I talk about optical waveguide, then the optical waveguide will look something like this. Looks like a cylindrical part inside which your inside of that cylindrical is another cylindrical portion that is like a coil cable. Okay, and this is the access core. Okay, so, this is our inner portion which basically contains the fiber light."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 102.0,
+            "end": 142.0,
+            "text": "This inner portion is called core and the outer portion is called cladding. The outer portion is called cladding. Okay? So if I talk, so this consists of a transparent cylindrical cylinder of radius A. This is a radius A inside which your inner portion, this is called a core having a refractive index of n1 and this is supported by a medium that is called cladding. This is a refractive index of n2. And here it is always known that n1 must be greater than n2. Means the refractive index of the core will always be greater than the refractive index of the cladding. So what can be done?"
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 142.0,
+            "end": 184.0,
+            "text": "This cladding of yours, this will provide you the mechanics. This provides the optical fiber mechanical strength to the core of the fiber and when sufficiently thick, it will reduce the radiation loss into the surrounding peers. We will talk about it further that when the light propagates here, then basically the propagation happens in this way. So, if this core of yours, which is the outer core, if we make it thicker or keep its material good, then this light which will propagate here, this light will propagate inside your core. It will not come out from here. This is called the reflection. So, our losses will be that much less. Okay? So, the general thing that we have just discussed, what is the thing to remember that we have optical waveguide?"
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 184.0,
+            "end": 211.0,
+            "text": "This will consist of a core and surrounded by a cladding of refractiveness n1 and n2 respectively. Okay, now here one more line mention in the low and medium loss fiber. If we talk that inside the low and medium low loss fiber, the core is made by glass. This core is made by glass and this cladding is made up with glass and fiber. This can be of glass or plastic. Glass and plastic. Okay?"
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 211.0,
+            "end": 245.0,
+            "text": "Similarly, for the higher loss fiber, if I have to increase the loss here, I mean the higher loss fibers, which are not of any use to you, but cost wise if you say that I have to matter about the cost as well, then I will choose that one. So, instead of glass here, what will come here? Your plastic will come here as well. Okay? So, in that case we call it high loss fiber, higher loss fiber. Okay? So, this is simply a structure of optical waveguide. That basically what are we going to talk about in optical waveguide? What are we going to talk about in optical fiber? So we will talk about core and cladding."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 245.0,
+            "end": 267.0,
+            "text": "Okay? Next. The next is your ray theorem. This is called the how the light will propagate inside your optical fiber. That how the light propagates inside the optical fiber. Okay? So, here first of all we were talking about what is n. n is basically called refractive index. So how do we define refractive index?"
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 267.0,
+            "end": 303.0,
+            "text": "The term refractive index of a medium is defined as the ratio of velocity light in vacuum kc, v, that means what is the light velocity in vacuum, divided by the velocity of light in the medium. Okay? Now as we know that if we talk about medium in vacuum, then its value is 3 asterisk 10 to the power 8. But when this light enters your medium like it enters inside the fiber, then its velocity will not be equal to your light velocity. That will be change either increase or decrease that depends on your material type. But right now we are not talking about that here."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 303.0,
+            "end": 343.0,
+            "text": "We are just talking here that whenever your light velocity is inside your fiber, it is not the same light velocity. So that ratio between the light velocity in the vacuum to the velocity of light in the medium that is c, v is called refractive index. This is called refractive index. That is theta equals c, v, where c is the velocity of light in vacuum and v is the velocity of light in the medium. Okay? So, this is the definition of refractive index. Now what happens? We also studied in EMFT that when a ray of light is incident on the interface between two dielectrics of different refractive indices."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 343.0,
+            "end": 374.0,
+            "text": "Okay? Now what happens? When this suppose you have a medium. This is the medium, and this is your refractive index n1 and this is your medium n2 or you suppose this is m1 and this is your n2. So when the light intersects this medium, when the light is incident, so some part of the ray is reflected back to the first medium. Some part of the ray is reflected back to the first medium. That's okay? Some part of the ray is reflected back to the first medium. And some part is transmitted."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 374.0,
+            "end": 400.0,
+            "text": "That is called the transmitted one transmitted. Okay? And what we call reflected. Okay? This is what we call reflected. Okay? So some part is transmitted into another medium. So the same thing is shown here in this diagram also. Once the light is reflected, once this is the incident ray and this is our interface. This is our boundary n1 and this is the boundary n2."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 400.0,
+            "end": 425.0,
+            "text": "So this n2 is less than n1. n2 is less than n1. This is the condition over here which we saw earlier in optical 5 as well. So this is the incident ray. So when the ray is incident, then some part of the ray is reflected back into the first medium and the remaining part is reflected on another medium. So some part is reflected back and the other part is reflected ray. Got it? So, this is the basic theory. Okay?"
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 425.0,
+            "end": 444.0,
+            "text": "Now, what do I have to do from this theory? I have a very important law in this theory which we have already studied. That is called Snell's law. It has been discussed. What is that? The relationship between the angle of incidence 1 and angle of refraction 2. Now what is here? If I talk about the light theory, this light propagation, then some terms will be associated here."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 444.0,
+            "end": 459.0,
+            "text": "What is the term? Let's see first. This is called the incident ray which is on your medium n1. This is the incident ray. This is the reflected ray and this is the reflected ray. The reflected one. That is also called transmitted. Okay? Now the angle."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 459.0,
+            "end": 478.0,
+            "text": "Now this ray which is coming here, it forms an angle. And the angle is with what? This is your surface interface where your interfacing is happening. Okay? And this is a line normal to it. This is the line normal to the surface. Got it? So the angle which is formed between the incident ray and this normal, this angle is called phi."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 478.0,
+            "end": 506.0,
+            "text": "This is called the angle of incidence. The angle between the incident ray and the normal to the surface. Okay? Similarly, if I talk about your angle of refraction, then what will be the angle of refraction? The angle which is being formed between the refracted ray and the normal line, this is called angle of refraction. Always remember that this angle is between the normal and the incident ray."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 506.0,
+            "end": 524.0,
+            "text": "For an example, now when we will discuss in the next lecture, you will see this diagram something like this. Like this, this is the interface medium. This is n1 and this is n2 and this is supposed normal to the surface. This is normal to the surface. This is normal. Right? And this is the incident ray. This is the incident ray."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 524.0,
+            "end": 546.0,
+            "text": "So, this angle is called angle of incidence phi. This angle is called angle of incidence because this is I. Incident ray and this is normal line. So the angle which is formed between normal and incident ray is our phi. Similarly when it will reflect further, then the angle which is formed between refract and normal, this is your 2. So this is called angle of refraction. Is things clear? Okay?"
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 546.0,
+            "end": 575.0,
+            "text": "So this was our discussion about incident ray and angle of refraction and rough incidence in light propagation theory. Now, if I know this thing, then a very common law applies here at the interface. This is called Snell's law and according to that law n1 sin theta 1 equals n2 sin theta 2. Okay, sorry, I am saying theta, this is n1 sin 1 equals n2 sin 2 and if you say this angle, then this angle becomes 90 to 1 that is called theta 1."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 575.0,
+            "end": 602.0,
+            "text": "So basically here, if we write it like this sin 90 to 90 to 1, then this angle becomes 90 to 1. Basically here, if we write it like this sin 90 to 90 theta 1, 1, 90 theta 1, that is also again 1. Then what becomes this sin 90 theta 1? Cos theta 1, so this can be written as theta 1 cos theta 1 equals theta 2 cos theta 2, this can also be written as like this. This is also my business. Got it?"
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 602.0,
+            "end": 626.0,
+            "text": "So as per light theory. So the light theory which we are talking about. If you want to explain the light propagation in optical fiber. So what did I talk about first? First of all I talked in a simple way that when an incident ray is incident on your medium, then some part of it is reflected back to the same medium and some part of it is reflected to another medium."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 626.0,
+            "end": 663.0,
+            "text": "Then at the interface always there is a one law that exists. This is called Snell's law that is n1 sin 1 equals n2 sin 2 where 1 and 2 are called angle of incidence and angle of refraction. So what is angle of incidence? The angle phi between the incident ray and the normal to the surface is called angle of incidence always, and similarly the angle phi between the refracted ray and the normal to the surface is called angle of reflection refraction got it?"
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 663.0,
+            "end": 685.0,
+            "text": "Another term related to the same diagram is called plane of incidence. What is plane of incidence? Now the incident ray. Now this is the incident ray and the normal to the surface. This is the normal to the surface and the reflected ray and the reflected ray all lie in the same plane. All lies in the same plane which is perpendicular to the interface plane between two materials."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 685.0,
+            "end": 702.0,
+            "text": "Okay, in this plane, this plane of yours, this is called plane of incidence. This is called plane of incidence. Another thing is that is the angle of law of reflection. What does law of reflection say? As per law of reflection, the angle theta 1 at which the incident ray strikes the interface."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 702.0,
+            "end": 726.0,
+            "text": "Now see, this is the angle theta 1 which is formed between your interface incident ray and the interface. This angle is always equal to the angle that the reflected ray makes with the same interface. Means reflected ray if this is so, then from this ray which is being caused here theta 1. This angle and this angle is always equal. So here it is theta 1, here is theta 1."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 726.0,
+            "end": 742.0,
+            "text": "So this is called law of reflection. Alright? So these are some terms related to your light propagation or you can say related to the ray theory that how the light will propagate. We are just starting that. Meaning we are learning about that."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 742.0,
+            "end": 759.0,
+            "text": "How does the light propagate? What are the different parameters associated with our light propagation? Okay? So in this we still have to remember this one thing that when the light is incident on our an optical fiber, then some part is reflected some part is reflected."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 759.0,
+            "end": 773.0,
+            "text": "Okay? Now the condition of light propagation. This is called TIR. Now what is that? We just discussed that when our now suppose this is n1, this is a glass and this is a n2, this is air."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 773.0,
+            "end": 791.0,
+            "text": "And we can say this is aw some aw cladding which we discussed earlier that this is of plastic and aw glass whatever. For now, we are considering air and glass here. Okay? So when the wave is incident on this interface media, some part is reflected and some part is reflected. Right it?"
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 791.0,
+            "end": 807.0,
+            "text": "Here the angle of incidence is 1 and 2. Now what happens? As the angle of incidence 1 is optically denser medium becomes larger. Okay? If I talk about optically denser material where the optical ray can be more dense,"
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 807.0,
+            "end": 826.0,
+            "text": "if we talk about that type of material, then as soon as your 1 starts getting bigger, starts becoming larger, means this one becomes greater, then how will you see it? What I am trying to say is, suppose this is. So, if your 1 was this, and this is your 2, right? Now, if we say that in the next diagram, what has happened to our 1?"
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 826.0,
+            "end": 839.0,
+            "text": "It has increased. Now this is 1. So, our refracted 2 will also increase, right? Because this ray of yours, if it gets projected here, then this reflection will be over there. So this 2 will also increase."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 839.0,
+            "end": 857.0,
+            "text": "So as your 1 increases, which side is this 2 approaching? This 2 is approaching towards pi 2. Alright? So the same thing is written here that when the angle of incidence 1 becomes larger the refracted angle 2 approaches to pi 2 approaches to 90. Right?"
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 857.0,
+            "end": 878.0,
+            "text": "After that after this point no refraction is possible and the light becomes totally internally reflected. Meaning what is it trying to say is that there will come an angle where your refraction angle, the angle of refraction, will be what? 90 degrees. So that means you will see the condition in such a way that what is happening? In which your incident ray is there."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 878.0,
+            "end": 901.0,
+            "text": "But there is no reflected ray. What is happening to your whole body? The light will start getting completely reflected. Okay? At this particular angle, this particular condition when our incident angle is more than this angle and we say that and we say that this is the condition when the light which is happening incident is totally reflected."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 901.0,
+            "end": 914.0,
+            "text": "Nothing is passing on to the other medium. That is, if this is the core. If suppose I talk that this is core and this is clouding. Okay? So now we have come to this thing here that suppose this is our core and this is our outer field clouding."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 914.0,
+            "end": 926.0,
+            "text": "I will draw it here again for you. Suppose what I am trying to tell. This is suppose clouding and this is suppose core. So now what is happening from here? From here, nothing of yours will go to the outer portion."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 926.0,
+            "end": 942.0,
+            "text": "Means light is reflected reflected reflected reflected reflected reflected and reflected. So this is how it works on the basis of reflection. This condition is called TR. Okay? So this is called T condition."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 942.0,
+            "end": 964.0,
+            "text": "Now what I told you is again written here that if the angle of incidence is one increases a point will reach when the light ray is in air is parallel to the glass surface. We have called it air here. So a point will come where what is happening to you. Here your reflected refracted ray. This reflected ray is almost parallel to this glass surface."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 964.0,
+            "end": 980.0,
+            "text": "Okay? This angle of incidence is represented by C and this C is called critical angle. This phi is called critical angle. What happened to you there? Where the reflected ray becomes parallel to your surface."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 980.0,
+            "end": 994.0,
+            "text": "What do we call that angle? Critical angle. And when the incidence angle one is greater than C. That means this is the condition when one is greater than C. Then what happens?"
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 994.0,
+            "end": 1003.0,
+            "text": "Then there is no reflection here. What will happen to the entire ray? Reflected back. Reflected back. Okay?"
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 1003.0,
+            "end": 1015.0,
+            "text": "So this condition is called total internal reflection. Okay? Which we have already read. Then the total condition for total internal reflection is satisfied. That is light is totally reflected back into the glass."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 1015.0,
+            "end": 1029.0,
+            "text": "Okay? So here the main thing is that many times critical angle is asked. So even if you define critical angle, you will have to take reference of T here. And if you are asked about TIR, then also you can explain it through these diagrams. What is trail?"
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 1029.0,
+            "end": 1048.0,
+            "text": "And this is the value of critical angle. How is critical angle calculated? Since C equals n2, n1 where n2 is the refractive index of your second medium and n1 is the refractive index of your first medium. So this is the formula used for the calculation of critical. Okay?"
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 1048.0,
+            "end": 1060.0,
+            "text": "So after learning this I will hope you can understand what do you mean by structure of the optical wave kind. If question comes you can attempt. What do you mean by clarifying refractive index? What is it? Now you know what is the value of trail."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 1060.0,
+            "end": 1076.0,
+            "text": "Theta equals C, V then. How the light propagated in the optical fiber. Now you can say how the light propagated in the optical fiber. Then what is the condition for light propagation in optical fiber? That is the total internal refraction TIR."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 1076.0,
+            "end": 1092.0,
+            "text": "Then what is the critical angle? Critical angle when the incident angle is equal to C. Ah, when the refracted rays almost become parallel to your what? To your surface. When the refracted rays are parallel to your surface then the incident single is called the C. Okay?"
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 1092.0,
+            "end": 1118.0,
+            "text": "So you should go through these topics once again so that you do not have any doubt because all the topics in light theory are going to be covered in the next lecture as well. We will take this light theory forward in the next lecture and we will talk about one is called two numerical things two parameters one is called numerical aperture and one is called acceptance angle. One is called acceptance angle. Okay? So until then go through this line theory once again. See you in the next lecture."
+        },
+        {
+            "number": "L3",
+            "title": "Optical Waveguide & Light Theory",
+            "start": 1118.0,
+            "end": 1120.0,
+            "text": "Thank you."
+        }
+    ],
+    "text": " Hello all, welcome to the video lecture series of optical communication subject code is RCO75 and here we are in lecture number 3. So what have we covered? If I talk, then we first talked about optical communication that what is optical communication. Is there a basic block diagram of it, and how does optical communication happen basically? And then what are the advantages of optical fiber communication and the different six bands used for optical communication? Okay, the six bands that we were given through Ito. We discussed those six bands here in which we do optical communication. Now in this lecture it is very important which we are going to discuss. What are those? We will talk about optical waveguide. This is nothing but the optical fiber. What is the construction of the fiber? What is its structure? Then what is the light propagation theory? How do we propagate the light inside the fiber? Are there any expected parameters? There are related parameters, we will talk about them. Then what is the condition for the propagation? That is called TIR total internal reflection. And here we will mention a small term. This is called critical angle. Okay, so let's start. What do you mean by optical waveguide? Structure of an optical waveguide. So if I talk about optical waveguide, then the optical waveguide will look something like this. Looks like a cylindrical part inside which your inside of that cylindrical is another cylindrical portion that is like a coil cable. Okay, and this is the access core. Okay, so, this is our inner portion which basically contains the fiber light. This inner portion is called core and the outer portion is called cladding. The outer portion is called cladding. Okay? So if I talk, so this consists of a transparent cylindrical cylinder of radius A. This is a radius A inside which your inner portion, this is called a core having a refractive index of n1 and this is supported by a medium that is called cladding. This is a refractive index of n2. And here it is always known that n1 must be greater than n2. Means the refractive index of the core will always be greater than the refractive index of the cladding. So what can be done? This cladding of yours, this will provide you the mechanics. This provides the optical fiber mechanical strength to the core of the fiber and when sufficiently thick, it will reduce the radiation loss into the surrounding peers. We will talk about it further that when the light propagates here, then basically the propagation happens in this way. So, if this core of yours, which is the outer core, if we make it thicker or keep its material good, then this light which will propagate here, this light will propagate inside your core. It will not come out from here. This is called the reflection. So, our losses will be that much less. Okay? So, the general thing that we have just discussed, what is the thing to remember that we have optical waveguide? This will consist of a core and surrounded by a cladding of refractiveness n1 and n2 respectively. Okay, now here one more line mention in the low and medium loss fiber. If we talk that inside the low and medium low loss fiber, the core is made by glass. This core is made by glass and this cladding is made up with glass and fiber. This can be of glass or plastic. Glass and plastic. Okay? Similarly, for the higher loss fiber, if I have to increase the loss here, I mean the higher loss fibers, which are not of any use to you, but cost wise if you say that I have to matter about the cost as well, then I will choose that one. So, instead of glass here, what will come here? Your plastic will come here as well. Okay? So, in that case we call it high loss fiber, higher loss fiber. Okay? So, this is simply a structure of optical waveguide. That basically what are we going to talk about in optical waveguide? What are we going to talk about in optical fiber? So we will talk about core and cladding. Okay? Next. The next is your ray theorem. This is called the how the light will propagate inside your optical fiber. That how the light propagates inside the optical fiber. Okay? So, here first of all we were talking about what is n. n is basically called refractive index. So how do we define refractive index? The term refractive index of a medium is defined as the ratio of velocity light in vacuum kc, v, that means what is the light velocity in vacuum, divided by the velocity of light in the medium. Okay? Now as we know that if we talk about medium in vacuum, then its value is 3 asterisk 10 to the power 8. But when this light enters your medium like it enters inside the fiber, then its velocity will not be equal to your light velocity. That will be change either increase or decrease that depends on your material type. But right now we are not talking about that here. We are just talking here that whenever your light velocity is inside your fiber, it is not the same light velocity. So that ratio between the light velocity in the vacuum to the velocity of light in the medium that is c, v is called refractive index. This is called refractive index. That is theta equals c, v, where c is the velocity of light in vacuum and v is the velocity of light in the medium. Okay? So, this is the definition of refractive index. Now what happens? We also studied in EMFT that when a ray of light is incident on the interface between two dielectrics of different refractive indices. Okay? Now what happens? When this suppose you have a medium. This is the medium, and this is your refractive index n1 and this is your medium n2 or you suppose this is m1 and this is your n2. So when the light intersects this medium, when the light is incident, so some part of the ray is reflected back to the first medium. Some part of the ray is reflected back to the first medium. That's okay? Some part of the ray is reflected back to the first medium. And some part is transmitted. That is called the transmitted one transmitted. Okay? And what we call reflected. Okay? This is what we call reflected. Okay? So some part is transmitted into another medium. So the same thing is shown here in this diagram also. Once the light is reflected, once this is the incident ray and this is our interface. This is our boundary n1 and this is the boundary n2. So this n2 is less than n1. n2 is less than n1. This is the condition over here which we saw earlier in optical 5 as well. So this is the incident ray. So when the ray is incident, then some part of the ray is reflected back into the first medium and the remaining part is reflected on another medium. So some part is reflected back and the other part is reflected ray. Got it? So, this is the basic theory. Okay? Now, what do I have to do from this theory? I have a very important law in this theory which we have already studied. That is called Snell's law. It has been discussed. What is that? The relationship between the angle of incidence 1 and angle of refraction 2. Now what is here? If I talk about the light theory, this light propagation, then some terms will be associated here. What is the term? Let's see first. This is called the incident ray which is on your medium n1. This is the incident ray. This is the reflected ray and this is the reflected ray. The reflected one. That is also called transmitted. Okay? Now the angle. Now this ray which is coming here, it forms an angle. And the angle is with what? This is your surface interface where your interfacing is happening. Okay? And this is a line normal to it. This is the line normal to the surface. Got it? So the angle which is formed between the incident ray and this normal, this angle is called phi. This is called the angle of incidence. The angle between the incident ray and the normal to the surface. Okay? Similarly, if I talk about your angle of refraction, then what will be the angle of refraction? The angle which is being formed between the refracted ray and the normal line, this is called angle of refraction. Always remember that this angle is between the normal and the incident ray. For an example, now when we will discuss in the next lecture, you will see this diagram something like this. Like this, this is the interface medium. This is n1 and this is n2 and this is supposed normal to the surface. This is normal to the surface. This is normal. Right? And this is the incident ray. This is the incident ray. So, this angle is called angle of incidence phi. This angle is called angle of incidence because this is I. Incident ray and this is normal line. So the angle which is formed between normal and incident ray is our phi. Similarly when it will reflect further, then the angle which is formed between refract and normal, this is your 2. So this is called angle of refraction. Is things clear? Okay? So this was our discussion about incident ray and angle of refraction and rough incidence in light propagation theory. Now, if I know this thing, then a very common law applies here at the interface. This is called Snell's law and according to that law n1 sin theta 1 equals n2 sin theta 2. Okay, sorry, I am saying theta, this is n1 sin 1 equals n2 sin 2 and if you say this angle, then this angle becomes 90 to 1 that is called theta 1. So basically here, if we write it like this sin 90 to 90 to 1, then this angle becomes 90 to 1. Basically here, if we write it like this sin 90 to 90 theta 1, 1, 90 theta 1, that is also again 1. Then what becomes this sin 90 theta 1? Cos theta 1, so this can be written as theta 1 cos theta 1 equals theta 2 cos theta 2, this can also be written as like this. This is also my business. Got it? So as per light theory. So the light theory which we are talking about. If you want to explain the light propagation in optical fiber. So what did I talk about first? First of all I talked in a simple way that when an incident ray is incident on your medium, then some part of it is reflected back to the same medium and some part of it is reflected to another medium. Then at the interface always there is a one law that exists. This is called Snell's law that is n1 sin 1 equals n2 sin 2 where 1 and 2 are called angle of incidence and angle of refraction. So what is angle of incidence? The angle phi between the incident ray and the normal to the surface is called angle of incidence always, and similarly the angle phi between the refracted ray and the normal to the surface is called angle of reflection refraction got it? Another term related to the same diagram is called plane of incidence. What is plane of incidence? Now the incident ray. Now this is the incident ray and the normal to the surface. This is the normal to the surface and the reflected ray and the reflected ray all lie in the same plane. All lies in the same plane which is perpendicular to the interface plane between two materials. Okay, in this plane, this plane of yours, this is called plane of incidence. This is called plane of incidence. Another thing is that is the angle of law of reflection. What does law of reflection say? As per law of reflection, the angle theta 1 at which the incident ray strikes the interface. Now see, this is the angle theta 1 which is formed between your interface incident ray and the interface. This angle is always equal to the angle that the reflected ray makes with the same interface. Means reflected ray if this is so, then from this ray which is being caused here theta 1. This angle and this angle is always equal. So here it is theta 1, here is theta 1. So this is called law of reflection. Alright? So these are some terms related to your light propagation or you can say related to the ray theory that how the light will propagate. We are just starting that. Meaning we are learning about that. How does the light propagate? What are the different parameters associated with our light propagation? Okay? So in this we still have to remember this one thing that when the light is incident on our an optical fiber, then some part is reflected some part is reflected. Okay? Now the condition of light propagation. This is called TIR. Now what is that? We just discussed that when our now suppose this is n1, this is a glass and this is a n2, this is air. And we can say this is aw some aw cladding which we discussed earlier that this is of plastic and aw glass whatever. For now, we are considering air and glass here. Okay? So when the wave is incident on this interface media, some part is reflected and some part is reflected. Right it? Here the angle of incidence is 1 and 2. Now what happens? As the angle of incidence 1 is optically denser medium becomes larger. Okay? If I talk about optically denser material where the optical ray can be more dense, if we talk about that type of material, then as soon as your 1 starts getting bigger, starts becoming larger, means this one becomes greater, then how will you see it? What I am trying to say is, suppose this is. So, if your 1 was this, and this is your 2, right? Now, if we say that in the next diagram, what has happened to our 1? It has increased. Now this is 1. So, our refracted 2 will also increase, right? Because this ray of yours, if it gets projected here, then this reflection will be over there. So this 2 will also increase. So as your 1 increases, which side is this 2 approaching? This 2 is approaching towards pi 2. Alright? So the same thing is written here that when the angle of incidence 1 becomes larger the refracted angle 2 approaches to pi 2 approaches to 90. Right? After that after this point no refraction is possible and the light becomes totally internally reflected. Meaning what is it trying to say is that there will come an angle where your refraction angle, the angle of refraction, will be what? 90 degrees. So that means you will see the condition in such a way that what is happening? In which your incident ray is there. But there is no reflected ray. What is happening to your whole body? The light will start getting completely reflected. Okay? At this particular angle, this particular condition when our incident angle is more than this angle and we say that and we say that this is the condition when the light which is happening incident is totally reflected. Nothing is passing on to the other medium. That is, if this is the core. If suppose I talk that this is core and this is clouding. Okay? So now we have come to this thing here that suppose this is our core and this is our outer field clouding. I will draw it here again for you. Suppose what I am trying to tell. This is suppose clouding and this is suppose core. So now what is happening from here? From here, nothing of yours will go to the outer portion. Means light is reflected reflected reflected reflected reflected reflected and reflected. So this is how it works on the basis of reflection. This condition is called TR. Okay? So this is called T condition. Now what I told you is again written here that if the angle of incidence is one increases a point will reach when the light ray is in air is parallel to the glass surface. We have called it air here. So a point will come where what is happening to you. Here your reflected refracted ray. This reflected ray is almost parallel to this glass surface. Okay? This angle of incidence is represented by C and this C is called critical angle. This phi is called critical angle. What happened to you there? Where the reflected ray becomes parallel to your surface. What do we call that angle? Critical angle. And when the incidence angle one is greater than C. That means this is the condition when one is greater than C. Then what happens? Then there is no reflection here. What will happen to the entire ray? Reflected back. Reflected back. Okay? So this condition is called total internal reflection. Okay? Which we have already read. Then the total condition for total internal reflection is satisfied. That is light is totally reflected back into the glass. Okay? So here the main thing is that many times critical angle is asked. So even if you define critical angle, you will have to take reference of T here. And if you are asked about TIR, then also you can explain it through these diagrams. What is trail? And this is the value of critical angle. How is critical angle calculated? Since C equals n2, n1 where n2 is the refractive index of your second medium and n1 is the refractive index of your first medium. So this is the formula used for the calculation of critical. Okay? So after learning this I will hope you can understand what do you mean by structure of the optical wave kind. If question comes you can attempt. What do you mean by clarifying refractive index? What is it? Now you know what is the value of trail. Theta equals C, V then. How the light propagated in the optical fiber. Now you can say how the light propagated in the optical fiber. Then what is the condition for light propagation in optical fiber? That is the total internal refraction TIR. Then what is the critical angle? Critical angle when the incident angle is equal to C. Ah, when the refracted rays almost become parallel to your what? To your surface. When the refracted rays are parallel to your surface then the incident single is called the C. Okay? So you should go through these topics once again so that you do not have any doubt because all the topics in light theory are going to be covered in the next lecture as well. We will take this light theory forward in the next lecture and we will talk about one is called two numerical things two parameters one is called numerical aperture and one is called acceptance angle. One is called acceptance angle. Okay? So until then go through this line theory once again. See you in the next lecture. Thank you."
+}

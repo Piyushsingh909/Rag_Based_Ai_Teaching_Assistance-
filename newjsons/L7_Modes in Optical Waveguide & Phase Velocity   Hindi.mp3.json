@@ -1,0 +1,243 @@
+{
+    "chunks": [
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 0.0,
+            "end": 36.0,
+            "text": "Hello all, welcome to the video lecture series of optical communication subject code is RECO75 and here we are in lecture number 7. So if we talk about the previous lecture, we covered electromagnetic mode theory for optical propagation which further confines our optical propagation. That is why the electromagnetic mode theory is used. And there we talked about M-wave. What is M-wave? How did we drive this M-wave through Maxwell equation? Now if we talk about this lecture, in this lecture we will see modes in a planar waveguide."
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 36.0,
+            "end": 46.0,
+            "text": "Which modes can propagate in our guide? What are the modes? And what is the fuzz velocity? So let's start. Modes in a planar waveguide."
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 46.0,
+            "end": 62.0,
+            "text": "So, to explain the mode, what is a mode? Basically to understand that we have considered a simple waveguide here. The planar guide is the simplest form of the optical waveguide. So here I am considering that planar guide. What is that?"
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 62.0,
+            "end": 88.0,
+            "text": "It consists of a slab of dielectric with refractive index n1. As we have already read that what is a refractive index n1 here? This is the core, ok? And this is sandwiched from both sides by a supporting material. This is called a cladding part by a refractive index of a refractive index n2 such as n1 must be greater than n2."
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 88.0,
+            "end": 116.0,
+            "text": "So it consists of a slab of dielectric with refractive index n1 sandwiched between two regions of lower refractive index n2. Now I am considering a plain monochromatic wave propagating in the direction of the ray path along the guide. That means we are considering a wave here. This is the wave which is propagating along the fiber of the along the axis of the fiber. And here the direction is shown for you."
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 116.0,
+            "end": 134.0,
+            "text": "This is the z direction and this is the x direction. So if I talk about the perpendicular axis of this fiber, which is it? x. And if we talk about the axis of this fiber, then this is z so basically the wave which is propagating here. In which direction is it propagating? It is propagating in the z direction."
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 134.0,
+            "end": 154.0,
+            "text": "Ok? So now after that it is mentioned here as the refractive index within the guide is n1. As soon as the wave enters here, here the wave enters. Wave 1 is entering here. Suppose this is a starting wave and the air here outside as we have seen earlier this is the outer surrounding medium which is our air."
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 154.0,
+            "end": 183.0,
+            "text": "From there your wave when the wave A enters inside this fiber. Then what is the refractive index of this fiber? n1 so here we have as soon as your wave A enters inside the fiber. The optical wavelength in this region is reduced to lambda n1 means the wave which was propagating from lambda earlier. With the wavelength of lambda now as the wave comes inside the fiber, its wavelength becomes lambda n1 that means it will be divided by n1 and what is that?"
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 185.0,
+            "end": 208.0,
+            "text": "n1 n1 is the refractive index of your core. Now, now, while the vacuum propagation constant is increased to n1k. Now our propagation constant, which we call beta, the propagation constant is called beta, ok? I told you in the last lecture, one is called alpha, one is called beta, ok? That is called the gamma propagation constant, alpha plus j beta, which we studied earlier also."
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 208.0,
+            "end": 226.0,
+            "text": "You must have seen it somewhere in the micro during F. So, alpha is called the attrition constant. Alpha is called a nation constant and beta is called fuzz constant. Ok. So, here we are talking that as soon as your wave enters our optical fiber."
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 226.0,
+            "end": 245.0,
+            "text": "Then its wavelength will be reduced by lambda, n1 wavelength will be reduced by a factor n1 and the propagation constant is increased by a factor k. Here if the propagation constant was beta earlier, then what will it become? It will increase by n1k. It will increase by a factor of n1k. Ok?"
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 245.0,
+            "end": 264.0,
+            "text": "So now if we talk about the wave that is transferring here, it is making an angle with the fiber, it is making an angle with the axis, this angle is theta. So, if we resolve this wave into two components, then one component is this one, in the direction of z. This is called the beta component, and one component is this one. This is in the direction of x. As I told you earlier, this is the direction of x."
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 264.0,
+            "end": 295.0,
+            "text": "So what will be its value? Beta x equals n1k sin theta. This is sin theta and this factor value becomes beta equals n1k cos of theta. Ok. So, simply definition, when theta is the angle between the wave propagation vector and the equivalent ray and the guide axis means, when theta is the angle between our guide axis and our equivalent ray, then the plane wave can be resolved into two components, in the plane propagating in the z direction and the x direction."
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 295.0,
+            "end": 331.0,
+            "text": "One component is beta, that is n1k cos theta and the second component is beta the tenth, that is n1k sin theta. Ok, so, if I talk about the theory till now, then simply we have considered a simplest form of waveguide, inside which n1, n2 that is a made up of core and cladding, supported by cladding and inside that we have considered a wave. When this wave makes an angle theta with a guided axis, then we have considered it to break into two parts. One is called the beta the tenth and one is called the beta z x direction propagation and z direction propagation. Ok?"
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 331.0,
+            "end": 366.0,
+            "text": "Now the next thing comes under this the component of the plane wave in the x direction is reflected at the interface between the higher and the lower reflective index media. That means the component of the plane wave in the x direction is reflected. Our component going in the x direction, this becomes reflected at the interface, this is the interface, this is the interface between n2 and n1. So it will reflect from this interface and back to the between the higher and lower index media. Your indexing happens in between this."
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 366.0,
+            "end": 381.0,
+            "text": "Now when the total phase change after two successive reflections. Now see this thing after two successive reflections. So what happened here, as soon as your wave started from here, this is the first reflection. After that wave comes over here. After this, this is the second reflection."
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 381.0,
+            "end": 419.0,
+            "text": "So, as soon as these two reflections are completed, here it is being said that this is the point P and this is the point Q, so the fuzz difference between these two, this is equal to two meters radians where m is any integer right now. So, as soon as this procedure of yours is completed, or we will say, the total fuzz change after two successive reflections becomes equal to two meters radians, then the standing wave will be produced like this. This is a standing wave pattern. This kind of wave pattern is obtained here. Due to the interference that will occur here, due to this reflection, because of that you get a standing wave produced here."
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 419.0,
+            "end": 439.0,
+            "text": "Then here, if I talk about m equals zero, here we have taken the value of m. This is m equals zero. Ah, if we talk about m being zero. So, the standing wave that we will get is where the electric field is a maximum at the center of the guide going towards zero at the boundary between the guide and the cladding. What does that mean?"
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 439.0,
+            "end": 457.0,
+            "text": "This is our standing wave. Now with standing wave, if I talk about the electric field in x direction, then if the value of our m is zero, this is the mode zero. So when m is zero, then the electric field that will be visible will be like this. It means that the entire field is maximum at the center. What is its value at the center?"
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 457.0,
+            "end": 470.0,
+            "text": "It is the highest. So, in this way, the value of our field is maximum at the center. This will be propagated and you can say distributed like this. Okay? Now, if we are talking about m equals one, m will be equals one."
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 470.0,
+            "end": 484.0,
+            "text": "So what will happen in case of m equals one? m equals one will be like this that this electric field of yours. This will cut your zero axis. This is zero field or this is zero level field. So it will cross this zero level field once."
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 484.0,
+            "end": 510.0,
+            "text": "Similarly, if I make m equals two, then this zero is crossing this zero axis at two points. Similarly, if you make m equals three, then here your cross will be down at three points. This is called different types of mode like T3 like T2 and T1. So these are the different types of mode. So if we were talking about our optical waveguide which is our optical wave when its phase difference,"
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 510.0,
+            "end": 543.0,
+            "text": "total phase difference between the two successive reflections becomes equal to two meters, then what do we get? We get standing wave pattern. Now once you get the standing wave pattern, here we will say that now the optical wave is effectively confined within the guide and the electric field distribution in the x direction does not change as the wave propagates in the z direction. Meaning this is your situation. As your wave propagates along the z direction, your x field distribution is not going to change."
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 543.0,
+            "end": 567.0,
+            "text": "What is the reason that it is not changing? For a particular value of m for a particular value of m this electric field this electric field remains constant. This electric field remains constant and you can say this is a static field distribution. This is a static field stable field and static field distribution in the x direction. This is called a mode."
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 567.0,
+            "end": 601.0,
+            "text": "The stable field distribution in the x direction with only a periodic z dependence is known as mode. And a specific mode is obtained only when the angle between the propagation vector and the rays in the interface has a particular value. That means the value of your input theta will also be a common constant and the value of your m will also be a constant. On the basis of that your fuzz difference is generated. So this is all about the modes in a plane a wave guide that what are the modes and what is the impact of which mode or modes on our electrical field."
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 601.0,
+            "end": 622.0,
+            "text": "Now the second topic in this lecture is the fuzz velocity that is what is the fuzz velocity. So as we have read many times already read what is fuzz velocity. So what is fuzz velocity? What will you call fuzz velocity simply? The velocity inside the fiber. The velocity inside the fiber."
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 622.0,
+            "end": 647.0,
+            "text": "Like if I talk here suppose this is my fiber. This is my fiber. Okay? So your incoming input wave will come from here. So what is your medium here? Air. So in this air, what is the velocity that we say? This is 3 asterisk 10 to the power 8 meters per second. This is a light velocity. But as soon as your light wave comes in your fiber, then this will propagate with the velocity that is called a fuzz velocity."
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 647.0,
+            "end": 673.0,
+            "text": "Okay? And it is denoted by V p where V p is called omega, beta. This is the same old formula which we have already read. In case of EMFT, in case of transmission line, in case of waveguide. So how will we calculate the fuzz velocity? V p, V p equals omega, beta where omega is called angular velocity and beta is called propagation constant. Okay? Now what did we do here?"
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 673.0,
+            "end": 710.0,
+            "text": "Consider if we consider an infinite medium of reflective index n1 for propagation then the propagation constant may be written as what is the value of beta? n1 asterisk kn1 asterisk knk is basically what? 2 pi lambda n1 so beta becomes 2 pi lambda n1. Now if I put lambda what is the value of lambda? The value of lambda is cf so if you put 2 lambda here cf n1 then f will go up. It will become 2 pi f cn1 and what is our 2 pi f?"
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 710.0,
+            "end": 746.0,
+            "text": "That is omega that is representing omega. So that means this value can be written as omega cn1 and from here I can write the same thing if I have this term and this term is if I have beta equals bta equals omega cn1 so from here you bring beta to its up. Take c here. So cn1 becomes omega, beta okay? cn1 equals omega, beta and omega, beta is basically what? Omega, beta is basically fuzz velocity. So what is my fuzz velocity value? There for vp equals omega, beta equals cn1."
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 747.0,
+            "end": 770.0,
+            "text": "So this is the formula for fuzz velocity. Okay? So what it means is that your group fuzz velocity i.e. velocity inside the fiber this will be reduced by a factor n1 of light velocity. Meaning the signal which was propagating from the light velocity, what will be the velocity of that signal? That will be depend upon the value of n1 and if I say n1 is generally greater than 1."
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 770.0,
+            "end": 792.0,
+            "text": "So that means what is your velocity going to be? Your velocity will be less as compared to the light velocity. Got it? So this is all about the modes in a planar waveguide and what is the fuzz velocity inside your awe optical waveguide. In the next lecture, we are going to talk about another most important topic. This is called the group velocity."
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 792.0,
+            "end": 806.0,
+            "text": "Once we are done with the fuzz velocity here, we will talk about the group velocity. And there is another topic that is your evidence field. So we will meet in the next lecture with those topics. Until then, practice this once again. Fuzz velocity and modes in a planar waveguide."
+        },
+        {
+            "number": "L7",
+            "title": "Modes in Optical Waveguide & Phase Velocity   Hindi",
+            "start": 806.0,
+            "end": 807.0,
+            "text": "Thank you."
+        }
+    ],
+    "text": " Hello all, welcome to the video lecture series of optical communication subject code is RECO75 and here we are in lecture number 7. So if we talk about the previous lecture, we covered electromagnetic mode theory for optical propagation which further confines our optical propagation. That is why the electromagnetic mode theory is used. And there we talked about M-wave. What is M-wave? How did we drive this M-wave through Maxwell equation? Now if we talk about this lecture, in this lecture we will see modes in a planar waveguide. Which modes can propagate in our guide? What are the modes? And what is the fuzz velocity? So let's start. Modes in a planar waveguide. So, to explain the mode, what is a mode? Basically to understand that we have considered a simple waveguide here. The planar guide is the simplest form of the optical waveguide. So here I am considering that planar guide. What is that? It consists of a slab of dielectric with refractive index n1. As we have already read that what is a refractive index n1 here? This is the core, ok? And this is sandwiched from both sides by a supporting material. This is called a cladding part by a refractive index of a refractive index n2 such as n1 must be greater than n2. So it consists of a slab of dielectric with refractive index n1 sandwiched between two regions of lower refractive index n2. Now I am considering a plain monochromatic wave propagating in the direction of the ray path along the guide. That means we are considering a wave here. This is the wave which is propagating along the fiber of the along the axis of the fiber. And here the direction is shown for you. This is the z direction and this is the x direction. So if I talk about the perpendicular axis of this fiber, which is it? x. And if we talk about the axis of this fiber, then this is z so basically the wave which is propagating here. In which direction is it propagating? It is propagating in the z direction. Ok? So now after that it is mentioned here as the refractive index within the guide is n1. As soon as the wave enters here, here the wave enters. Wave 1 is entering here. Suppose this is a starting wave and the air here outside as we have seen earlier this is the outer surrounding medium which is our air. From there your wave when the wave A enters inside this fiber. Then what is the refractive index of this fiber? n1 so here we have as soon as your wave A enters inside the fiber. The optical wavelength in this region is reduced to lambda n1 means the wave which was propagating from lambda earlier. With the wavelength of lambda now as the wave comes inside the fiber, its wavelength becomes lambda n1 that means it will be divided by n1 and what is that? n1 n1 is the refractive index of your core. Now, now, while the vacuum propagation constant is increased to n1k. Now our propagation constant, which we call beta, the propagation constant is called beta, ok? I told you in the last lecture, one is called alpha, one is called beta, ok? That is called the gamma propagation constant, alpha plus j beta, which we studied earlier also. You must have seen it somewhere in the micro during F. So, alpha is called the attrition constant. Alpha is called a nation constant and beta is called fuzz constant. Ok. So, here we are talking that as soon as your wave enters our optical fiber. Then its wavelength will be reduced by lambda, n1 wavelength will be reduced by a factor n1 and the propagation constant is increased by a factor k. Here if the propagation constant was beta earlier, then what will it become? It will increase by n1k. It will increase by a factor of n1k. Ok? So now if we talk about the wave that is transferring here, it is making an angle with the fiber, it is making an angle with the axis, this angle is theta. So, if we resolve this wave into two components, then one component is this one, in the direction of z. This is called the beta component, and one component is this one. This is in the direction of x. As I told you earlier, this is the direction of x. So what will be its value? Beta x equals n1k sin theta. This is sin theta and this factor value becomes beta equals n1k cos of theta. Ok. So, simply definition, when theta is the angle between the wave propagation vector and the equivalent ray and the guide axis means, when theta is the angle between our guide axis and our equivalent ray, then the plane wave can be resolved into two components, in the plane propagating in the z direction and the x direction. One component is beta, that is n1k cos theta and the second component is beta the tenth, that is n1k sin theta. Ok, so, if I talk about the theory till now, then simply we have considered a simplest form of waveguide, inside which n1, n2 that is a made up of core and cladding, supported by cladding and inside that we have considered a wave. When this wave makes an angle theta with a guided axis, then we have considered it to break into two parts. One is called the beta the tenth and one is called the beta z x direction propagation and z direction propagation. Ok? Now the next thing comes under this the component of the plane wave in the x direction is reflected at the interface between the higher and the lower reflective index media. That means the component of the plane wave in the x direction is reflected. Our component going in the x direction, this becomes reflected at the interface, this is the interface, this is the interface between n2 and n1. So it will reflect from this interface and back to the between the higher and lower index media. Your indexing happens in between this. Now when the total phase change after two successive reflections. Now see this thing after two successive reflections. So what happened here, as soon as your wave started from here, this is the first reflection. After that wave comes over here. After this, this is the second reflection. So, as soon as these two reflections are completed, here it is being said that this is the point P and this is the point Q, so the fuzz difference between these two, this is equal to two meters radians where m is any integer right now. So, as soon as this procedure of yours is completed, or we will say, the total fuzz change after two successive reflections becomes equal to two meters radians, then the standing wave will be produced like this. This is a standing wave pattern. This kind of wave pattern is obtained here. Due to the interference that will occur here, due to this reflection, because of that you get a standing wave produced here. Then here, if I talk about m equals zero, here we have taken the value of m. This is m equals zero. Ah, if we talk about m being zero. So, the standing wave that we will get is where the electric field is a maximum at the center of the guide going towards zero at the boundary between the guide and the cladding. What does that mean? This is our standing wave. Now with standing wave, if I talk about the electric field in x direction, then if the value of our m is zero, this is the mode zero. So when m is zero, then the electric field that will be visible will be like this. It means that the entire field is maximum at the center. What is its value at the center? It is the highest. So, in this way, the value of our field is maximum at the center. This will be propagated and you can say distributed like this. Okay? Now, if we are talking about m equals one, m will be equals one. So what will happen in case of m equals one? m equals one will be like this that this electric field of yours. This will cut your zero axis. This is zero field or this is zero level field. So it will cross this zero level field once. Similarly, if I make m equals two, then this zero is crossing this zero axis at two points. Similarly, if you make m equals three, then here your cross will be down at three points. This is called different types of mode like T3 like T2 and T1. So these are the different types of mode. So if we were talking about our optical waveguide which is our optical wave when its phase difference, total phase difference between the two successive reflections becomes equal to two meters, then what do we get? We get standing wave pattern. Now once you get the standing wave pattern, here we will say that now the optical wave is effectively confined within the guide and the electric field distribution in the x direction does not change as the wave propagates in the z direction. Meaning this is your situation. As your wave propagates along the z direction, your x field distribution is not going to change. What is the reason that it is not changing? For a particular value of m for a particular value of m this electric field this electric field remains constant. This electric field remains constant and you can say this is a static field distribution. This is a static field stable field and static field distribution in the x direction. This is called a mode. The stable field distribution in the x direction with only a periodic z dependence is known as mode. And a specific mode is obtained only when the angle between the propagation vector and the rays in the interface has a particular value. That means the value of your input theta will also be a common constant and the value of your m will also be a constant. On the basis of that your fuzz difference is generated. So this is all about the modes in a plane a wave guide that what are the modes and what is the impact of which mode or modes on our electrical field. Now the second topic in this lecture is the fuzz velocity that is what is the fuzz velocity. So as we have read many times already read what is fuzz velocity. So what is fuzz velocity? What will you call fuzz velocity simply? The velocity inside the fiber. The velocity inside the fiber. Like if I talk here suppose this is my fiber. This is my fiber. Okay? So your incoming input wave will come from here. So what is your medium here? Air. So in this air, what is the velocity that we say? This is 3 asterisk 10 to the power 8 meters per second. This is a light velocity. But as soon as your light wave comes in your fiber, then this will propagate with the velocity that is called a fuzz velocity. Okay? And it is denoted by V p where V p is called omega, beta. This is the same old formula which we have already read. In case of EMFT, in case of transmission line, in case of waveguide. So how will we calculate the fuzz velocity? V p, V p equals omega, beta where omega is called angular velocity and beta is called propagation constant. Okay? Now what did we do here? Consider if we consider an infinite medium of reflective index n1 for propagation then the propagation constant may be written as what is the value of beta? n1 asterisk kn1 asterisk knk is basically what? 2 pi lambda n1 so beta becomes 2 pi lambda n1. Now if I put lambda what is the value of lambda? The value of lambda is cf so if you put 2 lambda here cf n1 then f will go up. It will become 2 pi f cn1 and what is our 2 pi f? That is omega that is representing omega. So that means this value can be written as omega cn1 and from here I can write the same thing if I have this term and this term is if I have beta equals bta equals omega cn1 so from here you bring beta to its up. Take c here. So cn1 becomes omega, beta okay? cn1 equals omega, beta and omega, beta is basically what? Omega, beta is basically fuzz velocity. So what is my fuzz velocity value? There for vp equals omega, beta equals cn1. So this is the formula for fuzz velocity. Okay? So what it means is that your group fuzz velocity i.e. velocity inside the fiber this will be reduced by a factor n1 of light velocity. Meaning the signal which was propagating from the light velocity, what will be the velocity of that signal? That will be depend upon the value of n1 and if I say n1 is generally greater than 1. So that means what is your velocity going to be? Your velocity will be less as compared to the light velocity. Got it? So this is all about the modes in a planar waveguide and what is the fuzz velocity inside your awe optical waveguide. In the next lecture, we are going to talk about another most important topic. This is called the group velocity. Once we are done with the fuzz velocity here, we will talk about the group velocity. And there is another topic that is your evidence field. So we will meet in the next lecture with those topics. Until then, practice this once again. Fuzz velocity and modes in a planar waveguide. Thank you."
+}

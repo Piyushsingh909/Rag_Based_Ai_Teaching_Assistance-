@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Optical Communication TA | RAG Assistant</title>
+
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #020617;
+            --bg-soft: #020617;
+            --card: rgba(15, 23, 42, 0.95);
+            --accent: #6366f1;
+            --accent-2: #ec4899;
+            --accent-soft: rgba(99, 102, 241, 0.12);
+            --accent-strong: rgba(129, 140, 248, 0.3);
+            --text-main: #e5e7eb;
+            --text-muted: #9ca3af;
+            --border-subtle: rgba(148, 163, 184, 0.25);
+            --danger: #f97373;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            min-height: 100vh;
+            font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+            background:
+                radial-gradient(circle at 0% 0%, rgba(129, 140, 248, 0.18), transparent 55%),
+                radial-gradient(circle at 100% 100%, rgba(236, 72, 153, 0.18), transparent 55%),
+                #020617;
+            color: var(--text-main);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 24px;
+        }
+
+        .shell {
+            width: 100%;
+            max-width: 1000px;
+        }
+
+        .card {
+            background: linear-gradient(
+                135deg,
+                rgba(15, 23, 42, 0.96),
+                rgba(2, 6, 23, 0.98)
+            );
+            border-radius: 26px;
+            border: 1px solid rgba(148, 163, 184, 0.25);
+            box-shadow:
+                0 24px 60px rgba(15, 23, 42, 0.9),
+                0 0 0 1px rgba(15, 23, 42, 0.7);
+            padding: 26px 28px 22px;
+            backdrop-filter: blur(18px);
+        }
+
+        .card-inner {
+            display: grid;
+            grid-template-columns: minmax(0, 1.05fr) minmax(0, 1.1fr);
+            gap: 26px;
+        }
+
+        .header {
+            margin-bottom: 18px;
+        }
+
+        .chip {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 4px 9px;
+            border-radius: 999px;
+            background: rgba(15, 23, 42, 0.9);
+            border: 1px solid var(--accent-strong);
+            font-size: 11px;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: #c7d2fe;
+        }
+
+        .chip-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 999px;
+            background: #22c55e;
+            box-shadow: 0 0 0 4px rgba(34, 197, 94, 0.25);
+        }
+
+        h1 {
+            margin: 8px 0 4px;
+            font-size: 26px;
+            font-weight: 600;
+            letter-spacing: 0.02em;
+        }
+
+        .subtitle {
+            margin: 0;
+            font-size: 13px;
+            color: var(--text-muted);
+        }
+
+        .badge-row {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            margin-top: 12px;
+        }
+
+        .pill {
+            padding: 5px 10px;
+            border-radius: 999px;
+            border: 1px solid rgba(148, 163, 184, 0.4);
+            font-size: 11px;
+            color: var(--text-muted);
+            background: rgba(15, 23, 42, 0.7);
+        }
+
+        .left-panel {
+            display: flex;
+            flex-direction: column;
+            gap: 18px;
+            justify-content: space-between;
+        }
+
+        .feature-card {
+            border-radius: 18px;
+            border: 1px solid rgba(148, 163, 184, 0.35);
+            background: radial-gradient(circle at top left, rgba(37, 99, 235, 0.18), rgba(15, 23, 42, 0.98));
+            padding: 14px 14px 12px;
+        }
+
+        .feature-title {
+            font-size: 13px;
+            text-transform: uppercase;
+            letter-spacing: 0.16em;
+            color: #9ca3af;
+            margin-bottom: 6px;
+        }
+
+        .feature-grid {
+            display: grid;
+            grid-template-columns: minmax(0, 1fr);
+            gap: 6px;
+        }
+
+        .feature-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 12px;
+            font-size: 12px;
+            color: var(--text-muted);
+        }
+
+        .feature-row span:first-child {
+            color: #e5e7eb;
+            font-weight: 500;
+        }
+
+        .bullets {
+            margin-top: 8px;
+            padding-left: 16px;
+            font-size: 12px;
+            color: var(--text-muted);
+        }
+
+        .bullets li {
+            margin-bottom: 4px;
+        }
+
+        .hint-box {
+            border-radius: 18px;
+            border: 1px dashed rgba(148, 163, 184, 0.4);
+            background: rgba(15, 23, 42, 0.7);
+            padding: 10px 12px;
+            font-size: 12px;
+            color: var(--text-muted);
+        }
+
+        .hint-box strong {
+            color: #e5e7eb;
+        }
+
+        /* Right panel – interaction */
+        .right-panel {
+            border-radius: 20px;
+            border: 1px solid rgba(148, 163, 184, 0.35);
+            background:
+                radial-gradient(circle at top right, rgba(236, 72, 153, 0.18), transparent 55%),
+                radial-gradient(circle at bottom left, rgba(59, 130, 246, 0.18), transparent 55%),
+                rgba(15, 23, 42, 0.98);
+            padding: 16px 16px 14px;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .field-label {
+            font-size: 12px;
+            font-weight: 500;
+            color: var(--text-muted);
+            margin-bottom: 6px;
+        }
+
+        textarea {
+            width: 100%;
+            min-height: 72px;
+            resize: vertical;
+            border-radius: 14px;
+            border: 1px solid var(--border-subtle);
+            background: rgba(15, 23, 42, 0.82);
+            padding: 10px 12px;
+            font-size: 13px;
+            color: var(--text-main);
+            outline: none;
+            transition: border 0.18s ease, box-shadow 0.18s ease, background 0.18s ease, transform 0.08s ease;
+        }
+
+        textarea::placeholder {
+            color: #6b7280;
+        }
+
+        textarea:focus {
+            border-color: var(--accent);
+            box-shadow:
+                0 0 0 1px rgba(129, 140, 248, 0.7),
+                0 0 0 6px rgba(79, 70, 229, 0.28);
+            background: radial-gradient(circle at top left, rgba(79, 70, 229, 0.16), rgba(15, 23, 42, 0.98));
+            transform: translateY(-1px);
+        }
+
+        .controls-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .hint {
+            font-size: 11px;
+            color: var(--text-muted);
+        }
+
+        .hint span {
+            color: #c7d2fe;
+            font-weight: 500;
+        }
+
+        .button-primary {
+            border: none;
+            border-radius: 999px;
+            padding: 8px 18px;
+            font-size: 13px;
+            font-weight: 500;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            cursor: pointer;
+            background: linear-gradient(135deg, #6366f1, #ec4899);
+            color: white;
+            letter-spacing: 0.02em;
+            box-shadow:
+                0 14px 32px rgba(79, 70, 229, 0.7),
+                0 0 0 1px rgba(191, 219, 254, 0.65);
+            transition: transform 0.12s ease, box-shadow 0.12s ease, filter 0.12s ease, background 0.12s ease;
+            white-space: nowrap;
+        }
+
+        .button-primary:hover:not(:disabled) {
+            transform: translateY(-1px);
+            filter: brightness(1.04);
+            box-shadow:
+                0 18px 40px rgba(79, 70, 229, 0.9),
+                0 0 0 1px rgba(219, 234, 254, 0.9);
+        }
+
+        .button-primary:active:not(:disabled) {
+            transform: translateY(0);
+            filter: brightness(0.98);
+            box-shadow:
+                0 10px 24px rgba(79, 70, 229, 0.75),
+                0 0 0 1px rgba(129, 140, 248, 0.9);
+        }
+
+        .button-primary:disabled {
+            opacity: 0.7;
+            cursor: default;
+            box-shadow:
+                0 6px 18px rgba(15, 23, 42, 0.9),
+                0 0 0 1px rgba(30, 64, 175, 0.6);
+        }
+
+        .button-icon {
+            width: 16px;
+            height: 16px;
+            border-radius: 999px;
+            border: 1px solid rgba(219, 234, 254, 0.8);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 10px;
+            background: rgba(15, 23, 42, 0.9);
+        }
+
+        .button-icon span {
+            display: block;
+            margin-top: -1px;
+        }
+
+        /* Answer panel */
+        .answer-wrapper {
+            margin-top: 4px;
+            border-radius: 14px;
+            border: 1px solid rgba(148, 163, 184, 0.35);
+            background: rgba(15, 23, 42, 0.9);
+            padding: 10px 11px 8px;
+            min-height: 90px;
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .answer-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            font-size: 11px;
+            color: var(--text-muted);
+        }
+
+        .status-pill {
+            padding: 3px 8px;
+            border-radius: 999px;
+            background: rgba(15, 23, 42, 0.95);
+            border: 1px solid rgba(148, 163, 184, 0.5);
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .status-dot {
+            width: 7px;
+            height: 7px;
+            border-radius: 999px;
+            background: #22c55e;
+        }
+
+        .status-dot.loading {
+            background: #eab308;
+            box-shadow: 0 0 0 3px rgba(234, 179, 8, 0.22);
+            animation: pulse 1.1s infinite ease-in-out;
+        }
+
+        .answer-body {
+            margin-top: 2px;
+            font-size: 13px;
+            line-height: 1.6;
+            white-space: pre-wrap;
+        }
+
+        .answer-empty {
+            font-size: 12px;
+            color: var(--text-muted);
+        }
+
+        .loading-dots {
+            display: inline-flex;
+            gap: 3px;
+            margin-left: 4px;
+        }
+
+        .loading-dots span {
+            width: 4px;
+            height: 4px;
+            border-radius: 999px;
+            background: #e5e7eb;
+            opacity: 0.35;
+            animation: bounce 1s infinite ease-in-out;
+        }
+
+        .loading-dots span:nth-child(2) {
+            animation-delay: 0.12s;
+        }
+
+        .loading-dots span:nth-child(3) {
+            animation-delay: 0.24s;
+        }
+
+        .error-text {
+            color: var(--danger);
+            font-size: 12px;
+        }
+
+        footer {
+            margin-top: 12px;
+            text-align: center;
+            font-size: 11px;
+            color: var(--text-muted);
+            opacity: 0.9;
+        }
+
+        footer span {
+            color: #c7d2fe;
+        }
+
+        @keyframes pulse {
+            0% { transform: scale(0.96); }
+            50% { transform: scale(1.12); }
+            100% { transform: scale(0.96); }
+        }
+
+        @keyframes bounce {
+            0%, 80%, 100% {
+                transform: translateY(0);
+                opacity: 0.35;
+            }
+            40% {
+                transform: translateY(-3px);
+                opacity: 1;
+            }
+        }
+
+        @media (max-width: 800px) {
+            .card-inner {
+                grid-template-columns: minmax(0, 1fr);
+            }
+        }
+
+        @media (max-width: 640px) {
+            .card {
+                border-radius: 22px;
+                padding: 20px 16px 16px;
+            }
+
+            h1 {
+                font-size: 22px;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="shell">
+    <div class="card">
+        <header class="header">
+            <div>
+                <div class="chip">
+                    <div class="chip-dot"></div>
+                    Optical Communication · RAG TA
+                </div>
+                <h1>Ask your Teaching Assistant</h1>
+                <p class="subtitle">
+                    Ask a question from your Optical Communication course and get an answer
+                    grounded in your lecture transcripts, with video & timestamp references.
+                </p>
+            </div>
+        </header>
+
+        <div class="card-inner">
+            <!-- LEFT SIDE: description / features -->
+            <section class="left-panel">
+                <div>
+                    <div class="badge-row">
+                        <div class="pill">LLM: Groq · llama-3.3-70b-versatile</div>
+                        <div class="pill">Retrieval: cosine · bge-m3</div>
+                        <div class="pill">Mode: Q&A (single turn)</div>
+                    </div>
+
+                    <div class="feature-card" style="margin-top: 14px;">
+                        <div class="feature-title">What this assistant does</div>
+                        <div class="feature-grid">
+                            <div class="feature-row">
+                                <span>Grounded answers</span>
+                                <span>From your Optical Communication videos</span>
+                            </div>
+                            <div class="feature-row">
+                                <span>Precise references</span>
+                                <span>Video number + timestamps</span>
+                            </div>
+                        </div>
+                        <ul class="bullets">
+                            <li>Ask where a concept is discussed in the course.</li>
+                            <li>Get a short explanation plus exact video segments.</li>
+                            <li>Works only for Optical Communication, not general topics.</li>
+                        </ul>
+                    </div>
+                    <div class="feature-card" style="margin-top: 14px;">
+                        <div class="feature-title">RAG-Based AI Teaching Assistant</div>
+                        <div class="feature-grid">
+                            <div class="feature-row">
+                                <span>That answers questions using your own course videos. It converts the lecture videos into text, splits the text into small chunks, and creates embeddings so the system can understand and search through them. When someone asks a question, the system finds the most relevant chunks from the lectures and sends them to an LLM, which then gives an accurate answer based only on your course material—just like a real teaching assistant.</span>
+                            </div>
+                        </div>
+                </div>
+            </section>
+
+            <!-- RIGHT SIDE: input + answer -->
+            <section class="right-panel">
+                <div>
+                    <div class="field-label">Your question</div>
+                    <textarea id="question" rows="3"
+                            placeholder="e.g. Where is group velocity explained in this Optical Communication course?"></textarea>
+                    <div class="controls-row">
+                        <div class="hint">
+                            Tip: press <span>CTRL+Enter</span> to send quickly.
+                        </div>
+                        <button id="ask-btn" class="button-primary">
+                            <div class="button-icon"><span>➜</span></div>
+                            <span>Ask Assistant</span>
+                        </button>
+                    </div>
+                </div>
+
+                <div class="answer-wrapper">
+                    <div class="answer-header">
+                        <span id="status-label">Waiting for your question…</span>
+                        <span class="status-pill">
+                            <span class="status-dot" id="status-dot"></span>
+                            <span id="status-mode">Idle</span>
+                        </span>
+                    </div>
+                    <div class="answer-body" id="answer-box">
+                        <span class="answer-empty">
+                            The answer will appear here. You’ll get:
+                            <br>• Which video(s) you should watch
+                            <br>• Start–end timestamps
+                            <br>• A short explanation of what’s covered there
+                        </span>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+
+    <footer>
+        Optical Communication Course RAG Assistant · <span>Live Demo (Flask + Groq + RAG)</span>
+    </footer>
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
