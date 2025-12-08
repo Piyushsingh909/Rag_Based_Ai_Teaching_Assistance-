@@ -1,13 +1,9 @@
-The electromagnetic theory is discussed in two video lectures: L6 and L7, and also briefly mentioned in L0 and L8.
+You're interested in learning about "Light Theory". 
 
-In video L6, it's discussed at two timestamps: 
-- 61.04–91.04 seconds, where the basics of electromagnetic waves and how they are derived from Maxwell's equations are introduced.
-- 91.04–119.04 seconds, where it's further explained how electromagnetic wave theory is used to improve the model for light propagation in an optical fiber.
+You can find information related to Light Theory in the following videos: 
+- Video L3 ("Optical Waveguide & Light Theory") at timestamps 602-626 seconds and 726-742 seconds, and 926-942 seconds. 
+- Video L6 ("Electromagnetic Theory Hindi") at timestamp 0-31.2 seconds.
 
-In video L7, it's mentioned at the beginning, from 0.0–36.0 seconds, as a topic covered in the previous lecture, and how it confines optical propagation.
+In these sections, we cover the basics of light propagation, including how light interacts with different mediums, the law of reflection, and the conditions for light propagation in optical fibers, such as Total Internal Reflection (TIR). 
 
-In video L0, there's a brief mention from 117.12–145.84 seconds, as part of an introduction to optical communication, including a quick review of electromagnetic wave theory.
-
-In video L8, it's mentioned from 0.0–32.76 seconds, as a topic covered in the previous lectures, specifically electromagnetic wave theory inside an optical waveguide.
-
-I hope that helps you find what you're looking for!
+Let me know if you have any further questions or need more clarification!

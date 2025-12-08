@@ -4,58 +4,57 @@ import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 import joblib
-import requests
 import os
 from dotenv import load_dotenv
 from groq import Groq
+from huggingface_hub import InferenceClient
 
-# ========= ENV (OPTIONAL) =========
+# ========= ENV SETUP =========
 load_dotenv()
 
-# ========= GROQ SETUP (DIRECT KEY) =========
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")  # ⚠️ don't push this to GitHub
-
+# ---- GROQ ----
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 if not GROQ_API_KEY:
-    raise ValueError("GROQ_API_KEY is empty. Please paste your actual key.")
+    raise ValueError("GROQ_API_KEY is empty. Please set it in your environment.")
 
 groq_client = Groq(api_key=GROQ_API_KEY)
+GROQ_MODEL_ID = "llama-3.3-70b-versatile"  # your chosen Groq chat model
 
-# Choose a Groq model
-GROQ_MODEL_ID = "llama-3.3-70b-versatile"
+# ---- HUGGING FACE (EMBEDDINGS) ----
+HF_TOKEN = os.getenv("HF_TOKEN")
+if not HF_TOKEN:
+    raise ValueError("HF_TOKEN is not set. Please add your Hugging Face token.")
+
+hf_client = InferenceClient(token=HF_TOKEN)
+HF_EMBED_MODEL = "BAAI/bge-m3"   # same family as you used with Ollama
 
 # ========= LOAD EMBEDDINGS ONCE =========
 # Make sure embeddings.joblib is in the same folder
 df = joblib.load("embeddings.joblib")
 
 
-# ========= OLLAMA EMBEDDING / INFERENCE =========
+# ========= EMBEDDING FUNCTION (HUGGING FACE) =========
 def create_embedding(text_list):
-    r = requests.post(
-        "http://localhost:11434/api/embed",
-        json={
-            "model": "bge-m3",
-            "input": text_list
-        }
-    )
-    r.raise_for_status()
-    embedding = r.json()["embeddings"]
-    return embedding
+    """
+    Create embeddings for a list of texts using Hugging Face Inference API
+    with BAAI/bge-m3 (or any compatible embedding model).
 
+    Returns: list of numpy arrays, one per input text.
+    """
+    embeddings = []
 
-# (Optional: not used by Flask, but kept if you still want it)
-def interference_ollama(prompt):
-    r = requests.post(
-        "http://localhost:11434/api/inference",
-        json={
-            "model": "llama3.2",
-            "prompt": prompt,
-            "stream": False
-        }
-    )
-    r.raise_for_status()
-    response = r.json()
-    print("Raw Ollama response:", response)
-    return response
+    for text in text_list:
+        # HF feature_extraction returns a list of vectors
+        vec = hf_client.feature_extraction(text, model=HF_EMBED_MODEL)
+        vec = np.array(vec)
+
+        # If it's 2D (seq_len, dim), pool to a single vector
+        if vec.ndim == 2:
+            vec = vec.mean(axis=0)
+
+        embeddings.append(vec)
+
+    return embeddings
 
 
 # ========= GROQ CHAT INFERENCE =========
@@ -94,10 +93,10 @@ def answer_question(incoming_query: str) -> str:
     Given a user question string, run RAG + Groq and return answer text.
     """
 
-    # Create embedding for user query
+    # 1) Create embedding for user query
     question_embedding = create_embedding([incoming_query])[0]
 
-    # Compute cosine similarities with stored embeddings
+    # 2) Compute cosine similarities with stored embeddings
     similarities = cosine_similarity(
         np.vstack(df["embedding"]),
         [question_embedding]
@@ -107,6 +106,7 @@ def answer_question(incoming_query: str) -> str:
     max_indx = similarities.argsort()[::-1][0:top_results]
     new_df = df.loc[max_indx]
 
+    # 3) Build prompt for Groq
     prompt = f'''I am teaching Optical Communication in this subject course. Here are video subtitle chunks containing video title, video number, start time in
 seconds, end time in seconds, and the text at that time:
 
@@ -129,6 +129,7 @@ If the question is unrelated to Optical Communication, say that you can answer o
     with open("prompt.txt", "w", encoding="utf-8") as f:
         f.write(prompt)
 
+    # 4) Call Groq
     response_text = interference_groq(prompt)
 
     # Optional: save response (debug)
