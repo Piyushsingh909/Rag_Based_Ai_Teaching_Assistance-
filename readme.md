@@ -2,7 +2,7 @@
 ## step 1 --- collect your videos
 Move all your video files to the videos folder
 
-## step 2 --- convert mp3 to json
+## step 2 --- convert video mp3 to json
 convert all the video mp3 files to json by running video_to_mp3
 
 ## step 3 --- Convert mp3 to json 
